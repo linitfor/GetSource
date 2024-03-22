@@ -44,7 +44,7 @@ jobs:
           #chmod +x autorun.sh
           #./autorun.sh
           wget https://epg.pw/test_channels_taiwan.txt
-          awk 'NR>10' ./test_channels_taiwan.txt > epg_tw.txt
+          awk 'NR>12' ./test_channels_taiwan.txt > epg_tw.txt
         
       - name: git add
         run: |

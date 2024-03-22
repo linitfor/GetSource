@@ -75,7 +75,20 @@ jobs:
           rm -rf ./ytnew.txt
           rm -rf ./TW1.txt
 
-          opencc -i TV.txt -o TV_TW.txt -c s2t.json
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: 7.4
+          tools: phpize
+          ini-values: extension=opencc
+
+      - name: Install OpenCC
+        run: |
+          sudo apt-get install opencc
+
+      - name: Start Translate
+        run: |
+          opencc -i ./TV.txt -o ./TV_TW.txt -c s2t.json
         
       - name: git add
         run: |

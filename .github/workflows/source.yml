@@ -95,7 +95,7 @@ jobs:
 
       - name: Sort TV Channel
         run: |
-          rm -rf ./TV_TW.txt
+          
           
           echo "第四台,#genre#" > ./TV_TW.txt
           

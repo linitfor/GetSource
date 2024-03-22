@@ -90,8 +90,12 @@ jobs:
 
       - name: Start Translate
         run: |
-          opencc -i ./TV.txt -o ./TV_TW.txt -c s2t.json
-        
+          opencc -i ./TV.txt -o ./TV_TW_tmp.txt -c s2t.json
+
+      - name: Sort TV Channel
+        run: |
+          source TV4CH_SORT
+          
       - name: git add
         run: |
           git add -A

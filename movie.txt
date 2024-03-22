@@ -23,7 +23,6 @@ HBO Signature[geo-blocked],https://epg.pw/stream/88a938cf5cb08389b252d22d056d430
 HBO Signature,https://epg.pw/stream/d9aa885cfe16554da1d006ade22fd9ee32031c8fe6caf993f5feaa386af432fc.ctv
 HBO Signature,https://epg.pw/stream/f444d7de38b926b04f9732ee61f2397e5aea62807d00069d4a1e33ca52458ff1.m3u8
 HBO Signature(USA),https://epg.pw/stream/0deb2915d916a21d93a4ce028c7e4ed9030ed84ebe604c7c5442c167d4e5dcae.ctv
-HBO Signature(USA),https://epg.pw/stream/6186e524d8281bdf8f248ec9a1b315642b703c6d379960c1a4703c5433956093.ctv
 HBO Signature(USA),https://epg.pw/stream/1bb3dfa3583a3d52517b37afa2767287147cbe4aeda30c692947d27a24b21be8.ctv
 HBO Signature(USA),https://epg.pw/stream/c35cd6d7f88fe2a82c058311daf5fcc0fb88b7cf4e65ad1749208300989138bc.ctv
 HBO Signature(USA),https://epg.pw/stream/d576abda9a5492fcecf94e243f29a744ce13d60ce8794af37a545e366062bfbf.ctv
@@ -37,7 +36,6 @@ HBO Signature(USA),https://epg.pw/stream/f1804ee4a4ba1d205d5ab793d3c77a05c76a316
 HBO Signature(USA),https://epg.pw/stream/95e33b8e89f7ca974c0af4978935db7d4995a34d7b508ce41cb0f4118841963c.ctv
 HBO Signature(USA),https://epg.pw/stream/43dd0919806d2a58215a45e898b413a7a5fa9e405aa2360e1ddfc95809adb057.ctv
 Cinemax,https://epg.pw/stream/9955daac4cec74664e4e4350687a2b1373be6892420c6b0e4ab7a7be4bad16a9.ctv
-Cinemax,https://epg.pw/stream/dd9d006e4bd30438f955ff719948cb000201225e39c8213c09e2a945dfd4b905.ctv
 Cinemax,https://epg.pw/stream/792be97b6ca779e21a444b3def19cd4f451e83a816238c75cd7bc081d763032a.ctv
 Cinemax,https://epg.pw/stream/8634da0eacfcf5c53f580598e0a6ddccd4a7a0e7fd9b2de87cffc34de6ac8e97.ctv
 Cinemax,https://epg.pw/stream/7832b36ef53bed20ed2c1fd17682401678f90faf9d4658b6f2f724cff50d769e.ctv
@@ -57,10 +55,9 @@ Cinemax,https://epg.pw/stream/0fb4c74aa544e560923d3704d20743f6307414f3b3cdf1843d
 Cinemax,https://epg.pw/stream/012a5f72f5e2658ae2c268c434f10001fb449507532a4c202f589a76ef09665b.ctv
 Cinemax,https://epg.pw/stream/c5fc6b0258b9b1c4dd610a33e45ca34a3a9db588928ee05e147f19c051dca054.ctv
 Cinemax,https://epg.pw/stream/951ea64fa7b24d34388530068c19750a14c888fce2baaca575c6af4a48c21bf0.m3u8
-Cinemax Action,https://epg.pw/stream/4d20ca1a9e8e071b4160293514b807d508c66dae1995517374027e11c5363930.ctv
 Cinemax Action,https://epg.pw/stream/3eb5084c7c0a24489932411f208eed23805aced144eb30fd5a85c877025f02e6.ctv
 Cinemax Action,https://epg.pw/stream/313bd5032634302e557087dcf884c9861a3f30ee193147de2eec2370d76ad35b.ctv
-Cinemax Action[geo-blocked],https://epg.pw/stream/9412f9246ec8ab5d3d96761cbdf6e1e7781ac6a8c4b35b0163de6a506ca38c37.ctv
+Cinemax Action,https://epg.pw/stream/9412f9246ec8ab5d3d96761cbdf6e1e7781ac6a8c4b35b0163de6a506ca38c37.ctv
 Cinemax Action,https://epg.pw/stream/460a1a43ac6bf2737319181d8e0405f3681e8d595d2103e328ecb0262076ea85.ctv
 Cinemax Action,https://epg.pw/stream/8f4db9ede12fe5635c7120ff28a681a8a1fb92261aa5bbf49974b44ccd0c1779.ctv
 Cinemax Action,https://epg.pw/stream/783cbdf53e847fe747a30263c8a493d02cdb16aa409d0f76ea0e46bc0364ad2d.ctv
@@ -73,7 +70,6 @@ Cinemax Action,https://epg.pw/stream/b8c2f42db14fa9cc4f103e7d875e4fff137376ed762
 Cinemax Action,https://epg.pw/stream/c8845b3503078722af83a8421443e490370087709d8c0b604952c46556cc6179.ctv
 Cinemax Moviemax,https://epg.pw/stream/51a1890636e4977c087bc7b03991457ecd04b98e586a766354dd7a9ae8d74ead.ctv
 Cinemax Moviemax,https://epg.pw/stream/2b20f2cd7e530c00aa2c97488ebf6072616cd6779cbe8da10499a462aaf384bf.ctv
-Cinemax Moviemax,https://epg.pw/stream/7750509d2e81d762ce83527fd241186cdd01ddc6e885621e11d7a53468ec948e.ctv
 Cinemax Moviemax,https://epg.pw/stream/8011e7b9c0df50d5cfb5ca0e646cc7208c7b087ea483b9848c0642bd347b21ce.ctv
 Cinemax Moviemax,https://epg.pw/stream/5e87742ee43ceec8e78459040783912d2823e9317cee03a359721a5f7b5121ee.ctv
 Cinemax Moviemax,https://epg.pw/stream/e9d9a36e2ef824c2a478a182c3dcc3143c4c023ae81c0893bff0f83dc5daa31f.ctv
@@ -88,7 +84,6 @@ Cinemax Moviemax,https://epg.pw/stream/1708bf8f17370a60541ba99301164524b423dacfb
 HBO 2[geo-blocked],https://epg.pw/stream/3eb2d1be1372ea4afafe3dbaf7d94cfcfe9cb496fe3ca8cdc469680222a3030b.m3u8
 HBO 2,https://epg.pw/stream/d60facfe447502f6faf2b5d07b173024ee58cc5032392efe7ec48ad8173c8bdc.ctv
 HBO 2,https://epg.pw/stream/deac669b5d2aaa1b57f1913f303c0cd9ad868cc728538647a386e09380bd66ed.m3u8
-HBO 2,https://epg.pw/stream/f1ebbbce2f729c201e1eccf5564c96bb4d0b84556af879e3a3a09e8dedda5c50.ctv
 HBO 2,https://epg.pw/stream/d71470e708024591a9887c9ae8c6822f64e9d1d9ce91dc8d22c86ebe24c3b2c8.ctv
 HBO 2,https://epg.pw/stream/86767ab496d22c0f8c1b4d8263a8a9fd125cf0da93a8322b2e4d8d72cf22191a.ctv
 HBO 2,https://epg.pw/stream/884a16e02f96b1d227ba42a146928fc23e2ec62e9338ad72f5f1af38c74f4b44.ctv

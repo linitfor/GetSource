@@ -45,11 +45,16 @@ jobs:
           #./autorun.sh
           wget https://epg.pw/test_channels_taiwan.txt
           awk 'NR>12' ./test_channels_taiwan.txt > epg_tw.txt
+          
 
           wget https://raw.githubusercontent.com/linitfor/MyTV/main/TW_only.txt
           head -n 12 ./TW_only.txt > ytnew.txt
-
-          paste ytnew.txt epg_tw.txt > TV.txt
+           
+          cat ytnew.txt epg_tw.txt > TV.txt
+          rm -rf ./test_channels_taiwan.txt
+          rm -rf ./TW_only.txt
+          rm -rf ./epg_tw.txt
+          rm -rf ./ytnew.txt
         
       - name: git add
         run: |

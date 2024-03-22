@@ -74,6 +74,8 @@ jobs:
           rm -rf ./epg_tw.txt
           rm -rf ./ytnew.txt
           rm -rf ./TW1.txt
+
+          opencc -i TV.txt -o TV_TW.txt -c s2t.json
         
       - name: git add
         run: |

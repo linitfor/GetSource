@@ -7,11 +7,24 @@ TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%
 中視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 臺視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
 東森財經新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E.m3u8
-
+民視,rtmp://f13h.mine.nu/sat/tv051
+臺視,rtmp://f13h.mine.nu/sat/tv071
+中視,rtmp://f13h.mine.nu/sat/tv091
+TVBS歡樂,rtmp://f13h.mine.nu/sat/tv421
+TVBS新聞,rtmp://f13h.mine.nu/sat/tv551
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+東森財經,rtmp://f13h.mine.nu/sat/tv571
+MoMo綜合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 Cafe Music BGM,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
 Hawaiian BGM_,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
 [Lofi Girl]peaceful piano radio,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_peaceful_piano_radio.m3u8
 [Lofi Girl]lofi hip hop radio,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
+
 
 
 萬秀豬王,https://raw.githubusercontent.com/linitfor/YTLive/main/%E8%90%AC%E7%A7%80%E8%B1%AC%E7%8E%8B.m3u8
@@ -125,19 +138,6 @@ TVBS HD,https://epg.pw/stream/f3f756c29fe4bed24cd514244dfd064eb80843e48922399a60
 東森戲劇,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 東森超視,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
 緯來體育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
-
-Star Movies HD, http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-HBO Signature,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-
-CN卡通頻道,https://epg.pw/stream/40db601c02f452f8f1a32dbfe219c93b1d1eb50d8fcfcf1e59348e28d7ef4ed8.m3u8
-
-
-
-
-
-
-
 外國,#genre#
 Star Movies,https://epg.pw/stream/e61d26f3b8a9fba6ceb851b916fd29093428d46c1c9e7f4eb0bc885b34b7a285.m3u8
 Star Movies,https://epg.pw/stream/5e953939ff5146840069023efee058dc5c5fcba928b800d18794eb5149c4c3a9.ctv

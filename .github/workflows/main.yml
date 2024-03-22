@@ -1,0 +1,125 @@
+# This is a basic workflow to help you get started with Actions
+
+name: GetSource
+
+# Controls when the action will run. 
+on:
+  schedule:
+    - cron: '0 0/3 * * *'
+    
+  pull_request:
+    branches:
+      - main
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      #- name: Run a one-line script
+      #  run: echo testing!
+
+      # Runs a set of commands using the runners shell 
+      - name: config
+        run: |
+          git pull
+          git config --global user.email "aaa@gmail.com"
+          git config --global user.name "aaa"
+      
+      
+      - name: Main
+        run: |
+          pwd
+          #chmod +x autorun.sh
+          #./autorun.sh
+          wget https://epg.pw/test_channels_taiwan.txt
+          
+          awk 'NR>12' ./test_channels_taiwan.txt > epg_tw.txt
+
+          echo "外國,#genre#" > movie.txt
+
+          wget https://epg.pw/test_channels_united_states.txt
+          wget https://epg.pw/test_channels_movies.txt
+          
+          grep "Star Movie" ./test_channels_united_states.txt >> movie.txt
+          grep "HBO HD" ./test_channels_united_states.txt >> movie.txt
+          grep "hbo2" ./test_channels_united_states.txt >> movie.txt
+          grep "HBO Family" ./test_channels_united_states.txt >> movie.txt
+          grep "HBO Signature" ./test_channels_united_states.txt >> movie.txt
+          
+          grep "Cinemax" ./test_channels_movies.txt >> movie.txt
+          grep "HBO 2"  ./test_channels_movies.txt >> movie.txt
+          grep "HBO 3"  ./test_channels_movies.txt >> movie.txt
+
+          wget https://raw.githubusercontent.com/linitfor/MyTV/main/TW_only.txt
+          head -n 140 ./TW_only.txt > ytnew.txt
+
+          cat movie.txt  epg_tw.txt > TV1.txt 
+          cat ytnew.txt  TV1.txt > TV.txt
+          sed -i 's/\[geo\-blocked\]//' ./TV.txt
+          
+          rm -rf ./test_channels_taiwan.txt*
+          rm -rf ./test_channels_movies.txt*
+          rm -rf ./test_channels_united_states.txt*
+          rm -rf ./TW_only.txt*
+          rm -rf ./epg_tw.txt*
+          rm -rf ./ytnew.txt*
+          rm -rf ./TW1.txt*
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: 7.4
+          tools: phpize
+          ini-values: extension=opencc
+
+      - name: Install OpenCC
+        run: |
+          sudo apt-get install opencc
+
+      - name: Start Translate
+        run: |
+          opencc -i ./TV.txt -o ./TV_TW_tmp.txt -c s2t.json
+
+      - name: Sort TV Channel
+        run: |
+          rm -rf ./TV_TW.txt
+
+echo "第四台,#genre#" > ./TV_TW.txt
+grep "民視," ./TV_TW_tmp.txt >> TV_TW.txt
+grep "人間衛視" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "台視", ./TV_TW_tmp.txt >> TV_TW.txt
+grep "大愛," ./TV_TW_tmp.txt >> TV_TW.txt
+grep "中視," ./TV_TW_tmp.txt >> TV_TW.txt
+grep "霹靂台灣" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "華視," ./TV_TW_tmp.txt >> TV_TW.txt
+grep "公視," ./TV_TW_tmp.txt >> TV_TW.txt
+grep "公視台語" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "好消息" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "原住民族電視" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "客家電視" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "BBC Earth" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "Discovery " ./TV_TW_tmp.txt >> TV_TW.txt
+grep "TLC 旅遊生活" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "動物星球" ./TV_TW_tmp.txt >> TV_TW.txt
+          
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "Link updated"
+          git push

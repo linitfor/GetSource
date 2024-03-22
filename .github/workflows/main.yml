@@ -57,8 +57,9 @@ jobs:
 
           wget https://raw.githubusercontent.com/linitfor/MyTV/main/TW_only.txt
           head -n 50 ./TW_only.txt > ytnew.txt
-           
-          cat ytnew.txt epg_tw.txt > TV.txt
+
+          cat movie.txt  epg_tw.txt > TV.txt 
+          cat ytnew.txt  TV.txt > TV.txt
           sed -i 's/\[geo\-blocked\]//' ./TV.txt
           
           rm -rf ./test_channels_taiwan.txt

@@ -95,24 +95,25 @@ jobs:
       - name: Sort TV Channel
         run: |
           rm -rf ./TV_TW.txt
-
-echo "第四台,#genre#" > ./TV_TW.txt
-grep "民視," ./TV_TW_tmp.txt >> TV_TW.txt
-grep "人間衛視" ./TV_TW_tmp.txt >> TV_TW.txt
-grep "台視", ./TV_TW_tmp.txt >> TV_TW.txt
-grep "大愛," ./TV_TW_tmp.txt >> TV_TW.txt
-grep "中視," ./TV_TW_tmp.txt >> TV_TW.txt
-grep "霹靂台灣" ./TV_TW_tmp.txt >> TV_TW.txt
-grep "華視," ./TV_TW_tmp.txt >> TV_TW.txt
-grep "公視," ./TV_TW_tmp.txt >> TV_TW.txt
-grep "公視台語" ./TV_TW_tmp.txt >> TV_TW.txt
-grep "好消息" ./TV_TW_tmp.txt >> TV_TW.txt
-grep "原住民族電視" ./TV_TW_tmp.txt >> TV_TW.txt
-grep "客家電視" ./TV_TW_tmp.txt >> TV_TW.txt
-grep "BBC Earth" ./TV_TW_tmp.txt >> TV_TW.txt
-grep "Discovery " ./TV_TW_tmp.txt >> TV_TW.txt
-grep "TLC 旅遊生活" ./TV_TW_tmp.txt >> TV_TW.txt
-grep "動物星球" ./TV_TW_tmp.txt >> TV_TW.txt
+          
+          echo "第四台,#genre#" > ./TV_TW.txt
+          
+          grep "民視," ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "人間衛視" ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "台視", ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "大愛," ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "中視," ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "霹靂台灣" ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "華視," ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "公視," ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "公視台語" ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "好消息" ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "原住民族電視" ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "客家電視" ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "BBC Earth" ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "Discovery " ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "TLC 旅遊生活" ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "動物星球" ./TV_TW_tmp.txt >> TV_TW.txt
           
       - name: git add
         run: |

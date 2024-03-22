@@ -49,7 +49,7 @@ jobs:
           
 
           wget https://raw.githubusercontent.com/linitfor/MyTV/main/TW_only.txt
-          head -n 12 ./TW_only.txt > ytnew.txt
+          head -n 50 ./TW_only.txt > ytnew.txt
            
           cat ytnew.txt epg_tw.txt > TV.txt
           rm -rf ./test_channels_taiwan.txt

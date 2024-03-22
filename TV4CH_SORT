@@ -1,6 +1,4 @@
-rm -rf ./TV_TW.txt
 
-echo "第四台,#genre#" > ./TV_TW.txt
 grep "民視," ./TV_TW_tmp.txt >> TV_TW.txt
 grep "人間衛視" ./TV_TW_tmp.txt >> TV_TW.txt
 grep "台視", ./TV_TW_tmp.txt >> TV_TW.txt

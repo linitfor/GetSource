@@ -90,7 +90,7 @@ jobs:
 
       - name: Start Translate
         run: |
-          opencc -i ./TV.txt -o ./TV_TW3.txt -c s2t.json
+          opencc -i ./TV.txt -o ./TV_TW.txt -c s2t.json
           opencc -i ./TV.txt -o ./TV_TW_tmp.txt -c s2t.json
 
       - name: Sort TV Channel
@@ -99,8 +99,96 @@ jobs:
           
           echo "第四台,#genre#" > ./TV_TW.txt
           
-          #grep "民視," ./TV_TW_tmp.txt >> TV_TW2.txt
-          source TV4CH_SORT
+          grep "民視," ./TV_TW_tmp.txt >> TV_TW2.txt
+          grep "人間衛視" ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "台視", ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "大愛," ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "中視," ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "霹靂台灣" ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "華視," ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "公視," ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "公視台語" ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "好消息" ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "原住民族電視" ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "客家電視" ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "BBC Earth" ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "Discovery " ./TV_TW_tmp.txt >> TV_TW.txt
+          grep "TLC 旅遊生活" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "動物星球" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "CN卡通" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "尼克兒童" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "momo親子" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "東森幼幼" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "緯來綜合" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "八大第一" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "八大綜合" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "三立台灣" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "三立都會" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "韓國娛樂台KMTV" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "東森綜合" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "超視" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "東森購物2" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "momo購物2" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "中天綜合" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "東風衛視" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "年代MUCH" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "中天娛樂" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "東森戲劇" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "八大戲劇" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "TVBS歡樂" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "緯來戲劇" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "高點電視" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "東森購物3" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "東森購物1" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "momo購物1" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "三立iNEWS" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "三立Live" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "壹電視新聞" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "年代新聞" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "東森新聞" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "華視新聞資訊" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "民視新聞" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "三立新聞" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "三立Live+" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "TVBS新聞" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "TVBS " ./TV_TW_tmp.txt >> TV_TW.txt
+grep "東森財經新聞" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "非凡新聞" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "viva購物1" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "東森購物5" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "CATCHPLAY" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "東森電影" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "緯來電影" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "LS龍祥電影" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "HBO" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "東森洋片" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "AXN" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "好萊塢電影" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "amc電影" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "CINEMAX" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "緯來育樂" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "緯來體育" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "DAZN 1" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "DAZN 2" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "MOMO綜合" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "博斯運動一" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "緯來日本" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "國興衛視" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "BBC Lifestyle" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "靖天購物一" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "Animax()" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "信吉電視" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "JET 綜合" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "中台灣生活網" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "寰宇新聞" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "鏡電視新聞" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "冠軍電視" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "Z" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "ETtoday綜合" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "非凡商業" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "八大娛樂" ./TV_TW_tmp.txt >> TV_TW.txt
+          
+       
 
           
       - name: git add

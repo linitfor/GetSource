@@ -97,6 +97,9 @@ jobs:
       - name: Sort TV Channel
         run: |
           grep "民視," ./TV_TW_tmp.txt >> ./TV_TW.txt
+          grep "人間衛視" ./TV_TW_tmp.txt >> ./TV_TW.txt
+          grep "台視", ./TV_TW_tmp.txt >> ./TV_TW.txt
+          grep "大愛," ./TV_TW_tmp.txt >> ./TV_TW.txt
 
       - name: git add
         run: |

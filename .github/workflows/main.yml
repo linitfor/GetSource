@@ -44,6 +44,7 @@ jobs:
           #chmod +x autorun.sh
           #./autorun.sh
           wget https://epg.pw/test_channels_taiwan.txt
+          sed -i 's/\[geo\-blocked\]//' ./test_channels_taiwan.txt
           awk 'NR>12' ./test_channels_taiwan.txt > epg_tw.txt
           
 

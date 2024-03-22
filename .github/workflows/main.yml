@@ -57,6 +57,7 @@ jobs:
           grep "hbo2" ./test_channels_united_states.txt >> movie.txt
           grep "HBO Family" ./test_channels_united_states.txt >> movie.txt
           grep "HBO Signature" ./test_channels_united_states.txt >> movie.txt
+          
           grep "Cinemax" https://epg.pw/test_channels_movies.txt >> movie.txt
           grep "HBO 2"  https://epg.pw/test_channels_movies.txt >> movie.txt
           grep "HBO 3"  https://epg.pw/test_channels_movies.txt >> movie.txt

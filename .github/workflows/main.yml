@@ -44,14 +44,23 @@ jobs:
           #chmod +x autorun.sh
           #./autorun.sh
           wget https://epg.pw/test_channels_taiwan.txt
-          sed -i 's/\[geo\-blocked\]//' ./test_channels_taiwan.txt
-          awk 'NR>12' ./test_channels_taiwan.txt > epg_tw.txt
           
+          awk 'NR>12' ./test_channels_taiwan.txt > epg_tw.txt
+
+          echo "外國頻道,#genre#" > movie.txt
+
+          wget https://epg.pw/test_channels_united_states.txt
+          grep "Star Movie" ./test_channels_united_states.txt >> movie.txt
+          grep "HBO HD" ./test_channels_united_states.txt >> movie.txt
+          grep "HBO Family" ./test_channels_united_states.txt >> movie.txt
+          grep "HBO Signature" ./test_channels_united_states.txt >> movie.txt
 
           wget https://raw.githubusercontent.com/linitfor/MyTV/main/TW_only.txt
           head -n 50 ./TW_only.txt > ytnew.txt
            
           cat ytnew.txt epg_tw.txt > TV.txt
+          sed -i 's/\[geo\-blocked\]//' ./TV.txt
+          
           rm -rf ./test_channels_taiwan.txt
           rm -rf ./TW_only.txt
           rm -rf ./epg_tw.txt

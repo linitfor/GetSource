@@ -53,6 +53,8 @@ Star Movies,https://epg.pw/stream/e61d26f3b8a9fba6ceb851b916fd29093428d46c1c9e7f
 Star Movies,https://epg.pw/stream/5e953939ff5146840069023efee058dc5c5fcba928b800d18794eb5149c4c3a9.ctv
 HBO HD,https://epg.pw/stream/97546f80c3ce895d9c8f106f502e98028c4ae67fd91da81be0cb42ec506f90b8.ctv
 HBO HD,https://epg.pw/stream/724a85adf3999e1c0a71a934905c823c9f3329043da842d5e0cf6f942cd5b9ae.ctv
+hbo2,https://epg.pw/stream/5dff9bb433f87864ace339d470271bb456b859e397fbc5d4d5d0316310ee8ba9.m3u8
+hbo2,https://epg.pw/stream/ba579f30394562f8ef22e8ed78ad67b988454c3dc9e2cacb6671ad7582150201.m3u8
 HBO Family,https://epg.pw/stream/104bdb81b12cb7fca728b0f61f3e9b014cc81b200420d5b049f28a56a4767263.m3u8
 HBO Family,https://epg.pw/stream/5f6c7675f4860477f52ee6abd1cc8cba92a992c90f7b3e1ba539658ecbe07bd3.ctv
 HBO Family,https://epg.pw/stream/7513daa08a732acbadcf9c220ba81e475f2d9b2198afd937e69adc2e53512fa0.m3u8

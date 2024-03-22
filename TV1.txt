@@ -391,7 +391,7 @@ petclub hd,https://epg.pw/stream/de8e64dbbc14a0284ad805a67edc279bde1fc6ec898904a
 petclub hd,https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8
 「河南」新野综合[geo-blocked],https://epg.pw/stream/e22466cc931f87ee3348117d7805f44f25f699df8a5b91430e2fc4039b901076.m3u8
 「河南」新野综合,https://epg.pw/stream/730624d47482fed3331196e40e506833a98c72142af419b50c098c0fdedb850b.m3u8
-「河南」新野综合,https://epg.pw/stream/cafaabad1135f6c9878b36cde44e6944d4a367be11007c3458b7c82582d9c4bd.ctv
+「河南」新野综合[geo-blocked],https://epg.pw/stream/cafaabad1135f6c9878b36cde44e6944d4a367be11007c3458b7c82582d9c4bd.ctv
 「河南」新野综合[geo-blocked],https://epg.pw/stream/0686ee5a476df9816cdbe3abf8b1bf85b74b0cfbc6e0eebce68d86d0e84c1a80.m3u8
 「河南」新野综合,https://epg.pw/stream/6ab2a2e7ba69c1875adb1017afd6a908963105d2cfd5034319ee1b89b37d1ae5.ctv
 「河南」新野综合,https://epg.pw/stream/41876d905e585a7cc355b72cc23f838b04bbdd932ed64c523f6cdefe7281165c.ctv

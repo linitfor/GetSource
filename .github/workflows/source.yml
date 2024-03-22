@@ -100,7 +100,6 @@ jobs:
           grep "人間衛視" ./TV_TW_tmp.txt >> ./TV_TW.txt
           grep "台視", ./TV_TW_tmp.txt >> ./TV_TW.txt
           grep "大愛," ./TV_TW_tmp.txt >> ./TV_TW.txt
-
       - name: git add
         run: |
           git add -A

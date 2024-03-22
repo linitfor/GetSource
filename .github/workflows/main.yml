@@ -70,6 +70,8 @@ jobs:
           sed -i 's/\[geo\-blocked\]//' ./TV.txt
           
           rm -rf ./test_channels_taiwan.txt*
+          rm -rf ./test_channels_movies.txt*
+          rm -rf ./test_channels_united_states.txt*
           rm -rf ./TW_only.txt*
           rm -rf ./epg_tw.txt*
           rm -rf ./ytnew.txt*

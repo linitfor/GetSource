@@ -34,8 +34,8 @@ jobs:
       - name: config
         run: |
           git pull
-          git config --global user.email "linitfor.us@gmail.com"
-          git config --global user.name "linitfor"
+          git config --global user.email "aaa@gmail.com"
+          git config --global user.name "aaa"
       
       
       - name: Main
@@ -43,7 +43,8 @@ jobs:
           pwd
           #chmod +x autorun.sh
           #./autorun.sh
-          wget https://epg.pw/test_channels_taiwan.txt | awk 'NR>10'
+          wget https://epg.pw/test_channels_taiwan.txt
+          awk 'NR>10' https://raw.githubusercontent.com/linitfor/GetSource/main/test_channels_taiwan.txt > epg_tw.txt
         
       - name: git add
         run: |

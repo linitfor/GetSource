@@ -90,16 +90,16 @@ jobs:
 
       - name: Start Translate
         run: |
-          opencc -i ./TV.txt -o ./TV_TW.txt -c s2t.json
+          opencc -i ./TV.txt -o ./TV_TW2.txt -c s2t.json
           opencc -i ./TV.txt -o ./TV_TW_tmp.txt -c s2t.json
 
       - name: Sort TV Channel
         run: |
-          rm -rf ./TV_TW2.txt
+          rm -rf ./TV_TW.txt
           
           echo "第四台,#genre#" > ./TV_TW.txt
           
-          grep "民視," ./TV_TW_tmp.txt >> TV_TW2.txt
+          grep "民視," ./TV_TW_tmp.txt >> TV_TW.txt
           grep "人間衛視" ./TV_TW_tmp.txt >> TV_TW.txt
           grep "台視", ./TV_TW_tmp.txt >> TV_TW.txt
           grep "大愛," ./TV_TW_tmp.txt >> TV_TW.txt

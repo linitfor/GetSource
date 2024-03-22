@@ -48,6 +48,7 @@ jobs:
           awk 'NR>12' ./test_channels_taiwan.txt > epg_tw.txt
 
           echo "外國,#genre#" > movie.txt
+          echo "第四台,#genre#" > TV_TW.txt
 
           wget https://epg.pw/test_channels_united_states.txt
           wget https://epg.pw/test_channels_movies.txt
@@ -95,7 +96,6 @@ jobs:
 
       - name: Sort TV Channel
         run: |
-          echo "第四台,#genre#" > TV_TW.txt
           grep "民視," ./TV_TW_tmp.txt >> TV_TW.txt
           grep "人間衛視" ./TV_TW_tmp.txt >> TV_TW.txt
           grep "台視", ./TV_TW_tmp.txt >> TV_TW.txt

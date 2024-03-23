@@ -390,7 +390,6 @@ LOVE NATURE,https://epg.pw/stream/59c05b5f45ace2ee35d58a647079e8c79d2c9d622f35a2
 LOVE NATURE,https://epg.pw/stream/9738bfc90d9cd020ee8a9797361cfde7c85528dadd9638913a2dc0114384c687.m3u8
 Nat Geo(TW),https://epg.pw/stream/e9cbfa8672ca34172dab382da2dd3f8e5dd24a3710923924f1501faf3b7a0f64.ctv
 Nat Geo(TW),https://epg.pw/stream/91d61b540bae7482cbe1cfbf93a38cbfd6bd1cdba516c9376b89b958a5a3c89c.ctv
-Nat Geo(TW),https://epg.pw/stream/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.ctv
 Smithsonian Channel,https://epg.pw/stream/e9b55b0627ec0d41254df6d57f8f84d9519570dab7764510b4c609677fa22f66.ctv
 Smithsonian Channel,https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
 Smithsonian Channel,https://epg.pw/stream/5d01e41aac97a662b788b0dd68389b92e42817ef24700afbf942fc54652c6f9f.m3u8
@@ -567,7 +566,6 @@ petclub hd,https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed
 大愛2,https://epg.pw/stream/adefa4b3b335e22e458ee3232eb44832e815acd82cf7ad1c489d2d11274c700b.m3u8
 大愛2,https://epg.pw/stream/5fccf4a4972d39810ed6ac299db54c1cd33cf614dc04364ed982a90592ebff1f.m3u8
 大愛二臺,https://epg.pw/stream/1f3e158520af1be7f1dfdd5c56fe0393e54fe4bde8d8fbdfe04f74185117e9db.m3u8
-好消息,https://epg.pw/stream/e3823ebcbb226f0ca9bf92c0d893109277baef872c9ba9a6d4f60078318770a1.m3u8
 好消息,https://epg.pw/stream/797529276770285bb5212acd5798702e0db85532c78121a94f600759dec5dabf.m3u8
 好訊息 2,https://epg.pw/stream/99a7112e32330890db56fd04e059dc59c9fdc4bf19c9167967a3e22b131d2441.m3u8
 東森亞洲衛視,https://epg.pw/stream/72bc5a2041b950977a8bf9072b6ef130ed6e55bb2224c3c6ade7ee1e6736cc86.m3u8

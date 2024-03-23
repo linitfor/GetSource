@@ -18,7 +18,7 @@ HBO Family(USA),https://epg.pw/stream/b14a909e492cb06910a980e869428b5dd77c2e290a
 HBO Family(USA),https://epg.pw/stream/e8b239c98b36e891129b6f9bd7664c1308f595872fcd6e6aef263ba0a00958ea.ctv
 HBO Family(USA),https://epg.pw/stream/3b892cec46d6bdf7b6d349ff0edec0cd802eb61abb8b9e506141f9a7c6c02218.ctv
 HBO Signature,https://epg.pw/stream/4ab76c5d1a19d0d513b948e1de8b7dce4d5ed4d302f0b76c31036002a63586df.ctv
-HBO Signature[geo-blocked],https://epg.pw/stream/5973653763c576ac010e576157ad593db073443e01c32ffece31f3f0e8bc13f5.m3u8
+HBO Signature,https://epg.pw/stream/5973653763c576ac010e576157ad593db073443e01c32ffece31f3f0e8bc13f5.m3u8
 HBO Signature[geo-blocked],https://epg.pw/stream/54809efd6841b1d0ee0caeefe0d75647277344ff1c7d0f4840c7863123369265.m3u8
 HBO Signature[geo-blocked],https://epg.pw/stream/88a938cf5cb08389b252d22d056d43017a0cd8bbb266f0a488c624db1019587c.m3u8
 HBO Signature,https://epg.pw/stream/d9aa885cfe16554da1d006ade22fd9ee32031c8fe6caf993f5feaa386af432fc.ctv
@@ -213,7 +213,7 @@ el tv,https://epg.pw/stream/cce8173beff079fb1a58f57807f35720fd558fd042d46a3e372e
 緯來育樂[geo-blocked],https://epg.pw/stream/2a732300753dd501a544b41d3ed7a272642a8b4f251c1131636d36644ad3fbd0.m3u8
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來育樂[geo-blocked],https://epg.pw/stream/3791deb30b7bba8c51c4492c66e4533fb786249b546387ca93e2a8a044689529.m3u8
-華視,https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
+華視[geo-blocked],https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
 靖天國際[geo-blocked],https://epg.pw/stream/277e50975b5d7c770eae2dfc79404a5b49bdd3ea3fa284da631b33c809813920.m3u8
 靖天國際[geo-blocked],https://epg.pw/stream/008b7492f59e650ba35748ed3574761b770ddb195d7559017799911e8b8fcb4f.m3u8
 靖天綜合[geo-blocked],https://epg.pw/stream/fd6a2d196572e67cb8d49f16bcd9602af8b7408cd4e1e6a9e4ae988e80481df7.m3u8
@@ -234,7 +234,7 @@ momo親子台1[geo-blocked],https://epg.pw/stream/55805b62559de16ce2db20855919cd
 靖洋卡通[geo-blocked],https://epg.pw/stream/d90dda9616f1d8f3e8f1dffa889d3d76d7520176c2abe64620c94916fdfc7084.m3u8
 知識,#genre#
 DISCOVERY HD WORLD,https://epg.pw/stream/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8
-DISCOVERY SCIENCE TW[geo-blocked],https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8
+DISCOVERY SCIENCE TW,https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8
 Global Trekker,https://epg.pw/stream/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8
 Global Trekker,https://epg.pw/stream/315d997def5917ea5bcc0a4c05b7eaab81d844380a44ccf14af702c46e3936e3.m3u8
 LOVE NATURE,https://epg.pw/stream/5c121a90cc1ccdc9e049c6c059be91da09ac9e52387e1010cd366a27cd1b93d3.ctv
@@ -250,7 +250,6 @@ LOVE NATURE,https://epg.pw/stream/59c05b5f45ace2ee35d58a647079e8c79d2c9d622f35a2
 LOVE NATURE,https://epg.pw/stream/9738bfc90d9cd020ee8a9797361cfde7c85528dadd9638913a2dc0114384c687.m3u8
 Nat Geo(TW),https://epg.pw/stream/e9cbfa8672ca34172dab382da2dd3f8e5dd24a3710923924f1501faf3b7a0f64.ctv
 Nat Geo(TW),https://epg.pw/stream/91d61b540bae7482cbe1cfbf93a38cbfd6bd1cdba516c9376b89b958a5a3c89c.ctv
-Nat Geo(TW),https://epg.pw/stream/a920d05e5ca5c23ed112e7c8b33f6b2b44258e5a7f2d36465bccdbb8843d9590.ctv
 Smithsonian Channel,https://epg.pw/stream/e9b55b0627ec0d41254df6d57f8f84d9519570dab7764510b4c609677fa22f66.ctv
 Smithsonian Channel[geo-blocked],https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
 Smithsonian Channel[geo-blocked],https://epg.pw/stream/5d01e41aac97a662b788b0dd68389b92e42817ef24700afbf942fc54652c6f9f.m3u8
@@ -427,7 +426,6 @@ petclub hd,https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed
 大愛2,https://epg.pw/stream/adefa4b3b335e22e458ee3232eb44832e815acd82cf7ad1c489d2d11274c700b.m3u8
 大愛2,https://epg.pw/stream/5fccf4a4972d39810ed6ac299db54c1cd33cf614dc04364ed982a90592ebff1f.m3u8
 大爱二台[geo-blocked],https://epg.pw/stream/1f3e158520af1be7f1dfdd5c56fe0393e54fe4bde8d8fbdfe04f74185117e9db.m3u8
-好消息[geo-blocked],https://epg.pw/stream/e3823ebcbb226f0ca9bf92c0d893109277baef872c9ba9a6d4f60078318770a1.m3u8
 好消息,https://epg.pw/stream/797529276770285bb5212acd5798702e0db85532c78121a94f600759dec5dabf.m3u8
 好訊息 2[geo-blocked],https://epg.pw/stream/99a7112e32330890db56fd04e059dc59c9fdc4bf19c9167967a3e22b131d2441.m3u8
 東森亞洲衛視[geo-blocked],https://epg.pw/stream/72bc5a2041b950977a8bf9072b6ef130ed6e55bb2224c3c6ade7ee1e6736cc86.m3u8

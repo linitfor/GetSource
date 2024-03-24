@@ -96,7 +96,7 @@ jobs:
 
       - name: Sort TV Channel
         run: |
-          chomd +X ./run_SortTV
+          chmod +X ./run_SortTV
           ./run_SortTV
       #    grep "民視," ./TV_TW_tmp.txt >> ./TV_TW.txt
       #    grep "人間衛視" ./TV_TW_tmp.txt >> ./TV_TW.txt

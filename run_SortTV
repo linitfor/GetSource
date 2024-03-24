@@ -5,11 +5,11 @@ rm -rf ./TV_TW.txt
 
 echo "第四台,#genre#" >> TV_TW.txt
 
-echo "東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8  >> TV_TW.txt
-echo "TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8  >> TV_TW.txt
-echo "民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8  >> TV_TW.txt
-echo "三立Live,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive.m3u8 >> TV_TW.txt
-echo "三立Live+,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8 >> TV_TW.txt
+echo "東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8"  >> TV_TW.txt
+echo "TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%E8%81%9E.m3u8"  >> TV_TW.txt
+echo "民視新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8"  >> TV_TW.txt
+echo "三立Live,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive.m3u8" >> TV_TW.txt
+echo "三立Live+,https://raw.githubusercontent.com/linitfor/YTLive/main/%E4%B8%89%E7%AB%8BLive%2B.m3u8" >> TV_TW.txt
 
 grep "民視," ./TV_TW_tmp.txt >> TV_TW.txt
 grep "人間衛視" ./TV_TW_tmp.txt >> TV_TW.txt

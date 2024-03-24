@@ -89,7 +89,7 @@ grep "緯來日本" ./TV_TW_tmp.txt >> TV_TW.txt
 grep "國興衛視" ./TV_TW_tmp.txt >> TV_TW.txt
 grep "BBC Lifestyle" ./TV_TW_tmp.txt >> TV_TW.txt
 grep "靖天購物一" ./TV_TW_tmp.txt >> TV_TW.txt
-grep "Animax()" ./TV_TW_tmp.txt >> TV_TW.txt
+grep "Animax" ./TV_TW_tmp.txt >> TV_TW.txt
 grep "信吉電視" ./TV_TW_tmp.txt >> TV_TW.txt
 grep "JET 綜合" ./TV_TW_tmp.txt >> TV_TW.txt
 grep "中台灣生活網" ./TV_TW_tmp.txt >> TV_TW.txt

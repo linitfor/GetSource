@@ -138,7 +138,1311 @@ TVBS HD,https://epg.pw/stream/f3f756c29fe4bed24cd514244dfd064eb80843e48922399a60
 東森戲劇,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 東森超視,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
 緯來體育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
-外國,#genre#
+
+Star Movies HD, http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO Signature,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+
+CN卡通頻道,https://epg.pw/stream/40db601c02f452f8f1a32dbfe219c93b1d1eb50d8fcfcf1e59348e28d7ef4ed8.m3u8
+
+
+
+
+
+
+
+❤️常看第四臺,#genre#
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+民視,https://epg.pw/stream/151d9e43523a82c3a3bdaa1c54b08177028c783cdd72a2fa26442073dd59ffcb.ctv
+臺視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+臺視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
+華視,https://epg.pw/stream/b7de54beedd00c8b00197e11541eb6d5e70c856ed712b3b937689c24f476c135.m3u8
+動物星球,http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
+動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+動物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+動物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+Discovery,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+Discovery,http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+國家地理,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+探索動力,http://50.7.238.114:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+探索動力,http://198.16.100.90:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
+探索動力,http://198.16.100.90:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
+探索亞洲,http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+探索亞洲,http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+CN卡通頻道,https://epg.pw/stream/40db601c02f452f8f1a32dbfe219c93b1d1eb50d8fcfcf1e59348e28d7ef4ed8.m3u8
+東森幼幼臺,https://epg.pw/stream/11927c04bfc97c3c76188dcad74dc57ce6ff46386068fb5e28897f4bd96dc7d9.m3u8
+東森幼幼臺,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
+八大第一臺,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+八大綜合,https://epg.pw/stream/bf55b97f4a9d3ef464fe271e1f833771d5ce865b440a2b43fc6112ab93781e59.m3u8
+八大綜合,https://epg.pw/stream/1c2fc7d5c86079d1921eeab47c285feb04841a33c225de3c306625c9a1921d70.m3u8
+三立綜合,https://epg.pw/stream/8c10f3db2272351329e61e9ba90946eb48090e5e92d454b28c54fca692749184.m3u8
+三立臺灣,http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+三立臺灣,http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+三立戲劇臺,http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
+三立戲劇臺,http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+衛視中文,http://50.7.238.114:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
+衛視中文,http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8?tid=MB7B8325601583256015&ct=19249&tsum=88f84634240050b869fbbe8cfeb43cc7
+東森綜合,https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+東森超視,https://epg.pw/stream/19cb39b5599a5ea2cde824c81f55696b8f505d8ee3c6511ea3f37ea7ef1bf61b.ctv
+東森超視,https://epg.pw/stream/d339755bd21bd8a49854df2706bd95ca9f2d4bcdb0cbc035530e4e7421017270.m3u8
+東森超視,https://epg.pw/stream/c4bdb9e1c44e823ee9e33f3dbd887f65ffbdfe197707325552c2720a5b872d40.m3u8
+中天綜合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+中天綜合,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+中天娛樂,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+八大戲劇,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+八大戲劇,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
+東森戲劇,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+東森戲劇,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+愛爾達影劇,http://198.16.100.90:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+愛爾達影劇,http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+愛爾達影劇,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+緯來日本,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+Animax,https://epg.pw/stream/bf8b2ee2054e29c905611d47c54f2b15e6de0b5e865fed02b8cef5876e1bf99c.m3u8
+TVBS,https://epg.pw/stream/7bf245a4c5efc78cdd8c2dfefc1275e0eb779e2bbf1cfb24659b3154b6842acc.ctv
+TVBS,https://epg.pw/stream/fc7cee93a6ebe665262cb411fb3f025062699a10cf34a3d35e701ff82d070a17.ctv
+TVBS,https://epg.pw/stream/f3159caf3c70fa4085cd6659019c823cd0d96fe608c3c4f0bc4b721e8cac8f7f.ctv
+TVBS,https://epg.pw/stream/ec5424752740743749fb692056ad531d2c31be0d24838de3b2093e26cd085175.ctv
+TVBS,https://epg.pw/stream/b24ea75b5547a557c9eaab14ada1cbcfc1fb2f927c682aad461678671fed6157.ctv
+TVBS,https://epg.pw/stream/9f321e603a7d2e7ce1ec5043b310254e16c6ac23a521049f0b28aee1de571984.ctv
+TVBS,https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
+TVBS,https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8
+TVBS,https://epg.pw/stream/06baf79b6e6515fa271791223499a2ecf53f1917f24c680bfa8a7539162cce76.m3u8
+TVBS,https://epg.pw/stream/00c14f2d9028476600ce529e01307b3850eacdf925d087e697a7233c759200dd.ctv
+東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+東森電影,https://epg.pw/stream/a0dc58e79f2702dacfc8d1d2794daeb4aaee78932a920831739df7846a5fbc6a.m3u8
+東森電影,https://epg.pw/stream/955488b84e90b3d75fcc1ce2ee6319b04fa9237531d570de71d18325d3b02c14.m3u8
+緯來電影,http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
+龍祥電影,https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv
+HBO HD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+HBO HD,http://125.227.210.55:35210/VideoInput/play.ts
+HBO HD,https://epg.pw/stream/156d03c0710822ea87e710bd95411696255a5781cccce994c16990cc4cc3706e.ctv
+HBO HD,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO Signature,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HBO Hits,http://abcnew.site:8880/3ca7123n11/ewfr543ds/71037
+東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+東森洋片,https://epg.pw/stream/f01792b149a55cc131150c35d0c678d325563b064635315b40d4ad31bb52090e.m3u8
+東森洋片,https://epg.pw/stream/8b6c965b023696353ae23ce6216297fa6f2e13236497bcfe9d9955fb69be2259.m3u8
+AXN 臺灣,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+
+
+Star Movies,https://epg.pw/stream/e61d26f3b8a9fba6ceb851b916fd29093428d46c1c9e7f4eb0bc885b34b7a285.m3u8
+Star Movies,https://epg.pw/stream/5e953939ff5146840069023efee058dc5c5fcba928b800d18794eb5149c4c3a9.ctv
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+緯來體育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
+eleven sport 2,https://epg.pw/stream/5d72f17fbafcb20f44d1e2a68d514058df12e0e56686b8f5d98bf78cf897d046.m3u8
+博斯網球,https://epg.pw/stream/fd9af1d7c11c82c37a3be3f19f12ef180c338813082f3199123599f7c3df0b18.m3u8
+博斯高球,https://epg.pw/stream/7df20d4d0d04045e5722792bcd477b161e7f457e358e314dd7bc5f8bd828b294.m3u8
+博斯高球,https://epg.pw/stream/18836fba759dcf22c5a43fb1cac6ac80688e631a9c34e868b22830af01c26465.m3u8
+博斯魅力,https://epg.pw/stream/7627420b6c8dfc998f5845f2432ddefdab6584478ca029d3027e04afad71fa41.m3u8
+愛爾達體育1臺,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+愛爾達體育1臺,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+愛爾達體育1臺,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+愛爾達體育2臺,http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+愛爾達體育2臺,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+愛爾達體育2臺,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+愛爾達體育4臺,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
+愛爾達體育4臺,http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+
+
+
+🎬戲劇電影,#genre#
+八大戲劇,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+八大戲劇,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
+八大戲劇,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
+八大第一,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+八大綜合,http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d  
+八大綜合,http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d八大綜合,http://50.7.238.114:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
+
+八大綜合,http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+東森綜合,http://220.134.196.147:9553/index.m3u8
+東森綜合,http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+東森戲劇,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+東森戲劇,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+東森超視,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
+東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+東森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+三立臺灣,http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+三立臺灣,http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+三立戲劇臺,http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
+三立戲劇臺,http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+中天娛樂,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+中天綜合,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+中天綜合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+緯來日本,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+緯來電影,http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
+
+HBO HD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+HBO HD,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+
+HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO Signature,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HBO Hits,http://abcnew.site:8880/3ca7123n11/ewfr543ds/71037
+AXN 臺灣,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+
+Star Gold,https://epg.pw/stream/30b0a85cfe3bc1f14f58e67de96dd617654f5f95c9e37100b216edc84bfe01f2.m3u8
+Star Movies, http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+
+🏀體育旅遊,#genre#
+ELEVEN 體育1臺,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+愛爾達體育1臺,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+愛爾達體育1臺,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+愛爾達體育1臺,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+愛爾達體育2臺,http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+愛爾達體育2臺,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+愛爾達體育2臺,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+愛爾達體育4臺,http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+
+博斯高球1,http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+博斯高球2,http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+博斯魅力,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
+博斯網球,http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+博斯網球,http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+博斯網球,http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+博斯運動2,http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+博斯運動2,http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+GOODTVCH02真理臺,http://198.16.100.90:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
+TLC旅遊生活,http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+
+
+✈️探索知識,#genre#
+國家地理野生,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+動物星球,http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
+動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+動物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+動物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+探索動力,http://50.7.238.114:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+探索動力,http://198.16.100.90:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
+探索動力DMAX,http://198.16.100.90:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
+探索頻道,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+探索頻道,http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+探索亞洲,http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+探索亞洲,http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+
+
+
+🇹🇼臺灣第四臺,#genre#
+[VGA]壹新聞2,https://epg.pw/stream/9d36613edf4c8c2e9203b3ca2e842b28f509022c2ee0441cb511a9c214604591.m3u8
+[BD]壹新聞臺,https://epg.pw/stream/96c047cb20ff4e74cc6eb4d547294f7751010255674ca3a51547cd452be49b47.ctv
+東森新聞,https://epg.pw/stream/5b6b148362dea0001b704c6c6badd4ecd25e59d2e13f4e7a64a2e23ca8d77755.m3u8
+東森新聞,https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.ctv
+東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
+東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
+東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS歡樂臺,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event038/hls-ae-tv/index.m3u8
+三立新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+
+臺視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+
+東森戲劇,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+東森戲劇,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+
+八大戲劇,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
+八大戲劇,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
+
+八大第一,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+八大綜合,http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+
+東森綜合 HD,http://220.134.196.147:9553/index.m3u8
+東森超視,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
+
+
+
+中天娛樂,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+中天綜合,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+中天綜合,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+
+東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+
+緯來電影,http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
+
+HBO HD,https://epg.pw/stream/156d03c0710822ea87e710bd95411696255a5781cccce994c16990cc4cc3706e.ctv
+HBO HD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+HBO HD,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+
+HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO Signature,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HBO Hits,http://abcnew.site:8880/3ca7123n11/ewfr543ds/71037
+東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+AXN Taiwan,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+
+Star Movies,https://epg.pw/stream/e61d26f3b8a9fba6ceb851b916fd29093428d46c1c9e7f4eb0bc885b34b7a285.m3u8
+Star Movies,https://epg.pw/stream/5e953939ff5146840069023efee058dc5c5fcba928b800d18794eb5149c4c3a9.ctv
+
+
+BBC WORLD NEWS,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
+Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+
+
+🔗有線頻道,#genre#
+TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
+TVBS歡樂臺,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
+TVBS歡樂臺,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
+八大第一臺,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+八大戲劇,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+八大戲劇,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
+八大綜合,http://50.7.238.114:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
+八大綜合,http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+大愛電視,http://50.7.238.114:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
+大愛電視2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+東森LIVE,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
+東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+東森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+東森綜合,http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+公視,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
+好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+靖天國際臺,http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+靖天國際臺,http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+靖天卡通,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+美亞電影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+民視臺灣,http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+三立臺灣,http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+三立臺灣,http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+三立戲劇臺,http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
+三立戲劇臺,http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+臺視,http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
+衛視中文,http://50.7.238.114:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
+衛視中文臺,http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8?tid=MB7B8325601583256015&ct=19249&tsum=88f84634240050b869fbbe8cfeb43cc7
+中視經典,http://50.7.238.114:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+中視經典,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+中視經典,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+中天娛樂,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+中天綜合,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+EYETV旅遊,http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+EYETV戲劇,http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
+EYETV戲劇,http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
+
+🎵音樂,#genre#
+Cafe Music BGM channel,https://raw.githubusercontent.com/linitfor/YTLive/main/Cafe_Music_BGM_channel.m3u8
+Hawaiian_BGM_channel,https://raw.githubusercontent.com/linitfor/YTLive/main/Hawaiian_BGM_channel.m3u8
+Lofi_Girl_peaceful_piano_radio,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_peaceful_piano_radio.m3u8
+Lofi_Girl_lofi_hip_hop_radio,https://raw.githubusercontent.com/linitfor/YTLive/main/Lofi_Girl_lofi_hip_hop_radio.m3u8
+KTV必點男女對唱情歌臺語最新單曲2024,https://raw.githubusercontent.com/linitfor/YTLive/main/KTV%E5%BF%85%E9%BB%9E%E7%94%B7%E5%A5%B3%E5%B0%8D%E5%94%B1%E6%83%85%E6%AD%8C%E5%8F%B0%E8%AA%9E%E6%9C%80%E6%96%B0%E5%96%AE%E6%9B%B22024.m3u8
+
+📘新聞,#genre#
+三立INEWS FHD,https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8
+三立INEWS FHD,https://epg.pw/stream/65877e93c3818e479a35e771641827cb68668f181f380a31f09230e01f02fece.m3u8
+三立新聞,https://epg.pw/stream/4c272496a61a3b4cf50553f78220d3388e87ed9b0ccd9c440e46ab5f753c8771.m3u8
+三立新聞,https://epg.pw/stream/a5fc038f36087bfc6bb222c8082ca6e8fef103ce6b06a9f97613809d19895325.ctv
+東森新聞臺,https://epg.pw/stream/5b6b148362dea0001b704c6c6badd4ecd25e59d2e13f4e7a64a2e23ca8d77755.m3u8
+東森財經新聞臺,https://epg.pw/stream/a190c1d788033ba288c0a3096eeb131c4ff6bff70dae66a0e6ba131fc250c28c.m3u8
+中天新聞,https://epg.pw/stream/0db019b527d8501c2a097419c74c07400c6dd5eb79cab8970da78171043250b5.m3u8
+中天新聞,https://epg.pw/stream/5b84b0baf55fce778cffd1d5a35ef8e77dfb02436d82cd5a83dd78c61c90462e.m3u8
+中視新聞,https://epg.pw/stream/82f32d75a3fc48001b26514205937c92561b5540c3d1f21b644c86c17dd4ea63.m3u8
+中視新聞臺,https://epg.pw/stream/6a353ec254f32e5ec540b3a4a78c94313270398df5c95a7111177ebe943424b2.m3u8
+臺視新聞,https://epg.pw/stream/a68a66899669d90058ad8baacda8c9e59ba8b2c5ab1fb74e50ac7d3bc971e25b.m3u8
+臺視新聞,https://epg.pw/stream/4b4e47c5487fd635bc3a721c3ecff2698d44492b1db12412f5b8abc9597a911f.m3u8
+臺視新聞,https://epg.pw/stream/4acb9a6c8a472aac28a3fd615726607ef653aba1ec1bd47a4b743365841661b9.m3u8
+臺視新聞,https://epg.pw/stream/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
+臺視新聞,https://epg.pw/stream/b9fa8d19fa8492880b9c9f66eca6111adf20aee719d3cb1e4a027168ca382510.m3u8
+臺視新聞,https://epg.pw/stream/eac1d72af640b2368193c724070f1cceb6892b6cb329e871864697f1905af047.m3u8
+臺視新聞,https://epg.pw/stream/96afb8d6fa20bb65a774f91d5caa60abc507e35ade518c7992f5f652cadd0914.m3u8
+臺視新聞,https://epg.pw/stream/a399e85fa5940ba0350181fdfa9e103f3556324a504c5cb5ef35c0c4f9a04c36.m3u8
+臺視新聞,https://epg.pw/stream/1e6f4fea556314599d76bcf7a81101aa774142e1bd344e2354f552f5ca2ea562.m3u8
+臺視新聞,https://epg.pw/stream/d3230731a96387dccb11e86bafb66b5715c55e8b3033cbf183d4972995cea362.m3u8
+臺視新聞,https://epg.pw/stream/d388b721bbe24174167197bd8df71614187bcb174879a301f1bc24ff2d8d6136.m3u8
+臺視新聞,https://epg.pw/stream/07420afeb8a2edf0654aac4b73fe562896504712677577e2929d4425986b3415.m3u8
+臺視新聞,https://epg.pw/stream/7e38e8d94c527c78eb0b414d29e8100d0bf3f90d5c73ce799795fe3785675319.m3u8
+臺視新聞 hd,https://epg.pw/stream/323de3953f32eaf0c224d78f1db77be185fa7ce9245786b3bd95d462d86d08d8.m3u8
+臺視新聞 hd,https://epg.pw/stream/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
+壹新聞,https://epg.pw/stream/9d36613edf4c8c2e9203b3ca2e842b28f509022c2ee0441cb511a9c214604591.m3u8
+寰宇新聞,https://epg.pw/stream/1a8764d080afe4b8543f76b10ec64c55d4ae232d73ac71da514a7ba834f2b0e6.m3u8
+東森財經,https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8
+民視新聞,https://epg.pw/stream/7270ae89dc1f30cfec2c03d01b6e2fbc50863f60936b534814dfd28caa72181e.m3u8
+民視新聞,https://epg.pw/stream/9d0c0065e0765bccc3f375d947bbb75efe5461443d6c1e06c7d37d6f57e26358.m3u8
+民視新聞,https://epg.pw/stream/a86836147e5d487b35ebac0fabb528a47e58735e8ba039e635c1f8e24c7a7066.m3u8
+民視新聞,https://epg.pw/stream/c5164ddd2983de1b83d87250bb921836d47363c90dc4643440e92060c18e98e6.m3u8
+民視新聞,https://epg.pw/stream/357581cc08ace7ef32a04c9c53578fe9906e137989e1f5e0355395f7a3ae8e37.m3u8
+民視新聞,https://epg.pw/stream/9e0c5226b50fcd68d592dc0ae62154c62a9fd50732329250ee0daf4879ccae49.m3u8
+民視新聞,https://epg.pw/stream/1d469cbfb06b06cde4dc59c21272a4e6da364621e97513d03523c96d0c7afe1e.m3u8
+民視新聞,https://epg.pw/stream/59efca9eea64079ba2ac54830e73469d9a1027e2dfd67d768bd4206567866cdb.m3u8
+民視新聞 hd,https://epg.pw/stream/2603220ae7a890e8e1027a6362e9aaec880131ce06da58c4e89365ce6d410772.m3u8
+民視新聞 hd,https://epg.pw/stream/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc510aa794d313.m3u8
+民視新聞 hd,https://epg.pw/stream/c8bfbc31e5af4b4d07b7222dc9ac9315dd57fbd663daafea3ce611c5bc57cf83.m3u8
+民視新聞 hd,https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8
+鏡新聞,https://epg.pw/stream/7c8a28dfeb9e82036981556c17af9c6b3b6e773b9655935586ddac53008f8601.m3u8
+taiwan plus tv,https://epg.pw/stream/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
+taiwan plus tv,https://epg.pw/stream/6091ad6cc6d6148f389e12d0d120ca066b23cc7e826c21f69ad999f2671fc6bc.m3u8
+
+
+📗電影,#genre#
+東森電影,https://epg.pw/stream/a0dc58e79f2702dacfc8d1d2794daeb4aaee78932a920831739df7846a5fbc6a.m3u8
+東森電影,https://epg.pw/stream/955488b84e90b3d75fcc1ce2ee6319b04fa9237531d570de71d18325d3b02c14.m3u8
+東森洋片,https://epg.pw/stream/f01792b149a55cc131150c35d0c678d325563b064635315b40d4ad31bb52090e.m3u8
+東森洋片,https://epg.pw/stream/8b6c965b023696353ae23ce6216297fa6f2e13236497bcfe9d9955fb69be2259.m3u8
+hollywood,https://epg.pw/stream/856120e8ee2029d1e8a5984b2ee23320b8e768a4e90544fce77d3ee8cbb3a05c.m3u8
+hollywood,https://epg.pw/stream/8a1cbc1af24b8d74012a128ebd952be710ea167f34d6ffc5ce6203aeb0b14710.m3u8
+hollywood,https://epg.pw/stream/2f75cbb24f85ca07c25554b2fe51988830e84507ecb4c0d8e2b77b40801f3277.ctv
+hollywood,https://epg.pw/stream/989eb94e870bd36822d0078cb3fa743a9295f65d00b4b471c365c3f5eab578e3.m3u8
+hollywood,https://epg.pw/stream/591e0f2e83132e57ed5dfd03f6502828ae2dbdf70e450e1f165c22c40503dae8.m3u8
+hollywood,https://epg.pw/stream/cb974b3858e96b0f844f145346f9f301213096aabd05986c7da17f19c9035361.m3u8
+hollywood,https://epg.pw/stream/9c60cfc4b5a062fc264fae9f3ec66eef1d6ffc0e88f3fbde003ede2c94ad186b.m3u8
+民視影劇臺,https://epg.pw/stream/3f718003e6c0b409e0a7620c4b17f7abb3e2f18c0f4f6dc82de5de806aff88ce.m3u8
+龍祥電影,https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv
+龍華偶像,https://epg.pw/stream/7deefeed1c08f515963d8247943ccc00502a0ab3305e13d4a7ea48fc8fd9c03c.m3u8
+龍華戲劇,https://epg.pw/stream/f23346775194273244aa8f9e1370288a18c9d2809f03e8746d953763379b35dc.m3u8
+龍華洋片,https://epg.pw/stream/1a4529ac934612347b6bb5bb251bb09bab261bba913eaefb090f45657cf7c33c.m3u8
+
+ROCK ENTERTAINMENT,https://epg.pw/stream/a1c2e739e5c343bc73574a979212b761551c9192017127bb914d48500c099842.ctv
+ROCK ENTERTAINMENT,https://epg.pw/stream/a033a5aecf1210c82aeb34435763144dc3643543365ac507f5e337555783eec9.ctv
+ROCK ENTERTAINMENT,https://epg.pw/stream/6af9dd84e58b56cafb0cf16cacefd2a89080523e22d31a70e1ab8ab298b8b730.ctv
+ROCK ENTERTAINMENT,https://epg.pw/stream/9094c287cc11ab7eb02c86f7f6ff4bbe83841763721bb786d174f532d979aff8.ctv
+ROCK ENTERTAINMENT,https://epg.pw/stream/8c8f12557120af11c0343207e354cbbaf692b5d271cb873dd58cc9632bb99845.ctv
+ROCK ENTERTAINMENT,https://epg.pw/stream/436a180706118f082f351d538b7d19a95c697d71724804e8e895d19f11dcf269.ctv
+
+
+📓綜藝,#genre#
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+民視綜藝,https://epg.pw/stream/7c4b658119c1bb61f50346e68cfd30c61610f0463886077973a2b75693da29d8.m3u8
+三立都會,https://epg.pw/stream/b3aa00e58291cac23e7153ecf7a5650bd97f584c57bb5ddd5d71f92dccec2c9d.m3u8
+
+
+📔綜合,#genre#
+民視,https://epg.pw/stream/151d9e43523a82c3a3bdaa1c54b08177028c783cdd72a2fa26442073dd59ffcb.ctv
+民視,https://epg.pw/stream/720e88c5916645734a5ed560a15e475c11c32dd6659b37aceb035720ee6f40ea.m3u8
+民視,rtmp://f13h.mine.nu/sat/tv051
+民視,https://epg.pw/stream/6947952c6da0a9615b5cda08228d6b897d9de7b2483b7cec20861c3ca32668a5.m3u8
+民視臺灣臺,https://epg.pw/stream/52c4417b3114a95ea8371eeb8014bfe208e046a5357035e43e4182a8d2e49023.m3u8
+民視第一臺,https://epg.pw/stream/2efd47e51559d5a51e8f811fb5d08343e45a0f5360db3f44bd5c6c3dd31f0e8e.m3u8
+民視臺灣臺,https://epg.pw/stream/b029057b372efdfb0738a3306cd07ff4a5d4fecc6c271b57d29b7ba282d7a6f8.m3u8
+中視,https://epg.pw/stream/48023223cf3a94ab9dcdbef7b2e3c566429aeaba44f3e41d03a955e1202ad492.m3u8
+中視,https://epg.pw/stream/00c0e49f6b0ebf36cf01a6b87955f78c400927f22fac4390ac0838cebd333d11.ctv
+中視,rtmp://f13h.mine.nu/sat/tv091
+中視,https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
+華視,https://epg.pw/stream/b7de54beedd00c8b00197e11541eb6d5e70c856ed712b3b937689c24f476c135.m3u8
+華視,https://epg.pw/stream/bbbcd26d0b86feca25bac4dce21109d46ea765225564aaaedec3b2b9aa876565.ctv
+華視,rtmp://f13h.mine.nu/sat/tv111
+華視,https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
+公視臺語臺,https://epg.pw/stream/deb6dde9203b31944f68bdf2bbfb405fef11b30877093abffaecf1057e3efd00.ctv
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
+TVBS,https://epg.pw/stream/00c14f2d9028476600ce529e01307b3850eacdf925d087e697a7233c759200dd.ctv
+TVBS,https://epg.pw/stream/06baf79b6e6515fa271791223499a2ecf53f1917f24c680bfa8a7539162cce76.m3u8
+TVBS Asia,https://epg.pw/stream/7bf245a4c5efc78cdd8c2dfefc1275e0eb779e2bbf1cfb24659b3154b6842acc.ctv
+TVBS Asia,https://epg.pw/stream/f3159caf3c70fa4085cd6659019c823cd0d96fe608c3c4f0bc4b721e8cac8f7f.ctv
+TVBS Asia,https://epg.pw/stream/fc7cee93a6ebe665262cb411fb3f025062699a10cf34a3d35e701ff82d070a17.ctv
+TVBS Asia,https://epg.pw/stream/ec5424752740743749fb692056ad531d2c31be0d24838de3b2093e26cd085175.ctv
+TVBS Asia,https://epg.pw/stream/b24ea75b5547a557c9eaab14ada1cbcfc1fb2f927c682aad461678671fed6157.ctv
+TVBS Asia,https://epg.pw/stream/9f321e603a7d2e7ce1ec5043b310254e16c6ac23a521049f0b28aee1de571984.ctv
+TVBS Asia,https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
+TVBS Asia,https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8
+三立綜合,https://epg.pw/stream/8c10f3db2272351329e61e9ba90946eb48090e5e92d454b28c54fca692749184.m3u8
+中天亞洲,https://epg.pw/stream/8c4cc58cb16312d301865331be6a868a21485d02bbaea7a4b2aa65c79c4083ca.ctv
+中天亞洲,https://epg.pw/stream/a7acb4bd353a3b54b42f96b08981e78121c966390b81d5c8aba487d680bf440d.ctv
+中天亞洲,https://epg.pw/stream/bc7b0c83e530223e2d9736a91f4e7238b398fdcc16e1dbfdcf3ca2751b04ee07.ctv
+中天亞洲,https://epg.pw/stream/b2c21dc375aa7d91af1ae24341e9065d56b0b142fef4d75f915a2b43552f907e.ctv
+中天亞洲,https://epg.pw/stream/80953b9482ffa616f0158f4c87b0ab9bdcbd5a8c0e275001341f818913e6f712.ctv
+中天亞洲,https://epg.pw/stream/a9d088ac00598b278adc64978f34cc0349face9cbadbd268eda1a42c0c95d6eb.m3u8
+信大電視臺,https://epg.pw/stream/397ebfe7482a9500a9e02fe3c90af18f92e42a901e5c76e53d76b5faff7eecae.m3u8
+八大綜合,https://epg.pw/stream/bf55b97f4a9d3ef464fe271e1f833771d5ce865b440a2b43fc6112ab93781e59.m3u8
+八大綜合,https://epg.pw/stream/1c2fc7d5c86079d1921eeab47c285feb04841a33c225de3c306625c9a1921d70.m3u8
+東森綜合,https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
+東森美洲,https://epg.pw/stream/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8
+東森美洲,https://epg.pw/stream/4f75b6abb8483c7acd3ce3b93a088cb93d1be9ec7c8bf4d9137f0f4c3a2076a6.m3u8
+東森美洲,https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
+東森美洲衛視,https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8
+東森超視,https://epg.pw/stream/19cb39b5599a5ea2cde824c81f55696b8f505d8ee3c6511ea3f37ea7ef1bf61b.ctv
+東森超視,https://epg.pw/stream/d339755bd21bd8a49854df2706bd95ca9f2d4bcdb0cbc035530e4e7421017270.m3u8
+東森超視,https://epg.pw/stream/c4bdb9e1c44e823ee9e33f3dbd887f65ffbdfe197707325552c2720a5b872d40.m3u8
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+
+📒兒童,#genre#
+Animax,https://epg.pw/stream/bf8b2ee2054e29c905611d47c54f2b15e6de0b5e865fed02b8cef5876e1bf99c.m3u8
+CN卡通頻道,https://epg.pw/stream/40db601c02f452f8f1a32dbfe219c93b1d1eb50d8fcfcf1e59348e28d7ef4ed8.m3u8
+東森幼幼臺,https://epg.pw/stream/11927c04bfc97c3c76188dcad74dc57ce6ff46386068fb5e28897f4bd96dc7d9.m3u8
+東森幼幼臺,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
+
+📕知識,#genre#
+discovery hd world,https://epg.pw/stream/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8
+Nat Geo(TW),https://epg.pw/stream/93a63cbcb59f99d99580153e977bb6d41521d2e8eeecb8bc574981a552020407.ctv
+Nat Geo(TW),https://epg.pw/stream/4303c79cac7675a641338f7d0c4b7d58708ff6acb66d8fe7ff18caca6c6cd2ab.ctv
+Smithsonian Channel,https://epg.pw/stream/611bbf7596efa3735fca21c423fe63b77b1fe97c4921fcaefb8acde6e4484573.m3u8
+LOVE NATURE,https://epg.pw/stream/c5ae5bed56a4aa5a76a23091a2cce2aedd7d6684aeb8e3032a2e0a217aa5ead8.ctv
+LOVE NATURE,https://epg.pw/stream/a9b94a28d3d2a95cb262b68842cd20444de6ecf1beb8ac4b5ee6290340d45c34.ctv
+LOVE NATURE,https://epg.pw/stream/9b532965b26cc990e0d2d91c867902ba8cb91cf482297e89131efcd01e524c29.ctv
+LOVE NATURE,https://epg.pw/stream/30c7c461245365535860d95e2338c63c02f8ce1a2eab9483b132d644afb90873.m3u8
+LOVE NATURE,https://epg.pw/stream/50b37a23774517c16dfe5b104ce15ec4e4d933a704184d2981c37e7735d216a6.m3u8
+LOVE NATURE,https://epg.pw/stream/63d67f2a207e6f649f16cdeb7dc9eb190a95de243d54505301b3d4b8861ece58.m3u8
+LOVE NATURE,https://epg.pw/stream/59c05b5f45ace2ee35d58a647079e8c79d2c9d622f35a2744e6ca39f1e7d62f1.m3u8
+LOVE NATURE,https://epg.pw/stream/9738bfc90d9cd020ee8a9797361cfde7c85528dadd9638913a2dc0114384c687.m3u8
+
+DISCOVERY SCIENCE TW,https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8
+
+
+📙其它,#genre#
+EYE TV旅遊,https://epg.pw/stream/3065991f5837146ac01b6e9e32c2fee4a1edde498beefe4107543d2560431540.m3u8
+MOMO購物1臺,https://epg.pw/stream/6469475656d65dd7311a58feae5d6512bb019b2fb4ee492e572582b94e7acc62.m3u8
+MOMO購物2臺,https://epg.pw/stream/b658e772883312717d1b7aee42b94fdfa284cb6a7021dfdbebdcc2ca162ed23f.m3u8
+pet club tv,https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8
+人間衛視,https://epg.pw/stream/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
+人間衛視,https://epg.pw/stream/b477995b160cdb9c7e4073eb76a5e241dfe20bcfee9faf4528af9377a53bf6c5.m3u8
+人間衛視,https://epg.pw/stream/42db7d21271f321cdd59f552ed6de00b634a389edf2db56e1f2b59852f9551db.ctv
+人間衛視,https://epg.pw/stream/925df6e71c4dd75f935dbe02200a19e3893eea0a125da4d28447546e7a8bd092.m3u8
+人間衛視,https://epg.pw/stream/4eb0323c70d760304396dda96d4193e878c24f1080b403142386e13bd15bb06c.m3u8
+創世電視,https://epg.pw/stream/dbcb37030ce1e99f5860fd270a76e63d2aa00a6a67f609619ab25c5b81a2e0e5.m3u8
+創世電視,https://epg.pw/stream/6dd46c6e6c146cc8383089ae906128af3d45cdafbff6b580d3dde1502e9c1d84.m3u8
+唯心電視,https://epg.pw/stream/31720d333f6038736a253006ad6cd6b08ea29626e1e79ce203944d493500bdb1.m3u8
+唯心電視,https://epg.pw/stream/5ea267787f833cf96fdaccfa4265cb6854ff3e67e5bfd4e3fd492986bcf82527.m3u8
+大愛,https://epg.pw/stream/8dab0126668b960d4130c12b25e9278ffda43f5b66fa986287ed34cd97cbd721.m3u8
+大愛,https://epg.pw/stream/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8
+大愛2,https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
+大愛2,https://epg.pw/stream/60efaf070c91949a4c4e52c9d35746ebfb99b5318b43115c15205965c5807948.m3u8
+大愛2,https://epg.pw/stream/d8ecd4005a721625fd1cf30519dc635fdeec60f7a294302874d5638972f56f68.m3u8
+大愛2,https://epg.pw/stream/90c3c2fa9df0e57466057e690b618d69c34f5cfe8bdea2edf0522742a91c368c.m3u8
+大愛2,https://epg.pw/stream/adefa4b3b335e22e458ee3232eb44832e815acd82cf7ad1c489d2d11274c700b.m3u8
+大愛2,https://epg.pw/stream/5fccf4a4972d39810ed6ac299db54c1cd33cf614dc04364ed982a90592ebff1f.m3u8
+大愛二臺,https://epg.pw/stream/1f3e158520af1be7f1dfdd5c56fe0393e54fe4bde8d8fbdfe04f74185117e9db.m3u8
+好訊息 2,https://epg.pw/stream/99a7112e32330890db56fd04e059dc59c9fdc4bf19c9167967a3e22b131d2441.m3u8
+民視旅遊,https://epg.pw/stream/b796f04b85558177e528d8dd4bbb091aacdf978492024a6e379848cc3cb1059d.m3u8
+
+時尚臺FTV,http://50.7.238.114:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
+時尚臺FTV,http://198.16.100.90:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
+時尚臺FTV,http://198.16.100.90:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
+
+HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+HOY 資訊臺,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+Awani,http://198.16.100.90:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190
+BBC Earth,http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
+BBC World News,http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+BBC1,http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+BBC2,http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+Bloomberg,http://50.7.238.114:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
+CBS News,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+CNA,http://50.7.238.114:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
+CNBC,http://50.7.238.114:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
+ViuTV6,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+阿里郎 Arirang,http://50.7.238.114:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
+TV8,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
+TVB J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+M-BBCLifestyle,http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
+M--SkyZ,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
+MusicTV,http://198.16.100.90:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869&ct=19225&tsum=25aeb843227531bfab3d9fde062323b2
+SkySportsCricket,http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
+
+
+
+
+Ⓜ️運動,#genre#
+eleven sport 2,https://epg.pw/stream/5d72f17fbafcb20f44d1e2a68d514058df12e0e56686b8f5d98bf78cf897d046.m3u8
+博斯網球,https://epg.pw/stream/fd9af1d7c11c82c37a3be3f19f12ef180c338813082f3199123599f7c3df0b18.m3u8
+博斯高球,https://epg.pw/stream/7df20d4d0d04045e5722792bcd477b161e7f457e358e314dd7bc5f8bd828b294.m3u8
+博斯高球,https://epg.pw/stream/18836fba759dcf22c5a43fb1cac6ac80688e631a9c34e868b22830af01c26465.m3u8
+博斯魅力,https://epg.pw/stream/7627420b6c8dfc998f5845f2432ddefdab6584478ca029d3027e04afad71fa41.m3u8
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+緯來體育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
+
+🐯動畫片,#genre#
+
+
+
+國外臺,#genre#
+CBN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+NBC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+ANN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+CNA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+HTB NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+半島新聞「英語」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+KBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+KANSAI NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+
+
+
+
+
+🔒測試頻道_1111,#genre#
+東森綜合 HD,http://220.134.196.147:9553/index.m3u8
+7月-703ハート,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/614150bf/index.m3u8
+7月-731水戸,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/821a9e5e/index.m3u8
+7月-743大槻,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/b889eae2/index.m3u8
+7月-756水野朝陽,https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/d081d296/index.m3u8
+7月-808ハート,https://t15.cdn2020.com:12339/video/m3u8/2022/01/03/5fca33ef/index.m3u8
+7月-825水戸,https://t15.cdn2020.com:12339/video/m3u8/2022/01/21/cd632479/index.m3u8
+安齋,https://siwazywcdn2.com:5278/zhongwenzimu/67nNClKY/index.m3u8
+百永紗理奈,https://siwazywcdn2.com:5278/zhongwenzimu/5PzEAi0h/index.m3u8
+悲劇女主播,https://videomy.yongaomy.com:8091/20191223/TOz9KzyG/1500kb/hls/index.m3u8
+春埼芽衣1,https://fc.maa1809.com/m/omsopjnoon/omsopjnoon.m3u8
+春埼芽衣2,https://fc.maa1809.com/d/onqiitnimq/onqiitnimq.m3u8
+春埼芽衣3,https://fc.maa1809.com/m/iiojdlpnjp/iiojdlpnjp.m3u8
+大覺醒伊賀,https://videomy.yongaomy.com:8091/20200126/SSNI-681/1500kb/hls/index.m3u8
+耳邊細語,https://siwazywcdn2.com:5278/zhongwenzimu/07fs3XqF/index.m3u8
+風俗女郎都咲乃,https://videomy.yongaomy.com:8091/20191223/jYalymoY/1500kb/hls/index.m3u8
+汗水少女,https://videomy.yongaomy.com:8091/20191219/WJQJUXjc/1500kb/hls/index.m3u8
+和-382二宮,https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/239d6d2d/index.m3u8
+和-384広瀬,https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/bb3bff27/index.m3u8
+河原楓,https://fc.maa1809.com/f/qcreaitlwz/qcreaitlwz.m3u8
+嘿嘿1768神田,https://fc.maa1808.com/g/mllotqnpol/mllotqnpol.m3u8
+嘿嘿立花琉莉,https://fc.maa1808.com/c/rkxhwovsgf/rkxhwovsgf.m3u8
+花音1,https://fc.maa1809.com/e/pjnvmkrplq/pjnvmkrplq.m3u8
+姫川,https://videomy.yongaomy.com:8091/20200102/IeVDOH6i/1500kb/hls/index.m3u8
+姬野栞,https://fc.maa1809.com/g/rnhlghoqyo/rnhlghoqyo.m3u8
+吉崗,https://videomy.yongaomy.com:8091/20191223/4ZcJ3aPo/1500kb/hls/index.m3u8
+加勒比001THE4名,https://fc.maa1808.com/m/ajtnayynwz/ajtnayynwz.m3u8
+加勒比206西川,https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
+加勒比350丘笑,https://fc.maa1808.com/f/ocyxhukqvo/ocyxhukqvo.m3u8
+加勒比612希笑,https://fc.maa1808.com/n/kqnjvnpjkm/kqnjvnpjkm.m3u8
+教育,https://videomy.yongaomy.com:8091/20191226/OuJg40gL/1500kb/hls/index.m3u8
+姐姐的誘惑,https://videomy.yongaomy.com:8091/20191226/ezCT3OZC/1500kb/hls/index.m3u8
+九重環奈1,https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-493/1500kb/hls/index.m3u8
+九重環奈2,https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-391/1500kb/hls/index.m3u8
+九重環奈3,https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/mide-422/1500kb/hls/index.m3u8
+九重環奈4,https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-503/1500kb/hls/index.m3u8
+九重環奈5,https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/mide-525/1500kb/hls/index.m3u8
+九重環奈6,https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-513/1500kb/hls/index.m3u8
+九重環奈7,https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-535/1500kb/hls/index.m3u8
+笠木一香,https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8
+療愈大叔,https://videomy.yongaomy.com:8091/20191227/jPKXM7bL/1500kb/hls/index.m3u8
+妹妹,https://videomy.yongaomy.com:8091/20200126/SW-587/1500kb/hls/index.m3u8
+內衣模特-新名,https://videomy.yongaomy.com:8091/20191223/1HZ8kCxt/1500kb/hls/index.m3u8
+帕科馬馬-希笑,https://fc.maa1808.com/m/rwrhezjunn/rwrhezjunn.m3u8
+情人節希島,https://videomy.yongaomy.com/xiezhen/LD-011/1500kb/hls/index.m3u8
+晴佳,https://fc.maa1809.com/b/inmkopifvj/inmkopifvj.m3u8
+去學校,https://videomy.yongaomy.com:8091/20200126/IPZ-949/1500kb/hls/index.m3u8
+全神貫注,https://videomy.yongaomy.com:8091/20200126/IPX-428/1500kb/hls/index.m3u8
+三原穗花加藤綾野,https://fc.maa1809.com/h/qjotnrtkkh/qjotnrtkkh.m3u8
+侍奉女僕,https://videomy.yongaomy.com:8091/20200126/MIDE-066/1500kb/hls/index.m3u8
+松永紗奈1,https://fc.maa1809.com/m/roqelpimmo/roqelpimmo.m3u8
+松永紗奈2,https://fc.maa1809.com/e/ohtlknkomr/ohtlknkomr.m3u8
+松永紗奈3,https://fc.maa1809.com/h/soknsufnkn/soknsufnkn.m3u8
+松永紗奈4,https://fc.maa1809.com/f/knmpkoqmjg/knmpkoqmjg.m3u8
+松永紗奈5,https://fc.maa1809.com/d/kvrynihixm/kvrynihixm.m3u8
+松永紗奈6,https://fc.maa1809.com/c/fkkrigoeyk/fkkrigoeyk.m3u8
+體液濃密-新名,https://videomy.yongaomy.com:8091/20200104/wtygLh5i/1500kb/hls/index.m3u8
+天海翼,https://videomy.yongaomy.com:8091/20200111/IPZ-615/1500kb/hls/index.m3u8
+天使萌1,https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-210/1500kb/hls/index.m3u8
+天使萌2,https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-230/1500kb/hls/index.m3u8
+天使萌3,https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-249/1500kb/hls/index.m3u8
+天使萌4,https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-270/1500kb/hls/index.m3u8
+天使萌5,https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-929/1500kb/hls/index.m3u8
+天使萌6,https://video1.rhsj520.com:8091/nyrm3/snis/3/ssni-380/1500kb/hls/index.m3u8
+天使萌7,https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-331/1500kb/hls/index.m3u8
+天使萌8,https://video1.rhsj520.com:8091/nyrm3/snis/1/ssni-358/1500kb/hls/index.m3u8
+天使萌9,https://videomy.yongaomy.com:8091/20200110/SNIS-270/1500kb/hls/index.m3u8
+天使萌10,https://videomy.yongaomy.com:8091/20200110/SNIS-463/1500kb/hls/index.m3u8
+天使萌11,https://videomy.yongaomy.com:8091/20200110/SNIS-311/1500kb/hls/index.m3u8
+天使萌12,https://videomy.yongaomy.com:8091/20200112/SNIS-440/1500kb/hls/index.m3u8
+西川1,https://videomy.yongaomy.com:8091/20200112/MIDE-124/1500kb/hls/index.m3u8
+西宮,https://siwazywcdn2.com:5278/zhongwenzimu/1BvNA3kM/index.m3u8
+相部屋,https://videomy.yongaomy.com:8091/20200126/SSNI-674/1500kb/hls/index.m3u8
+香皂小姐姐,https://videomy.yongaomy.com:8091/20191223/R6Tq7Ldb/1500kb/hls/index.m3u8
+筱原友香1,https://fc.maa1809.com/e/ktpmorpkrk/ktpmorpkrk.m3u8
+筱原友香2,https://fc.maa1809.com/d/jnqjlprmom/jnqjlprmom.m3u8
+咲咲原凜星奈愛,https://fc.maa1809.com/d/ojpmkokpmm/ojpmkokpmm.m3u8
+星-152青空,https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/7c007c63/index.m3u8
+星-168青空,https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/eff75385/index.m3u8
+星-182青空,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/335a2a7f/index.m3u8
+星-407青空,https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/6001e0be/index.m3u8
+星-435青空,https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/0ba77daf/index.m3u8
+星-439青空,https://t12.cdn2020.com:12338/video/m3u8/2021/11/24/7daf83bd/index.m3u8
+星-455朝田,https://t12.cdn2020.com:12338/video/m3u8/2021/11/21/547bc9f6/index.m3u8
+星-507朝田,https://t17.cdn2020.com:12341/video/m3u8/2022/03/16/6f755150/index.m3u8
+星奈醬,https://t17.cdn2020.com:12341/video/m3u8/2022/04/07/f800f6f6/index.m3u8
+緒方艾麗娜,https://videomy.yongaomy.com:8091/20200126/CHN-167/1500kb/hls/index.m3u8
+雪音,https://siwazywcdn2.com:5278/zhongwenzimu/23fVU6wT/index.m3u8
+葉月梨乃,https://siwazywcdn2.com:5278/ribenyouma/6F2acdoY/index.m3u8
+伊藤優希,https://fc.maa1809.com/d/hmjfiplneo/hmjfiplneo.m3u8
+音羽,https://fc.maa1809.com/c/nokhxqnqpj/nokhxqnqpj.m3u8
+銀河跡美,https://videomy.yongaomy.com:8091/20200126/MDTM-357/1500kb/hls/index.m3u8
+永瀨唯,https://fc.maa1809.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
+誘惑的姐姐1,https://videomy.yongaomy.com:8091/20200112/MIDE-118/1500kb/hls/index.m3u8
+誘惑的姐姐2,https://videomy.yongaomy.com:8091/20200111/MIDE-051/1500kb/hls/index.m3u8
+欲求反對1,https://videomy.yongaomy.com:8091/20200126/MEYD-564/1500kb/hls/index.m3u8
+欲求反對2,https://videomy.yongaomy.com:8091/20200126/MEYD-248/1500kb/hls/index.m3u8
+欲求反對3,https://videomy.yongaomy.com:8091/20200103/ocnUX7Tt/1500kb/hls/index.m3u8
+元氣姐姐,https://videomy.yongaomy.com:8091/20200126/IPX-434/1500kb/hls/index.m3u8
+職業OL,https://videomy.yongaomy.com:8091/20191222/WGaysfrW/1500kb/hls/index.m3u8
+制服美少女2,https://videomy.yongaomy.com:8091/20200104/ssClhQbc/1500kb/hls/index.m3u8
+奏美沙,https://fc.maa1809.com/e/chifuosxst/chifuosxst.m3u8
+奏音花音,https://videomy.yongaomy.com/20210907/Ekcv3tYC/1500kb/hls/index.m3u8
+aarm-066治療師,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/e61cb482/index.m3u8
+abp-523北野のぞみ,https://t11.cdn2020.com:12336/video/m3u8/2021/09/01/b24c657e/index.m3u8
+abp-599水稀,https://t11.cdn2020.com:12336/video/m3u8/2021/08/31/41ebaa47/index.m3u8
+abp-828水嶋那奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/14/d3d0ae81/index.m3u8
+abp-873藤江史帆,https://t11.cdn2020.com:12336/video/m3u8/2021/09/04/974f8f3e/index.m3u8
+abp-944斎藤,https://t12.cdn2020.com:12337/video/m3u8/2021/10/17/01dfe2e4/index.m3u8
+abw-006涼森,https://t12.cdn2020.com:12337/video/m3u8/2021/10/17/859014c4/index.m3u8
+abw-029野々浦暖,https://t11.cdn2020.com:12336/video/m3u8/2021/09/01/727bf74e/index.m3u8
+abw-065涼森,https://t12.cdn2020.com:12338/video/m3u8/2021/11/16/3d3ad723/index.m3u8
+abw-103愛音,https://t11.cdn2020.com:12336/video/m3u8/2021/09/04/e3b58ef8/index.m3u8
+abw-108涼森,https://t12.cdn2020.com:12338/video/m3u8/2021/11/17/6c80a8f3/index.m3u8
+abw-145,https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/e825c0ac/index.m3u8
+abw-147白玉海藻,https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/472fb0e4/index.m3u8
+abw-152,https://t12.cdn2020.com:12337/video/m3u8/2021/10/27/1ad9c88e/index.m3u8
+abw-158涼森,https://t12.cdn2020.com:12338/video/m3u8/2021/11/27/6e74b16f/index.m3u8
+abw-160乃絢木愛,https://t12.cdn2020.com:12338/video/m3u8/2021/11/16/0ceb7baf/index.m3u8
+abw-175河合,https://t15.cdn2020.com:12339/video/m3u8/2022/01/17/b82f6079/index.m3u8
+abw-176唯月優花,https://t15.cdn2020.com:12339/video/m3u8/2022/01/17/cd1cba72/index.m3u8
+abw-178結城,https://t15.cdn2020.com:12339/video/m3u8/2021/12/25/ae7feac3/index.m3u8
+abw-201河合,https://t17.cdn2020.com:12341/video/m3u8/2022/03/15/4fdaee6f/index.m3u8
+adn-010白優子,https://t11.cdn2020.com:12336/video/m3u8/2021/09/09/f746fd21/index.m3u8
+adn-022春原未來,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/b2ce701f/index.m3u8
+adn-023東凜,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/e73b034b/index.m3u8
+adn-027村上裡沙,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/b671b544/index.m3u8
+adn-077中村知恵,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/4814caf8/index.m3u8
+adn-086川上奈々美,https://t12.cdn2020.com:12337/video/m3u8/2021/10/12/91c4a75b/index.m3u8
+adn-099歩実,https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/e82d38f6/index.m3u8
+adn-102小西悠,https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/91e25286/index.m3u8
+adn-141輝月,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/0a295389/index.m3u8
+adn-142,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/5c637d4f/index.m3u8
+adn-143夏目彩春,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/261102ea/index.m3u8
+adn-144松下紗栄子,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/4efa3192/index.m3u8
+adn-153秋山祥子,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/5f94e342/index.m3u8
+adn-154夏目彩春,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/64c10615/index.m3u8
+adn-155水野朝陽,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/d47a01d0/index.m3u8
+adn-161春宮,https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/0b1a5e17/index.m3u8
+adn-163松永,https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/201029ff/index.m3u8
+adn-164,https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/c251b8fa/index.m3u8
+adn-345,https://t11.cdn2020.com:12336/video/m3u8/2021/09/21/a184bb13/index.m3u8
+adn-349日下加奈,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/03cfb8fb/index.m3u8
+adn-350日下加奈,https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/69cf9b87/index.m3u8
+adn-351希島加藤,https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/4b0db460/index.m3u8
+adn-353七瀬,https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/6bd4f1de/index.m3u8
+adn-363希島,https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/59272dbc/index.m3u8
+akid-093叔母,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/3b67665d/index.m3u8
+AMBI-112奏音花音,https://videomy.yongaomy.com/20211023/MtGqJmJr/1500kb/hls/index.m3u8
+ambi-135永瀬,https://t15.cdn2020.com:12339/video/m3u8/2022/01/06/6048856a/index.m3u8
+ambi-148紺野,https://t15.cdn2020.com:12339/video/m3u8/2022/01/24/ee9f9338/index.m3u8
+APKH-123奏音花音,https://videomy.yongaomy.com/20210825/d1JxSvZO/1500kb/hls/index.m3u8
+atid-479桜香美羽,https://t11.cdn2020.com:12336/video/m3u8/2021/09/11/78a0ddbf/index.m3u8
+atid-480深田結梨,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/1f94c22d/index.m3u8
+atid-493二宮,https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/c604e813/index.m3u8
+atid-500葉風松本,https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/d7446265/index.m3u8
+bf-611久留玲木,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/57e5af50/index.m3u8
+bf-644北野未奈,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/359bb63f/index.m3u8
+bijn-206渚,https://t15.cdn2020.com:12339/video/m3u8/2022/01/06/7588319a/index.m3u8
+BLK-458奏音花音,https://videomy.yongaomy.com/20211028/aA6JBM10/1500kb/hls/index.m3u8
+blk-547藤森裡穂,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/75b14a5f/index.m3u8
+blk-552憐嵐,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/0430469f/index.m3u8
+carib002姬川,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
+carib004西川,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
+carib146西川,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
+carib182西川,https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
+carib239西川,https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
+carib288西川,https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
+carib311西川,https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
+carib337西川,https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
+carib339姬川,https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
+carib363西川,https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
+carib375姬川,https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
+carib375姬川,https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
+carib420丘笑,https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
+carib431北川,https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
+carib433姬川,https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
+carib449神田,https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
+carib457北川,https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
+carib474立花琉莉,https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
+carib477立花琉莉,https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
+carib478北川,https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
+carib495神田,https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
+carib531立花琉莉,https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
+carib533丘笑,https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
+carib541神田,https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
+carib563愛莉,https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
+carib563七瀨,https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
+carib589立花琉莉,https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
+carib639神田,https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
+carib665姬川,https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
+carib665姬川,https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
+carib674杏奈,https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
+carib675神田,https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
+carib710神田,https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
+carib717杏奈,https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
+carib744立花琉莉,https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
+carib758美笑愛,https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
+cawd-011伊藤舞雪,https://t12.cdn2020.com:12338/video/m3u8/2021/11/16/5402ec73/index.m3u8
+cawd-092皆川優奈,https://siwazywcdn2.com:5278/zhongwenzimu/5JDoELrc/index.m3u8
+cawd-249日向,https://t11.cdn2020.com:12336/video/m3u8/2021/09/09/1d06c4c1/index.m3u8
+cawd-250柚葉,https://t11.cdn2020.com:12336/video/m3u8/2021/09/12/898145ff/index.m3u8
+cawd-273,https://t11.cdn2020.com:12336/video/m3u8/2021/09/11/93b2bc8f/index.m3u8
+cawd-277桜,https://t11.cdn2020.com:12336/video/m3u8/2021/09/12/a86b151b/index.m3u8
+cawd-282,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/eb7edf60/index.m3u8
+cawd-285伊藤舞雪,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/d4745fc6/index.m3u8
+cawd-286桜,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/4b4e3d2c/index.m3u8
+cawd-293伊東白桃,https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/a5e948a1/index.m3u8
+cawd-299伊藤舞雪,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/6ccddad1/index.m3u8
+cawd-300桜,https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/0f774466/index.m3u8
+cawd-303森玲奈,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/55d962d1/index.m3u8
+cawd-305有村,https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/dbb57d47/index.m3u8
+cawd-321伊藤舞雪,https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/07c5fd13/index.m3u8
+cawd-322桜,https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/0dedbb0a/index.m3u8
+cawd-323日向,https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/2d227314/index.m3u8
+cawd-324森玲奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/3b12f1cc/index.m3u8
+cawd-325楠有棲,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/1ec20ce8/index.m3u8
+cawd-328市川愛茉,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/23e26296/index.m3u8
+cawd-330大島,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/3d5ddc98/index.m3u8
+cawd-337伊藤舞雪,https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/795e137b/index.m3u8
+cawd-342桜,https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/235e6c5b/index.m3u8
+cawd-343天音,https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/1b6d1568/index.m3u8
+cawd-344日向,https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/cec629b6/index.m3u8
+cawd-345慄宮,https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/39543033/index.m3u8
+chn-186結城,https://t15.cdn2020.com:12339/video/m3u8/2022/01/03/afd1cf53/index.m3u8
+cjod-238奏音花音,https://videomy.yongaomy.com/20211007/R4AHRbjR/1500kb/hls/index.m3u8
+cjod-312大槻,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/d7e5683b/index.m3u8
+cjod-314大槻,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/55140a5f/index.m3u8
+cjod-327永瀬松本,https://t15.cdn2020.com:12339/video/m3u8/2022/01/06/203c34eb/index.m3u8
+cjod-337北野未來,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/62ba7305/index.m3u8
+DASD-675深田詠美,https://videomy.yongaomy.com/20211028/ebxtDsUR/1500kb/hls/index.m3u8
+dasd-931伊東,https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/cea11684/index.m3u8
+dasd-934,https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/b59336bb/index.m3u8
+dasd-951北野未奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/06/e97e9cf7/index.m3u8
+dasd-955浜崎真緒 有村,https://t15.cdn2020.com:12339/video/m3u8/2022/01/21/72323988/index.m3u8
+dasd-978美谷朱裡,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/06a24283/index.m3u8
+dfdm-021藤森裡穂,https://t11.cdn2020.com:12336/video/m3u8/2021/09/05/9f33f80b/index.m3u8
+dfe-057宇佐美玲奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/24/0b9759b4/index.m3u8
+dldss-011友田彩也香,https://t11.cdn2020.com:12336/video/m3u8/2021/09/29/aaf701b8/index.m3u8
+dldss-022友田彩也香,https://t11.cdn2020.com:12336/video/m3u8/2021/08/28/08e6fd70/index.m3u8
+dldss-027友田彩也香,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/1979e014/index.m3u8
+dldss-029七海,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/3bd04243/index.m3u8
+dldss-032友田彩也香,https://t12.cdn2020.com:12337/video/m3u8/2021/10/19/0ce62846/index.m3u8
+dldss-040美乃,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/2919cb1f/index.m3u8
+dldss-042友田彩也香,https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/28ae6486/index.m3u8
+dv-1501愛咲,https://t15.cdn2020.com:12339/video/m3u8/2022/01/21/fbbaa8ac/index.m3u8
+dvaj-527川上奈々美,https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/4a4afef9/index.m3u8
+dvaj-533,https://t11.cdn2020.com:12336/video/m3u8/2021/09/21/0708c67b/index.m3u8
+ebod-829北野未奈,https://siwazywcdn2.com:5278/zhongwenzimu/6MnoNVIC/index.m3u8
+ebod-888美容部員,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/f0a24d35/index.m3u8
+ekw-072木下,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/9e669cda/index.m3u8
+focs-029姫川,https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/87f58fb2/index.m3u8
+focs-058水卜麻衣奈,https://t17.cdn2020.com:12341/video/m3u8/2022/03/22/aa654c71/index.m3u8
+frin-052超級苗條,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/fbefd00e/index.m3u8
+fsdss-039美乃,https://siwazywcdn2.com:5278/zhongwenzimu/30HRcubp/index.m3u8
+fsdss-070吉高寧々,https://t12.cdn2020.com:12337/video/m3u8/2021/10/22/3073de3b/index.m3u8
+fsdss-206沙月恵奈,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/2146f0fb/index.m3u8
+fsdss-262沙月恵奈,https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/f1cc4f54/index.m3u8
+fsdss-268天使,https://t11.cdn2020.com:12336/video/m3u8/2021/09/05/01ec6b81/index.m3u8
+fsdss-271永瀬,https://t11.cdn2020.com:12336/video/m3u8/2021/09/05/d4495567/index.m3u8
+fsdss-274橋本,https://t11.cdn2020.com:12336/video/m3u8/2021/08/28/fd876ab1/index.m3u8
+fsdss-283天使,https://t11.cdn2020.com:12336/video/m3u8/2021/09/05/7742e457/index.m3u8
+fsdss-285吉岡,https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/e76b7dbe/index.m3u8
+fsdss-286永瀬,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/56fdf740/index.m3u8
+fsdss-288夏木,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/54754c96/index.m3u8
+fsdss-289橋本,https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/b1767940/index.m3u8
+fsdss-290吉高寧々,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/d4d2f5b6/index.m3u8
+fsdss-291二階堂夢,https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/d9a7085a/index.m3u8
+fsdss-292沙月恵奈,https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/82cd402b/index.m3u8
+fsdss-298天使,https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/953819d7/index.m3u8
+fsdss-304橋本,https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/968b716e/index.m3u8
+fsdss-305吉高寧々,https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/f5e9393f/index.m3u8
+fsdss-306二階堂夢,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/7a348dd0/index.m3u8
+fsdss-310,https://t12.cdn2020.com:12337/video/m3u8/2021/11/12/1bc938e4/index.m3u8
+fsdss-331吉岡,https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/e4952e56/index.m3u8
+fsdss-336吉高寧々,https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/43e3536d/index.m3u8
+fsdss-341桃尻,https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/d271228d/index.m3u8
+fsdss-346天使,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/90295486/index.m3u8
+fsdss-348永瀬,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/a3268549/index.m3u8
+fsdss-373天使,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/8c9db0f8/index.m3u8
+fsdss-376橋本,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/c3777d68/index.m3u8
+gg-264神波多一花,https://t11.cdn2020.com:12336/video/m3u8/2021/08/31/bc46681e/index.m3u8
+gvg-157逢沢,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/284266a6/index.m3u8
+gvg-676波多野結衣,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/5920248d/index.m3u8
+gvg-809紺野,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/96effcf0/index.m3u8
+gvh-286辻,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/e11ddbbb/index.m3u8
+havd-554川上水沢,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/4a6ce325/index.m3u8
+havd-778慄林裡莉,https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/9fa6df91/index.m3u8
+havd-781早乙女,https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/404aa8f0/index.m3u8
+havd-802管野,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/241e4558/index.m3u8
+havd-816和希,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/1883b6a0/index.m3u8
+hbad-148西野,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/535a2f48/index.m3u8
+heyzo0705杏奈,https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
+heyzo1199希笑,https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
+heyzo1243水谷,https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
+heyzo1262西川,https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
+heyzo1275水谷,https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
+heyzo1395姬川,https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
+heyzo1478丘笑,https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
+heyzo1544姬川,https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
+heyzo1570神田,https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
+heyzo1590神田,https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
+heyzo1601北川,https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
+heyzo1638姬川,https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
+heyzo1691神田,https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
+heyzo1722杏奈,https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
+heyzo1786杏奈,https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
+hmn-093初川,https://t15.cdn2020.com:12339/video/m3u8/2022/01/06/4cd75094/index.m3u8
+hmn-099天然美月,https://t15.cdn2020.com:12339/video/m3u8/2022/01/06/5b9aeb9c/index.m3u8
+hmn-136北野未奈,https://t17.cdn2020.com:12341/video/m3u8/2022/03/21/f06783f4/index.m3u8
+hmn-141-アンナ,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/052b9624/index.m3u8
+hnd-205上原亞衣,https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/0b7bda51/index.m3u8
+hnd-277板野,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/01596a03/index.m3u8
+hnd-842奏音花音,https://videomy.yongaomy.com/20211009/MZnz3FCC/1500kb/hls/index.m3u8
+hodv-21630百永,https://t15.cdn2020.com:12339/video/m3u8/2022/01/01/534f9a22/index.m3u8
+ienf-183沙月恵奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/20/cedc6150/index.m3u8
+ipx-511,https://siwazywcdn2.com:5278/ribenyouma/NkRh5zW8/index.m3u8
+ipx-628桜空,https://t12.cdn2020.com:12337/video/m3u8/2021/10/12/ff56a768/index.m3u8
+ipx-632岬,https://t11.cdn2020.com:12336/video/m3u8/2021/08/28/b7f4dd73/index.m3u8
+ipx-697相沢,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/089e730f/index.m3u8
+ipx-717,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/a6dc2f16/index.m3u8
+ipx-719,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/b7f78c3a/index.m3u8
+ipx-720慄山莉緒,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/d210a3e4/index.m3u8
+ipx-725桜空,https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/0925f200/index.m3u8
+ipx-728西宮,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/5186de75/index.m3u8
+ipx-729岬,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/3979fa25/index.m3u8
+ipx-732相沢,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/af8f9039/index.m3u8
+ipx-733初川,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/76dbf65a/index.m3u8
+ipx-735小野琴弓,https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/3fa04bf3/index.m3u8
+ipx-737藤井,https://t12.cdn2020.com:12337/video/m3u8/2021/10/20/4e2943bc/index.m3u8
+ipx-738慄山莉緒,https://t12.cdn2020.com:12337/video/m3u8/2021/10/20/f8e07f66/index.m3u8
+ipx-739二葉,https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/44c6b023/index.m3u8
+ipx-744桃乃木,https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/1715bd0a/index.m3u8
+ipx-745天海,https://t12.cdn2020.com:12337/video/m3u8/2021/10/20/c17d8dbf/index.m3u8
+ipx-746西宮,https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/04c0c9d7/index.m3u8
+ipx-747岬,https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/e03ca65c/index.m3u8
+ipx-749希島,https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/2ee91922/index.m3u8
+ipx-750寵愛,https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/e2fe3dc2/index.m3u8
+ipx-753白峯,https://siwazywcdn2.com:5278/zhongwenzimu/uzsUN2HX/index.m3u8
+ipx-762西宮,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/9426795d/index.m3u8
+ipx-778桃乃木,https://t15.cdn2020.com:12339/video/m3u8/2022/01/11/0685df9f/index.m3u8
+ipx-788乃雪,https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/3bd7bb75/index.m3u8
+ipx-790藤井,https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/0f7aa3ea/index.m3u8
+ipx-793加杏奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/0db9891e/index.m3u8
+ipx-796天海,https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/de528a09/index.m3u8
+ipx-797西宮,https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/ffec0fe1/index.m3u8
+ipx-800希島,https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/9af0b1bb/index.m3u8
+ipx-801相沢,https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/8ab23c46/index.m3u8
+ipx-802稲森美憂,https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/dee6f0d1/index.m3u8
+ipx-824宮西,https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/8129c2ad/index.m3u8
+ipx-827藤井,https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/27f8ce12/index.m3u8
+ipx-828二葉,https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/0f61d39c/index.m3u8
+ipx-830加杏奈,https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/4743f084/index.m3u8
+ipx-831楓,https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/fd3b071c/index.m3u8
+ipx-832桜空,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/f96d5171/index.m3u8
+ipx-833桃乃木,https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/7629cfa5/index.m3u8
+ipx-835西宮,https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/86968c96/index.m3u8
+ipx-838相沢,https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/e79e81cc/index.m3u8
+ipx-840稲森美憂,https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/80854a3e/index.m3u8
+jufd-549中村知恵,https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/c0818937/index.m3u8
+jufd-559中村知恵,https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/accc82fc/index.m3u8
+jufd-619中村知恵,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/506a54ce/index.m3u8
+jufd-717村澤,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/0493761c/index.m3u8
+jufd-830中村知恵,https://t12.cdn2020.com:12337/video/m3u8/2021/10/13/c0f7052b/index.m3u8
+jufd-874中村知恵,https://t12.cdn2020.com:12337/video/m3u8/2021/10/17/3004ce2d/index.m3u8
+jufe-067星奈柏木,https://t12.cdn2020.com:12337/video/m3u8/2021/10/13/42528843/index.m3u8
+JUFE-104,https://siwazywcdn2.com:5278/zhongwenzimu/4TrvxJeg/index.m3u8
+JUFE-104,https://siwazywcdn2.com:5278//zhongwenzimu/4TrvxJeg/index.m3u8
+JUFE-317,https://siwazywcdn2.com:5278/zhongwenzimu/jO6fu8ZG/index.m3u8
+JUFE-344,https://siwazywcdn2.com:5278/zhongwenzimu/J6DxUZXG/index.m3u8
+jufe-358川北,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/09838e16/index.m3u8
+JUFE-361,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/1c033889/index.m3u8
+jul-705北條麻妃,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/2adffa26/index.m3u8
+jul-706七瀬,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/16c55f00/index.m3u8
+jul-708武藤,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/cbcb233a/index.m3u8
+jul-740沙月恵奈,https://t12.cdn2020.com:12337/video/m3u8/2021/10/20/65aae748/index.m3u8
+jul-741武藤,https://t12.cdn2020.com:12337/video/m3u8/2021/10/20/01ffef7d/index.m3u8
+jul-752白石茉莉奈,https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/7ecc81c4/index.m3u8
+jul-802白石茉莉奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/03/f1e3aa7e/index.m3u8
+jul-803紫月,https://t15.cdn2020.com:12339/video/m3u8/2022/01/03/1bbd6852/index.m3u8
+jul-806青田悠華,https://t15.cdn2020.com:12339/video/m3u8/2022/01/03/557ab934/index.m3u8
+jul-833藤森裡穂,https://t15.cdn2020.com:12339/video/m3u8/2022/01/17/e0200fdd/index.m3u8
+jul-888青田悠華,https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/cebd8242/index.m3u8
+jul-901奧美遙,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/5c4dcd87/index.m3u8
+juy-278中村知恵,https://t11.cdn2020.com:12336/video/m3u8/2021/09/07/2fcd7c82/index.m3u8
+JUY-385大島優香,https://video2.51daao.com/btt1/2021/10/20211017/V7WwMk16/2000kb/hls/index.m3u8
+kawd-426大槻,https://t11.cdn2020.com:12336/video/m3u8/2021/09/02/b610be7c/index.m3u8
+KING-046,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/e9ec4df8/index.m3u8
+kire-051ななせゆめ,https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/20a1fe9d/index.m3u8
+KMHRS-055,https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/88323023/index.m3u8
+KNAM-005奏音花音,https://videomy.yongaomy.com/20211106/5KZCzleX/1500kb/hls/index.m3u8
+ksbj-184小梅,https://t17.cdn2020.com:12341/video/m3u8/2022/04/05/d6b87fbc/index.m3u8
+luxu-1446外遇後,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/e9f0a286/index.m3u8
+LUXU-1481,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/65c48ab7/index.m3u8
+LUXU-1483,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/9219e270/index.m3u8
+mdb-725大槻,https://t17.cdn2020.com:12341/video/m3u8/2022/03/18/25d292d3/index.m3u8
+MDBK-109,https://t12.cdn2020.com:12337/video/m3u8/2021/11/12/4840cb69/index.m3u8
+mds-898白川,https://t15.cdn2020.com:12339/video/m3u8/2022/01/07/9ad88dbe/index.m3u8
+mdte-020橫宮七海,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/0d78d5b9/index.m3u8
+mdtm-562渚,https://t11.cdn2020.com:12336/video/m3u8/2021/09/08/118fed33/index.m3u8
+mdtm-753相部屋,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/4a21555c/index.m3u8
+MDX-0146沈娜娜,https://t12.cdn2020.com:12337/video/m3u8/2021/10/10/a3b79a43/index.m3u8
+MDX-0153沈娜娜,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/7e3e81a8/index.m3u8
+MDX-0184沈娜娜,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/fd46d2d1/index.m3u8
+MDX-0199沈娜娜,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/8ab87760/index.m3u8
+MDX-0234沈娜娜,https://t15.cdn2020.com:12339/video/m3u8/2022/01/02/ca211ee2/index.m3u8
+MDX-0235沈娜娜,https://t15.cdn2020.com:12339/video/m3u8/2022/01/08/9961c3ae/index.m3u8
+MDX-0236,https://t15.cdn2020.com:12339/video/m3u8/2022/01/15/9d2b35f4/index.m3u8
+MDX-0237沈娜娜,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/8abe7057/index.m3u8
+MDX-0238沈娜娜,https://t15.cdn2020.com:12339/video/m3u8/2021/12/25/d3aa5d62/index.m3u8
+MDYD-741,https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/0e0f71d7/index.m3u8
+meyd-127西川,https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/10dfd375/index.m3u8
+MEYD-647川上奈奈美,https://siwazywcdn2.com:5278/zhongwenzimu/3YPtObjx/index.m3u8
+meyd-694広瀬,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/b7f60549/index.m3u8
+MEYD-695北野未來,https://siwazywcdn2.com:5278/zhongwenzimu/mqkTS3cV/index.m3u8
+MEYD-698,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/2e795f67/index.m3u8
+meyd-711佐伯由美香,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/cf6643f0/index.m3u8
+meyd-712藤森裡穂,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/6eb090d2/index.m3u8
+meyd-722二宮,https://t15.cdn2020.com:12339/video/m3u8/2021/12/26/b6de6d95/index.m3u8
+meyd-724北野未奈,https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/1378ee5d/index.m3u8
+meyd-726藤森裡穂,https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/b095a9b9/index.m3u8
+meyd-734北野未奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/e9a3b310/index.m3u8
+MIAA-247,https://siwazywcdn2.com:5278/zhongwenzimu/TZb8hicm/index.m3u8
+MIAA-248奏音花音,https://videomy.yongaomy.com/20210721/6NCwf1nt/1500kb/hls/index.m3u8
+miaa-316君島,https://t11.cdn2020.com:12336/video/m3u8/2021/08/29/a88894f1/index.m3u8
+MIAA-320,https://siwazywcdn2.com:5278/zhongwenzimu/4idREMlz/index.m3u8
+MIAA-329,https://siwazywcdn2.com:5278/zhongwenzimu/L946ZPST/index.m3u8
+miaa-504北野未奈,https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/b70beb31/index.m3u8
+miaa-514月乃,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/6f600105/index.m3u8
+miaa-543藤森裡穂,https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/33fed749/index.m3u8
+miaa-552北野未奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/83e19dbc/index.m3u8
+miaa-553天音,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/72a566c5/index.m3u8
+miaa-557水原小梅,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/16906795/index.m3u8
+miaa-561水川,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/83e57fcd/index.m3u8
+miaa-562月野,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/6012e749/index.m3u8
+miaa-563花狩,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/808c2e05/index.m3u8
+miaa-567月乃,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/3980ed8c/index.m3u8
+miaa-569沙月恵奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/b9f4d487/index.m3u8
+miaa-602永瀬,https://t17.cdn2020.com:12341/video/m3u8/2022/03/25/a5430000/index.m3u8
+miad-847大島美緒,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/a523ea63/index.m3u8
+miae-021姫川,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/d0b97f6d/index.m3u8
+miae-053姫川,https://t17.cdn2020.com:12341/video/m3u8/2022/04/05/77be11c6/index.m3u8
+mide-884七沢,https://t11.cdn2020.com:12336/video/m3u8/2021/08/28/e26824af/index.m3u8
+MIDE-970,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/4f8053b0/index.m3u8
+mide-976八木奈々,https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/b4c1125f/index.m3u8
+mide-981深田,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/28153fb3/index.m3u8
+mide-983七沢,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/5ebd616f/index.m3u8
+mide-991八木奈々,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/0cb5681b/index.m3u8
+midv-018七沢,https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/d2c64d34/index.m3u8
+midv-031小野六花,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/b314c4f7/index.m3u8
+midv-057石川澪,https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/469771e5/index.m3u8
+midv-058高橋,https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/eb45677f/index.m3u8
+midv-068小野六花,https://t17.cdn2020.com:12341/video/m3u8/2022/03/25/d8dc277c/index.m3u8
+midv-069七沢,https://t17.cdn2020.com:12341/video/m3u8/2022/03/25/8368fd47/index.m3u8
+MIFD-117,https://siwazywcdn2.com:5278/zhongwenzimu/2imBA5or/index.m3u8
+mifd070永瀬,https://fc.maa1808.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
+MIGD-697,https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/00e47aa8/index.m3u8
+mird-215久留木玲,https://t17.cdn2020.com:12341/video/m3u8/2022/03/25/fb46c028/index.m3u8
+mkmp-434百永,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/3b0b4325/index.m3u8
+MKON-062,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/b2ec7794/index.m3u8
+mkon-075辻,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/7bd4c045/index.m3u8
+mmus-034渚,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/d12cbf8f/index.m3u8
+MRSS-120大槻,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/d8fa30cf/index.m3u8
+MUDR-133,https://siwazywcdn2.com:5278/zhongwenzimu/kjah84rx/index.m3u8
+mxgs-984波木,https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/2fb41c71/index.m3u8
+mxgs-992大槻,https://t17.cdn2020.com:12341/video/m3u8/2022/04/06/72dedc7b/index.m3u8
+nacr-452春原未來,https://t15.cdn2020.com:12339/video/m3u8/2022/01/11/b0bc7ac6/index.m3u8
+NACR-460,https://t15.cdn2020.com:12339/video/m3u8/2022/01/17/da6cdc85/index.m3u8
+natr-566筱田,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/3d5a7b9e/index.m3u8
+nhdtb-641溫泉旅館,https://t17.cdn2020.com:12341/video/m3u8/2022/04/05/f6bdce37/index.m3u8
+nnpj-492會社娘,https://t17.cdn2020.com:12341/video/m3u8/2022/04/01/24ef6ef6/index.m3u8
+nsfs-071七瀬,https://t17.cdn2020.com:12341/video/m3u8/2022/04/06/f6d81e3e/index.m3u8
+ntr-066 若菜奈央,https://t17.cdn2020.com:12341/video/m3u8/2022/04/01/b7e0cfca/index.m3u8
+OCHA-096,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/dbde7157/index.m3u8
+ocs-037奏音彌生,https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/85268141/index.m3u8
+orec-883思春期,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/77b1cb1d/index.m3u8
+pondo273水谷,https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
+pondo311水谷,https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
+pondo350西川,https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
+pondo366水谷,https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
+pondo419西川,https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
+pondo450西川,https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
+pondo488姬川,https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
+pondo518姬川,https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
+pondo559北川,https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
+pondo597西川,https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
+pondo613七瀨,https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
+pondo618水谷,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
+pondo764杏奈,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
+pondo793杏奈,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
+pppd-398愛理,https://t17.cdn2020.com:12341/video/m3u8/2022/04/07/bd518e5c/index.m3u8
+pppd-403西條沙羅,https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/01a287eb/index.m3u8
+pppd-412吉永,https://t11.cdn2020.com:12336/video/m3u8/2021/09/17/2dea29ea/index.m3u8
+pppd-422七原,https://t12.cdn2020.com:12337/video/m3u8/2021/11/12/d5a453cd/index.m3u8
+pppd-427尾上若葉,https://t12.cdn2020.com:12337/video/m3u8/2021/11/12/b463b7b7/index.m3u8
+pppd-597反向治療,https://t12.cdn2020.com:12337/video/m3u8/2021/10/17/1d79c0ef/index.m3u8
+pppd-649優月,https://t12.cdn2020.com:12337/video/m3u8/2021/11/12/eee13b84/index.m3u8
+pppd-776松本菜奈実,https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/ae252786/index.m3u8
+pppd-961乃木蛍,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/0513f0a5/index.m3u8
+pppd-968木下,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/d6d0f151/index.m3u8
+pppd-970藤森裡穂,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/15060d28/index.m3u8
+pppd-984瀬名,https://t15.cdn2020.com:12339/video/m3u8/2021/12/29/c67d6ebc/index.m3u8
+pppd-987希咲,https://t15.cdn2020.com:12339/video/m3u8/2021/12/28/ac03a6b7/index.m3u8
+pppd-989藤森裡穂,https://t15.cdn2020.com:12339/video/m3u8/2021/12/29/c830aec2/index.m3u8
+pppd-990月野,https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/b5d81241/index.m3u8
+pppd-992川北,https://t15.cdn2020.com:12339/video/m3u8/2021/12/29/bd10597d/index.m3u8
+pppe-008水川,https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/d80590bf/index.m3u8
+PRED-334,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/f0d78330/index.m3u8
+PRED-337,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/49ed95c2/index.m3u8
+pred-340広瀬,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/4b78c206/index.m3u8
+pred-341香椎花乃,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/d783da33/index.m3u8
+pred-347竹內有紀,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/75da85de/index.m3u8
+pred-350藤森裡穂,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/d1272d7f/index.m3u8
+pred-360山岸逢花,https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/4de45ea3/index.m3u8
+pred-362楪カ,https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/95c349b4/index.m3u8
+pred-365香椎花乃,https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/890dc248/index.m3u8
+rbd-223管野,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/9b65972c/index.m3u8
+rbd-978藤森裡穂,https://t11.cdn2020.com:12336/video/m3u8/2021/09/06/4af63f0b/index.m3u8
+rctd-418辻,https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/af0cb0cf/index.m3u8
+rki-614ハート,https://t11.cdn2020.com:12336/video/m3u8/2021/09/21/6341ebd8/index.m3u8
+rki-621川上奈々美,https://t15.cdn2020.com:12339/video/m3u8/2022/01/19/0d347bb1/index.m3u8
+roe-032水野優香,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/335cd318/index.m3u8
+roe-037加峯幸香,https://t15.cdn2020.com:12339/video/m3u8/2022/01/19/42af0bc0/index.m3u8
+royd-072初川,https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/ab4bbfd6/index.m3u8
+saba-709太強,https://t11.cdn2020.com:12336/video/m3u8/2021/09/14/a4e25e99/index.m3u8
+scop-673店長,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/8ef8a202/index.m3u8
+SCOP-697,https://siwazywcdn2.com:5278/zhongwenzimu/59LHYbi4/index.m3u8
+SCUTE-1127,https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/063e56fb/index.m3u8
+SCUTE-1130,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/971e1385/index.m3u8
+sd-956美谷朱裡,https://t15.cdn2020.com:12339/video/m3u8/2022/01/21/2733d440/index.m3u8
+sdde-327大槻,https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/a01711a2/index.m3u8
+sdde-381姊弟浜崎真緒,https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/cc697acb/index.m3u8
+sdde-438佳苗,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/59223c0c/index.m3u8
+sdde-623上川星空,https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/e1aac4ce/index.m3u8
+sdde-625大槻,https://t12.cdn2020.com:12337/video/m3u8/2021/10/26/b79e51d3/index.m3u8
+sdjs-120佐々木夏菜,https://t12.cdn2020.com:12337/video/m3u8/2021/10/26/f0c025d7/index.m3u8
+sdjs-124中山琴葉,https://t15.cdn2020.com:12339/video/m3u8/2022/01/19/90eacde2/index.m3u8
+SDMM-064奏音花音,https://videomy.yongaomy.com/20211112/rw3LhAQi/1500kb/hls/index.m3u8
+sdmu-494若菜奈央,https://t12.cdn2020.com:12337/video/m3u8/2021/10/12/f61cb46b/index.m3u8
+sdmu-968川村,https://t15.cdn2020.com:12339/video/m3u8/2022/01/14/ce8ff22b/index.m3u8
+sdnm-323葉月涼子,https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/fc46b201/index.m3u8
+shkd-959辻,https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/79da5eae/index.m3u8
+shkd-964二宮,https://t11.cdn2020.com:12336/video/m3u8/2021/09/14/9ab95870/index.m3u8
+shkd-974初川,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/8d5ef0d3/index.m3u8
+shkd-982沙月恵奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/15/832dd619/index.m3u8
+siro1774奏音花音,https://videomy.yongaomy.com/20210716/1uTF5FjS/1500kb/hls/index.m3u8
+snis-697夢乃,https://t17.cdn2020.com:12341/video/m3u8/2022/04/01/fc5e1b10/index.m3u8
+snis-942小島,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/22bcbb28/index.m3u8
+SPRD-1481夏川,https://siwazywcdn2.com:5278/zhongwenzimu/1Wc2gtfN/index.m3u8
+sprd-1501青山涼香,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/f4aea001/index.m3u8
+srtd-0246外遇,https://t12.cdn2020.com:12337/video/m3u8/2021/10/27/9e7e5b38/index.m3u8
+SSIS-082,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/01ee1dce/index.m3u8
+ssis-096乙白沙也,https://siwazywcdn2.com:5278/zhongwenzimu/0GbVxCsv/index.m3u8
+ssis-108,https://siwazywcdn2.com:5278/zhongwenzimu/bZXowNav/index.m3u8
+ssis-118夢乃,https://siwazywcdn2.com:5278/zhongwenzimu/5yvSxVeg/index.m3u8
+ssis-129河北彩花,https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/144262e9/index.m3u8
+ssis-169miru,https://siwazywcdn2.com:5278/zhongwenzimu/tyv0dmpK/index.m3u8
+ssis-171ひなたまりん,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/017d8ae4/index.m3u8
+ssis-181三上悠亜,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/e2ba8a90/index.m3u8
+ssis-183夢乃,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/6bf42346/index.m3u8
+ssis-184架乃,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/c9f97029/index.m3u8
+ssis-185星宮一花,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/d0c7f247/index.m3u8
+ssis-186伊賀,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/dacbfb29/index.m3u8
+ssis-188槙,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/900e9060/index.m3u8
+ssis-190天音,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/e96cae7e/index.m3u8
+ssis-194河北彩花,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/667f6ab4/index.m3u8
+ssis-202ひなたまりん,https://t12.cdn2020.com:12337/video/m3u8/2021/10/26/c0dcbd7e/index.m3u8
+ssis-212葵,https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/c40943bb/index.m3u8
+ssis-213夢乃,https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/fde62b3e/index.m3u8
+ssis-214架乃,https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/622f3d9c/index.m3u8
+ssis-215星宮一花,https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/9f1cd206/index.m3u8
+ssis-218乙白,https://t12.cdn2020.com:12337/video/m3u8/2021/11/05/4a5d3d95/index.m3u8
+ssis-226香澄,https://t12.cdn2020.com:12337/video/m3u8/2021/11/05/13855f9e/index.m3u8
+ssis-261ひなたまりん,https://t15.cdn2020.com:12339/video/m3u8/2021/12/26/8fe86404/index.m3u8
+ssis-271葵,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/4627a34c/index.m3u8
+ssis-272夢乃,https://t15.cdn2020.com:12339/video/m3u8/2022/01/07/1af30b10/index.m3u8
+ssis-273架乃,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/7492e618/index.m3u8
+ssis-274星宮一花,https://t15.cdn2020.com:12339/video/m3u8/2022/01/07/da8d8552/index.m3u8
+ssis-276乙白,https://t15.cdn2020.com:12339/video/m3u8/2022/01/07/c673a6fd/index.m3u8
+ssis-280河北彩花,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/71518e15/index.m3u8
+ssis-284香澄,https://t15.cdn2020.com:12339/video/m3u8/2022/01/07/81e7a67a/index.m3u8
+ssis-285山手梨愛,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/e94594fb/index.m3u8
+ssis-287三上悠亜,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/0d2ad410/index.m3u8
+ssis-292ひなたまりん,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/ddbc06bc/index.m3u8
+ssis-293七ツ森,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/4d62c1da/index.m3u8
+ssis-299愛寶,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/2b09cb68/index.m3u8
+ssis-349山手梨愛,https://t17.cdn2020.com:12341/video/m3u8/2022/03/23/87309cc7/index.m3u8
+ssis-350愛寶,https://t17.cdn2020.com:12341/video/m3u8/2022/03/23/fca391c6/index.m3u8
+ssis-353夢乃,https://t17.cdn2020.com:12341/video/m3u8/2022/04/03/fe5a9ab5/index.m3u8
+ssis-355星宮一花,https://t17.cdn2020.com:12341/video/m3u8/2022/04/03/1907602b/index.m3u8
+ssis-363香澄,https://t17.cdn2020.com:12341/video/m3u8/2022/03/29/dfd9a2fd/index.m3u8
+ssni-065吉沢明歩,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/874c5d96/index.m3u8
+ssni-347夢乃,https://t17.cdn2020.com:12341/video/m3u8/2022/04/06/3129edd7/index.m3u8
+ssni-595架乃,https://t12.cdn2020.com:12337/video/m3u8/2021/10/19/4e0d89be/index.m3u8
+SSNI-658A,https://siwazywcdn2.com:5278/zhongkouwei/nwba4LUx/index.m3u8
+SSNI-658B,https://siwazywcdn2.com:5278/zhongkouwei/WBdOE3qp/index.m3u8
+ssni-778兒玉玲奈,https://siwazywcdn2.com:5278/zhongwenzimu/6Lwmk5xH/index.m3u8
+sspd-166二宮川上奈々美,https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/d647a87d/index.m3u8
+STARS-143,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/e7961884/index.m3u8
+STARS-172,https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/414e6290/index.m3u8
+stars-199夏目響,https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/f4797d73/index.m3u8
+stars-258小倉由菜,https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/232731d5/index.m3u8
+stars-410唯井,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/f7717872/index.m3u8
+stars-418本莊鈴,https://t15.cdn2020.com:12339/video/m3u8/2022/01/24/53121346/index.m3u8
+stars-419真白美生,https://t15.cdn2020.com:12339/video/m3u8/2022/01/24/cd8af00a/index.m3u8
+stars-431吉永,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/3549ebc6/index.m3u8
+stars-445天宮花南,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/5f5b43be/index.m3u8
+stars-449小倉由菜,https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/30678f6e/index.m3u8
+stars-450本莊鈴,https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/dca5a25a/index.m3u8
+stars-469夏目響,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/903b13ee/index.m3u8
+stars-498青空,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/1c267124/index.m3u8
+stars-556青空,https://t17.cdn2020.com:12341/video/m3u8/2022/03/22/377a0b0c/index.m3u8
+stars-877小倉由菜,https://t11.cdn2020.com:12336/video/m3u8/2021/08/31/6c20405e/index.m3u8
+svdvd-739蜜月旅行,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/6187d575/index.m3u8
+sw-191 夢の,https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/00fac91e/index.m3u8
+TOEN-048,https://t15.cdn2020.com:12339/video/m3u8/2022/01/24/08f31bad/index.m3u8
+tppn-210広瀬,https://t15.cdn2020.com:12339/video/m3u8/2022/01/25/c350039a/index.m3u8
+UMD-737奏音花音,https://video2.51daao.com/btt1/2021/10/20211019/wO9PIxFb/2000kb/hls/index.m3u8
+ure-059妃,https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/cd710bb9/index.m3u8
+ure-076初川,https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/15b8c0eb/index.m3u8
+usba-032藤森裡穂,https://t15.cdn2020.com:12339/video/m3u8/2022/01/24/419c982e/index.m3u8
+vec-514北野未奈,https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/0dc53602/index.m3u8
+vec-518川西千帆,https://t17.cdn2020.com:12341/video/m3u8/2022/03/16/9fa939f4/index.m3u8
+venu-769星奈,https://t12.cdn2020.com:12337/video/m3u8/2021/10/19/6a61a871/index.m3u8
+venx-069相馬茜,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/040e9f76/index.m3u8
+venx-097川西千帆,https://t15.cdn2020.com:12339/video/m3u8/2022/01/03/74cc63f7/index.m3u8
+venx-099北野未奈,https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/f3816a72/index.m3u8
+venx-102相馬茜,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/f5166646/index.m3u8
+venx-111桜庭,https://t17.cdn2020.com:12341/video/m3u8/2022/03/16/8d55dd9c/index.m3u8
+WAAA-087工藤良羅,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3u8
+waaa-102広瀬,https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/b87142d5/index.m3u8
+waaa-104君島,https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/710d5dfe/index.m3u8
+waaa-106,https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/7c31b20e/index.m3u8
+waaa-115妃,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/3b238b38/index.m3u8
+waaa-128,https://t15.cdn2020.com:12339/video/m3u8/2022/01/15/166cdfea/index.m3u8
+waaa-134工藤,https://t15.cdn2020.com:12339/video/m3u8/2022/01/17/7ed2cc24/index.m3u8
+wanz-360吉永,https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/3a24c0c9/index.m3u8
+WANZ-957奏音花音,https://videomy.yongaomy.com/20211017/jSi0DQcD/1500kb/hls/index.m3u8
+xvsr-610波多野結衣,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/ee9c2367/index.m3u8
+xvsr-612渡辺,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/edecc33f/index.m3u8
+xvsr-628咲野瑞希,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/6b178ebf/index.m3u8
+xvsr-632逢見,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/b90fc686/index.m3u8
+xvsr-633咲野瑞希,https://t17.cdn2020.com:12341/video/m3u8/2022/03/16/e9516315/index.m3u8
+ymdd-240白川,https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/ba7e3a25/index.m3u8
+ymdd-242白川奏音,https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/a08937ab/index.m3u8
+ysn-565渚,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/0bf471ba/index.m3u8
+ysn-566高瀬,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/96dc5cd0/index.m3u8
+mifd070永瀬,https://fc.maa1808.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
+加勒比350丘笑,https://fc.maa1808.com/f/ocyxhukqvo/ocyxhukqvo.m3u8
+pondo518姬川,https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
+carib239西川,https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
+heyzo1243水谷,https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
+pondo366水谷,https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
+heyzo1395姬川,https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
+carib375姬川,https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
+carib363西川,https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
+pondo350西川,https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
+carib339姬川,https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
+加勒比001THE4名,https://fc.maa1808.com/m/ajtnayynwz/ajtnayynwz.m3u8
+pondo311水谷,https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
+carib665姬川,https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
+pondo273水谷,https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
+heyzo1638姬川,https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
+pondo488姬川,https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
+carib004西川,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
+carib337西川,https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
+carib288西川,https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
+carib146西川,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
+carib665姬川,https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
+heyzo1275水谷,https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
+carib311西川,https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
+carib375姬川,https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
+carib420丘笑,https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
+carib182西川,https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
+carib533丘笑,https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
+carib433姬川,https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
+heyzo1544姬川,https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
+pondo618水谷,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
+加勒比206西川,https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
+carib002姬川,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
+heyzo1478丘笑,https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
+carib541神田,https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
+carib710神田,https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
+pondo419西川,https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
+heyzo1262西川,https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
+heyzo0705杏奈,https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
+heyzo1199希笑,https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
+加勒比612希笑,https://fc.maa1808.com/n/kqnjvnpjkm/kqnjvnpjkm.m3u8
+pondo764杏奈,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
+carib589立花琉莉,https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
+carib744立花琉莉,https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
+pondo793杏奈,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
+carib531立花琉莉,https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
+carib495神田,https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
+pondo450西川,https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
+carib474立花琉莉,https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
+pondo597西川,https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
+heyzo1601北川,https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
+pondo613七瀨,https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
+嘿嘿1768神田,https://fc.maa1808.com/g/mllotqnpol/mllotqnpol.m3u8
+carib717杏奈,https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
+carib675神田,https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
+pondo559北川,https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
+heyzo1722杏奈,https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
+carib563七瀨,https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
+carib674杏奈,https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
+carib477立花琉莉,https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
+heyzo1590神田,https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
+帕科馬馬希笑,https://fc.maa1808.com/m/rwrhezjunn/rwrhezjunn.m3u8
+carib758美笑愛,https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
+heyzo1691神田,https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
+carib431北川,https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
+carib449神田,https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
+carib563愛莉,https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
+heyzo1786杏奈,https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
+carib639神田,https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
+carib457北川,https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
+嘿嘿立花琉莉,https://fc.maa1808.com/c/rkxhwovsgf/rkxhwovsgf.m3u8
+heyzo1570神田,https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
+carib478北川,https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
+ssis-309小宵,https://play92332.com/20220206/djXQUFEU/1734kb/hls/index.m3u8
+三原穗花加藤綾野,https://fc.maa1809.com/h/qjotnrtkkh/qjotnrtkkh.m3u8
+春埼芽衣,https://fc.maa1809.com/m/omsopjnoon/omsopjnoon.m3u8
+笠木一香,https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8
+河原楓,https://fc.maa1809.com/f/qcreaitlwz/qcreaitlwz.m3u8
+春埼芽衣,https://fc.maa1809.com/d/onqiitnimq/onqiitnimq.m3u8
+筱原友香,https://fc.maa1809.com/e/ktpmorpkrk/ktpmorpkrk.m3u8
+伊藤優希,https://fc.maa1809.com/d/hmjfiplneo/hmjfiplneo.m3u8
+春埼芽衣,https://fc.maa1809.com/m/iiojdlpnjp/iiojdlpnjp.m3u8
+咲咲原凜星奈愛,https://fc.maa1809.com/d/ojpmkokpmm/ojpmkokpmm.m3u8
+筱原友香,https://fc.maa1809.com/d/jnqjlprmom/jnqjlprmom.m3u8
+$$松永紗奈1,https://fc.maa1809.com/m/roqelpimmo/roqelpimmo.m3u8
+$音羽,https://fc.maa1809.com/c/nokhxqnqpj/nokhxqnqpj.m3u8
+$奏美沙,https://fc.maa1809.com/e/chifuosxst/chifuosxst.m3u8
+$松永紗奈2,https://fc.maa1809.com/e/ohtlknkomr/ohtlknkomr.m3u8
+$$$永瀨唯,https://fc.maa1809.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
+$晴佳,https://fc.maa1809.com/b/inmkopifvj/inmkopifvj.m3u8
+$松永紗奈9,https://fc.maa1809.com/d/kvrynihixm/kvrynihixm.m3u8
+$松永紗奈5,https://fc.maa1809.com/h/soknsufnkn/soknsufnkn.m3u8
+$松永紗奈10,https://fc.maa1809.com/c/fkkrigoeyk/fkkrigoeyk.m3u8
+$花音,https://fc.maa1809.com/e/pjnvmkrplq/pjnvmkrplq.m3u8
+$姬野栞,https://fc.maa1809.com/g/rnhlghoqyo/rnhlghoqyo.m3u8
+$真野穗花,https://fc.maa1809.com/g/rgtrqpugql/rgtrqpugql.m3u8
+$$松永紗奈7,https://fc.maa1809.com/f/knmpkoqmjg/knmpkoqmjg.m3u8
+c2022322,https://play92332.com/20220322/Sflw8j5Z/1802kb/hls/index.m3u8
+古川伊織1,https://fc.maa1804.com/d/watoxrzumr/watoxrzumr.m3u8
+VEC-514C北野未奈,https://play92332.com/20220127/SAxdMU5i/1759kb/hls/index.m3u8外國,#genre#
 Star Movies,https://epg.pw/stream/e61d26f3b8a9fba6ceb851b916fd29093428d46c1c9e7f4eb0bc885b34b7a285.m3u8
 Star Movies,https://epg.pw/stream/5e953939ff5146840069023efee058dc5c5fcba928b800d18794eb5149c4c3a9.ctv
 HBO HD,https://epg.pw/stream/97546f80c3ce895d9c8f106f502e98028c4ae67fd91da81be0cb42ec506f90b8.ctv

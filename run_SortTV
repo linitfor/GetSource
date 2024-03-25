@@ -124,4 +124,4 @@ grep -i "CINEMAX" ./TV_TW_tmp.txt >> TV_TW.txt
 
 echo "體育,#genre#" >> TV_TW.txt
 grep -i "體育,h" ./TV_TW_tmp.txt >> TV_TW.txt
-grep -i "體育" ./TV_TW_tmp.txt | grep -v "體育,#" | grep "體育旅遊" | sort -r >> TV_TW.txt
+grep -i "體育" ./TV_TW_tmp.txt | grep -v "體育,#" | grep -v "體育旅遊" | sort -r >> TV_TW.txt

@@ -27,6 +27,7 @@ grep -i "客家電視" ./TV_TW_tmp.txt >> TV_TW.txt
 grep -i "BBC Earth" ./TV_TW_tmp.txt >> TV_TW.txt
 grep -i "Discovery " ./TV_TW_tmp.txt >> TV_TW.txt
 grep -i "TLC 旅遊生活" ./TV_TW_tmp.txt >> TV_TW.txt
+grep -i "TLC" ./TV_TW_tmp.txt >> TV_TW.txt
 grep -i "動物星球" ./TV_TW_tmp.txt >> TV_TW.txt
 grep -i "CN卡通" ./TV_TW_tmp.txt >> TV_TW.txt
 grep -i "尼克兒童" ./TV_TW_tmp.txt >> TV_TW.txt

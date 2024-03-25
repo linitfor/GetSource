@@ -105,7 +105,7 @@ grep -i "八大娛樂" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
 
 
 echo "Youtube,#genre#" >> TV_TW.txt
-grep -i "YTLive" ./TV_TW_tmp.txt  | sort -ru >> TV_TW.txt
+grep -i "YTLive" ./TW_only.txt >> TV_TW.txt
 
 
 echo "快速,#genre#" >> TV_TW.txt
@@ -127,3 +127,13 @@ grep -i "Star" ./TV_TW_tmp.txt >> TV_TW.txt
 echo "體育,#genre#" >> TV_TW.txt
 grep -i "體育,h" ./TV_TW_tmp.txt >> TV_TW.txt
 grep -i "體育" ./TV_TW_tmp.txt | grep -v "體育,#" | grep -v "體育旅遊" | sort -ru >> TV_TW.txt
+
+
+
+rm -rf ./test_channels_taiwan.txt*
+rm -rf ./test_channels_movies.txt*
+rm -rf ./test_channels_united_states.txt*
+rm -rf ./TW_only.txt*
+rm -rf ./epg_tw.txt*
+rm -rf ./ytnew.txt*
+rm -rf ./TW1.txt*

@@ -70,6 +70,7 @@ jobs:
           cat movie.txt  epg_tw.txt > TV1.txt 
           cat ytnew.txt  TV1.txt > TV.txt
           sed -i 's/\[geo\-blocked\]//' ./TV.txt
+          sed -i 's/Beyond//' ./TV.txt
           
           #rm -rf ./test_channels_taiwan.txt*
           #rm -rf ./test_channels_movies.txt*

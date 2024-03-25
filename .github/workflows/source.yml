@@ -71,13 +71,13 @@ jobs:
           cat ytnew.txt  TV1.txt > TV.txt
           sed -i 's/\[geo\-blocked\]//' ./TV.txt
           
-          rm -rf ./test_channels_taiwan.txt*
-          rm -rf ./test_channels_movies.txt*
-          rm -rf ./test_channels_united_states.txt*
-          rm -rf ./TW_only.txt*
-          rm -rf ./epg_tw.txt*
-          rm -rf ./ytnew.txt*
-          rm -rf ./TW1.txt*
+          #rm -rf ./test_channels_taiwan.txt*
+          #rm -rf ./test_channels_movies.txt*
+          #rm -rf ./test_channels_united_states.txt*
+          #rm -rf ./TW_only.txt*
+          #rm -rf ./epg_tw.txt*
+          #rm -rf ./ytnew.txt*
+          #rm -rf ./TW1.txt*
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
@@ -102,6 +102,8 @@ jobs:
       #    grep "民視," ./TV_TW_tmp.txt >> ./TV_TW.txt
       #    grep "人間衛視" ./TV_TW_tmp.txt >> ./TV_TW.txt
       #    grep "台視", ./TV_TW_tmp.txt >> ./TV_TW.txt
+      
+
           
       - name: git add
         run: |

@@ -16,6 +16,7 @@ grep "rtmp" ./TW_only.txt  >> TV_TW.txt
 
 
 echo "影劇,#genre#" >> TV_TW.txt
+grep -i "影劇" ./TV_TW_tmp.txt  | grep -v "影劇,#genre#"  >> TV_TW.txt
 grep "戲劇,h"  ./TV_TW_tmp.txt >> TV_TW.txt
 grep "影劇,h"  ./TV_TW_tmp.txt >> TV_TW.txt
 grep "電影,h"  ./TV_TW_tmp.txt >> TV_TW.txt

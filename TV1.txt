@@ -179,7 +179,7 @@ el tv,https://epg.pw/stream/cce8173beff079fb1a58f57807f35720fd558fd042d46a3e372e
 八大綜合[geo-blocked],https://epg.pw/stream/0f42d7a4f52938a89de00d9fb31acc9efa1f5287ccb25f5fb6831f190b12d4eb.m3u8
 八大綜合[geo-blocked],https://epg.pw/stream/c4270d824832f465a6f01fdae615e9d6d29b50e8ec255cb6b5ba5d0a4ffb353a.m3u8
 八大綜合[geo-blocked],https://epg.pw/stream/d7e09989ec9527b80662fde5eaae912fa3d6baa6c00e6f79a9432ee03d8c2500.m3u8
-八大綜合[geo-blocked],https://epg.pw/stream/1c2fc7d5c86079d1921eeab47c285feb04841a33c225de3c306625c9a1921d70.m3u8
+八大綜合,https://epg.pw/stream/1c2fc7d5c86079d1921eeab47c285feb04841a33c225de3c306625c9a1921d70.m3u8
 华视[geo-blocked],https://epg.pw/stream/b7de54beedd00c8b00197e11541eb6d5e70c856ed712b3b937689c24f476c135.m3u8
 华视[geo-blocked],https://epg.pw/stream/310fc17ad83dbe9bdf2a35abf9cd2a8c138a4abe3de1ae962264eb708bbdd290.ctv
 华视[geo-blocked],https://epg.pw/stream/0a29dd0b47f62669198f0193cd88e4b6f7eac1c7e3e6ef325d38eb5ccaf86dab.m3u8

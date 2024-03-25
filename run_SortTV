@@ -70,6 +70,7 @@ grep -i "八大綜合" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
 grep -i "三立台灣" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
 grep -i "三立都會" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
 grep -i "韓國娛樂台KMTV" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
+grep -i "ELTA娛樂" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
 grep -i "東森綜合" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
 grep -i "超視" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
 grep -i "東森購物2" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt

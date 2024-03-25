@@ -99,11 +99,14 @@ jobs:
         run: |
           chmod +x ./run_SortTV
           ./run_SortTV
-      #    grep "民視," ./TV_TW_tmp.txt >> ./TV_TW.txt
-      #    grep "人間衛視" ./TV_TW_tmp.txt >> ./TV_TW.txt
-      #    grep "台視", ./TV_TW_tmp.txt >> ./TV_TW.txt
-      
 
+           rm -rf ./test_channels_taiwan.txt*
+           rm -rf ./test_channels_movies.txt*
+           rm -rf ./test_channels_united_states.txt*
+           rm -rf ./TW_only.txt*
+           rm -rf ./epg_tw.txt*
+           rm -rf ./ytnew.txt*
+           rm -rf ./TW1.txt*
           
       - name: git add
         run: |

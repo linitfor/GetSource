@@ -109,7 +109,7 @@ grep -i "YTLive" ./TW_only.txt >> TV_TW.txt
 
 
 echo "快速,#genre#" >> TV_TW.txt
-grep "rtmp" ./TV_TW_tmp.txt | sort -u >> TV_TW.txt
+grep "rtmp" ./TW_only.txt  >> TV_TW.txt
 
 
 echo "影劇,#genre#" >> TV_TW.txt

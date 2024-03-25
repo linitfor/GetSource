@@ -55,7 +55,7 @@ jobs:
           
           grep "Star Movie" ./test_channels_united_states.txt >> movie.txt
           grep "HBO HD" ./test_channels_united_states.txt >> movie.txt
-          grep "hbo2" ./test_channels_united_states.txt >> movie.txt
+          #grep "hbo2" ./test_channels_united_states.txt >> movie.txt
           grep "HBO Family" ./test_channels_united_states.txt >> movie.txt
           grep "HBO Signature" ./test_channels_united_states.txt >> movie.txt
           

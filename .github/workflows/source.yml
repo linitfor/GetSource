@@ -64,7 +64,8 @@ jobs:
           grep "HBO 3"  ./test_channels_movies.txt >> movie.txt
 
           wget https://raw.githubusercontent.com/linitfor/MyTV/main/TW_only.txt
-          head -n 140 ./TW_only.txt > ytnew.txt
+          #head -n 140 ./TW_only.txt > ytnew.txt
+          cat ./TW_only.txt > ytnew.txt
 
           cat movie.txt  epg_tw.txt > TV1.txt 
           cat ytnew.txt  TV1.txt > TV.txt

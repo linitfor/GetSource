@@ -104,7 +104,7 @@ grep -i "八大娛樂" ./TV_TW_tmp.txt >> TV_TW.txt
 
 
 echo "Youtube,#genre#" >> TV_TW.txt
-grep -i "YTLive" ./TV_TW_tmp.txt  | sort -u >>> TV_TW.txt
+grep -i "YTLive" ./TV_TW_tmp.txt  | sort -u >> TV_TW.txt
 
 
 echo "快速,#genre#" >> TV_TW.txt

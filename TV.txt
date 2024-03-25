@@ -747,6 +747,7 @@ Cinemax,https://epg.pw/stream/47f1e8c5d33d2225164649273b1fa4f9294772b9ae56ca27f8
 Cinemax,https://epg.pw/stream/66e1af66bb93f7e5a18590b0ffd909f053bd39594819c833e0ccf72fd85e7374.ctv
 Cinemax,https://epg.pw/stream/ba9c57f25e7b1d9baf53c22c242e50ccb11e55c1e5db428dba70632eb4ddf1e3.ctv
 Cinemax,https://epg.pw/stream/037cab7609cf10ece8feeb0b82e8ca6e65035daee17a9f58923c35420c0933c4.ctv
+Cinemax,https://epg.pw/stream/9db8558f53ce33c466cafe335509271e1b2d0603d4de7f95060bf849974ea5c6.ctv
 Cinemax,https://epg.pw/stream/2a975eb330fa4e1378c105d256ace5cd912b134e65fa49acdd97af7cf632c298.m3u8
 Cinemax,https://epg.pw/stream/012a5f72f5e2658ae2c268c434f10001fb449507532a4c202f589a76ef09665b.ctv
 Cinemax,https://epg.pw/stream/c5fc6b0258b9b1c4dd610a33e45ca34a3a9db588928ee05e147f19c051dca054.ctv
@@ -958,7 +959,7 @@ discovery channel cee hd,https://epg.pw/stream/6660b80a6b508f316b418a3ce81968759
 discovery channel cee hd,https://epg.pw/stream/04a408a0354c634c7cad80a9e0f90ccfebc366c4024146c243abd12f513aab4f.m3u8
 discovery channel cee hd,https://epg.pw/stream/6a9357630adb8e0e9030f25b82de1e753361d6c822c33094a27c8462eadb6ae3.m3u8
 電影,#genre#
-CATCHPLAY Beyond,https://epg.pw/stream/424c7922c8d03994650616aa696e295840967eb75afcd08d2a8fa07a8491731c.m3u8
+CATCHPLAY ,https://epg.pw/stream/424c7922c8d03994650616aa696e295840967eb75afcd08d2a8fa07a8491731c.m3u8
 CINEMAX(TW),https://epg.pw/stream/19002e7ace1a8f7755c4a6ef0689fce93495448228312fb20c7d02a5947eafec.ctv
 CinemaWorld TW,https://epg.pw/stream/0e7993b290b05992c092b2b1ee1ad71ad2814bab86a504e718e130c68b58a98a.ctv
 HBO ASIA,https://epg.pw/stream/753b8be4e27b542f28e5e77959b0713a54846dc6ebd6b738937cf5cf5cc1f566.ctv

@@ -69,6 +69,10 @@ EYETV戲劇,http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d
 靖洋戲劇,https://epg.pw/stream/4577845e1299e7395ffb3b10a1d8a861c3e33f46cd41ec1c6cf5056a22440f95.m3u8
 龍華戲劇,https://epg.pw/stream/6dfb8189be0e3e69a2b9a63956a201bdd04ba0c3db1eeec0c20406ada33ba775.m3u8
 龍華戲劇,https://epg.pw/stream/4527ac4c6a9dcbcb5344445f75dd9486c6465344a71e20087dd48ea420f6aaa6.ctv
+愛爾達影劇,http://198.16.100.90:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+愛爾達影劇,http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+愛爾達影劇,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+採昌影劇,https://epg.pw/stream/0bc646a16e8318982972d11e7e26b2a38bafee9be98597045b97e82f2e6bf588.m3u8
 東森電影,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
@@ -103,7 +107,7 @@ EYETV戲劇,http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d
 靖天電影,https://epg.pw/stream/72e7b465eaa28a52c471fdddf71c2d8e115c1acaf8fd434e70756ce1005c7f48.ctv
 龍華電影,https://epg.pw/stream/d931f1d4cba13e312f36fd0bd28da90c383ecea35a55457fc0067c871585587b.m3u8
 龍華電影,https://epg.pw/stream/6bad7cb13b81d8ab744ea2b8ca7b99c943914a91e0c769fa7448dc5aa8e740f9.ctv
-CATCHPLAY Beyond,https://epg.pw/stream/424c7922c8d03994650616aa696e295840967eb75afcd08d2a8fa07a8491731c.m3u8
+CATCHPLAY ,https://epg.pw/stream/424c7922c8d03994650616aa696e295840967eb75afcd08d2a8fa07a8491731c.m3u8
 東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 東森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
 東森洋片,https://epg.pw/stream/f01792b149a55cc131150c35d0c678d325563b064635315b40d4ad31bb52090e.m3u8
@@ -225,6 +229,7 @@ Cinemax,https://epg.pw/stream/47f1e8c5d33d2225164649273b1fa4f9294772b9ae56ca27f8
 Cinemax,https://epg.pw/stream/66e1af66bb93f7e5a18590b0ffd909f053bd39594819c833e0ccf72fd85e7374.ctv
 Cinemax,https://epg.pw/stream/ba9c57f25e7b1d9baf53c22c242e50ccb11e55c1e5db428dba70632eb4ddf1e3.ctv
 Cinemax,https://epg.pw/stream/037cab7609cf10ece8feeb0b82e8ca6e65035daee17a9f58923c35420c0933c4.ctv
+Cinemax,https://epg.pw/stream/9db8558f53ce33c466cafe335509271e1b2d0603d4de7f95060bf849974ea5c6.ctv
 Cinemax,https://epg.pw/stream/2a975eb330fa4e1378c105d256ace5cd912b134e65fa49acdd97af7cf632c298.m3u8
 Cinemax,https://epg.pw/stream/012a5f72f5e2658ae2c268c434f10001fb449507532a4c202f589a76ef09665b.ctv
 Cinemax,https://epg.pw/stream/c5fc6b0258b9b1c4dd610a33e45ca34a3a9db588928ee05e147f19c051dca054.ctv
@@ -504,7 +509,7 @@ TVBS Asia,https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae
 東森財經新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E.m3u8
 東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 非凡新聞,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-CATCHPLAY Beyond,https://epg.pw/stream/424c7922c8d03994650616aa696e295840967eb75afcd08d2a8fa07a8491731c.m3u8
+CATCHPLAY ,https://epg.pw/stream/424c7922c8d03994650616aa696e295840967eb75afcd08d2a8fa07a8491731c.m3u8
 東森電影,https://epg.pw/stream/a0dc58e79f2702dacfc8d1d2794daeb4aaee78932a920831739df7846a5fbc6a.m3u8
 東森電影,https://epg.pw/stream/955488b84e90b3d75fcc1ce2ee6319b04fa9237531d570de71d18325d3b02c14.m3u8
 東森電影,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
@@ -600,6 +605,7 @@ Cinemax,https://epg.pw/stream/c5fc6b0258b9b1c4dd610a33e45ca34a3a9db588928ee05e14
 Cinemax,https://epg.pw/stream/c38caf5bc57de31b4e976cd2f3f4694514939ab6b57e31b61597a69045f14c60.ctv
 Cinemax,https://epg.pw/stream/ba9c57f25e7b1d9baf53c22c242e50ccb11e55c1e5db428dba70632eb4ddf1e3.ctv
 Cinemax,https://epg.pw/stream/ad96da3937e706257215ac0b1d49c92c2f24beff5007e319f466ad9f3ee04145.m3u8
+Cinemax,https://epg.pw/stream/9db8558f53ce33c466cafe335509271e1b2d0603d4de7f95060bf849974ea5c6.ctv
 Cinemax,https://epg.pw/stream/9955daac4cec74664e4e4350687a2b1373be6892420c6b0e4ab7a7be4bad16a9.ctv
 Cinemax,https://epg.pw/stream/951ea64fa7b24d34388530068c19750a14c888fce2baaca575c6af4a48c21bf0.m3u8
 Cinemax,https://epg.pw/stream/94627b7cf4a866d670f9c7aa45169d3dd60696c8032d02a460e424cb87c27cdb.ctv

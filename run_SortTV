@@ -74,7 +74,8 @@ grep -i "CATCHPLAY" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
 grep -i "東森電影" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
 grep -i "緯來電影" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
 grep -i "LS龍祥電影" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
-grep -i "HBO" ./TV_TW_tmp.txt | sort -u >> TV_TW.txt
+grep -i "HBO HD" ./TV_TW_tmp.txt | sort -u >> TV_TW.txt
+grep -i "HBO" ./TV_TW_tmp.txt | grep -v "HBO HD" | sort -u >> TV_TW.txt
 grep -i "東森洋片" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
 grep -i "AXN" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
 grep -i "好萊塢電影" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt

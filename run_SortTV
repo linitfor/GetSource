@@ -10,6 +10,7 @@ rm -rf ./TV_TW.txt
 echo "Youtube,#genre#" >> TV_TW.txt
 grep -i "YTLive" ./TW_only.txt >> TV_TW.txt
 
+grep -i "ubtv" ./TW_only.txt >> TV_TW.txt
 
 echo "直播,#genre#" >> TV_TW.txt
 grep "rtmp" ./TW_only.txt  >> TV_TW.txt

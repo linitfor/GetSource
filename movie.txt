@@ -6,7 +6,7 @@ HBO HD,https://epg.pw/stream/724a85adf3999e1c0a71a934905c823c9f3329043da842d5e0c
 HBO Family[geo-blocked],https://epg.pw/stream/104bdb81b12cb7fca728b0f61f3e9b014cc81b200420d5b049f28a56a4767263.m3u8
 HBO Family,https://epg.pw/stream/5f6c7675f4860477f52ee6abd1cc8cba92a992c90f7b3e1ba539658ecbe07bd3.ctv
 HBO Family[geo-blocked],https://epg.pw/stream/7513daa08a732acbadcf9c220ba81e475f2d9b2198afd937e69adc2e53512fa0.m3u8
-HBO Family[geo-blocked],https://epg.pw/stream/e630168962ef858be879b07867cb51209502977f929fcd0806d6c56beb4e5344.m3u8
+HBO Family,https://epg.pw/stream/e630168962ef858be879b07867cb51209502977f929fcd0806d6c56beb4e5344.m3u8
 HBO Family(USA),https://epg.pw/stream/1c139f189e874b097083f79a9dbe4da0f0a0c7d01dbe2bd91296d9de8030f6f3.ctv
 HBO Family(USA),https://epg.pw/stream/8a07e2e0dbe0b014cd5ddd01082831ec1178ec54a0e9081a5ecce90c62b7d1cb.ctv
 HBO Family(USA),https://epg.pw/stream/937c30f32ea757d5095a53a3c47ff19e0e3e6bccf33dfc5e514b70e4c48e0cde.ctv

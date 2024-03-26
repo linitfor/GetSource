@@ -182,7 +182,6 @@ HBO Signature HD,https://epg.pw/stream/b04d10d5b1b876c49b553e91ab4c0f467ef77480c
 HBO Signature(USA),https://epg.pw/stream/0deb2915d916a21d93a4ce028c7e4ed9030ed84ebe604c7c5442c167d4e5dcae.ctv
 HBO Signature(USA),https://epg.pw/stream/1bb3dfa3583a3d52517b37afa2767287147cbe4aeda30c692947d27a24b21be8.ctv
 HBO Signature(USA),https://epg.pw/stream/c35cd6d7f88fe2a82c058311daf5fcc0fb88b7cf4e65ad1749208300989138bc.ctv
-HBO Signature(USA),https://epg.pw/stream/d576abda9a5492fcecf94e243f29a744ce13d60ce8794af37a545e366062bfbf.ctv
 HBO Signature(USA),https://epg.pw/stream/9721cfec1b7656928d7f82757d4819f11f03ba5e0ec76c8bd511fd2f008ac7a7.ctv
 HBO Signature(USA),https://epg.pw/stream/1dece8233f2f03efa239859963a915eda8a81c2a696f72dd59c2c126050de288.ctv
 HBO Signature(USA),https://epg.pw/stream/06d3b357e32fe581ddd64ea9e52acd9634a73ca67c4e0c1ab5a7b2bb54f9ea8e.ctv
@@ -193,6 +192,7 @@ HBO Signature(USA),https://epg.pw/stream/bc03c5e4c751e76095523fce33a82878e0be160
 HBO Signature(USA),https://epg.pw/stream/eb04d3332e97f03cc6be149e98f83d7aa6a30371a2bbf14d306084061e0e72e1.ctv
 HBO Signature(USA),https://epg.pw/stream/7db4fa1411fc03dd2b7f4232c1a79d0a4436628d604326d15f7a06584090e0d2.ctv
 HBO Signature(USA),https://epg.pw/stream/43dd0919806d2a58215a45e898b413a7a5fa9e405aa2360e1ddfc95809adb057.ctv
+HBO Signature(USA),https://epg.pw/stream/d576abda9a5492fcecf94e243f29a744ce13d60ce8794af37a545e366062bfbf.ctv
 HBO 2,https://epg.pw/stream/3eb2d1be1372ea4afafe3dbaf7d94cfcfe9cb496fe3ca8cdc469680222a3030b.m3u8
 HBO 2,https://epg.pw/stream/deac669b5d2aaa1b57f1913f303c0cd9ad868cc728538647a386e09380bd66ed.m3u8
 HBO 2,https://epg.pw/stream/d71470e708024591a9887c9ae8c6822f64e9d1d9ce91dc8d22c86ebe24c3b2c8.ctv

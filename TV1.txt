@@ -164,7 +164,7 @@ el tv,https://epg.pw/stream/cce8173beff079fb1a58f57807f35720fd558fd042d46a3e372e
 中視[geo-blocked],https://epg.pw/stream/f1711cbda7de6c1897140f76268f8de35e35fc08a9efdfcb8262319cc69b66a1.m3u8
 中視[geo-blocked],https://epg.pw/stream/00c0e49f6b0ebf36cf01a6b87955f78c400927f22fac4390ac0838cebd333d11.ctv
 中視,rtmp://f13h.mine.nu/sat/tv091
-中視,https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
+中視[geo-blocked],https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
 中視[geo-blocked],https://epg.pw/stream/559f457c06a5d89cd643f39d539e6b06fe964b9b1b2e7db55a4c7a5ad64895bb.ctv
 中視菁采臺[geo-blocked],https://epg.pw/stream/68e9b4a0a59369822cb4447da6ddefd8032c322dc5fe904f0d84224747d03b47.m3u8
 信大電視台[geo-blocked],https://epg.pw/stream/397ebfe7482a9500a9e02fe3c90af18f92e42a901e5c76e53d76b5faff7eecae.m3u8
@@ -205,7 +205,7 @@ el tv,https://epg.pw/stream/cce8173beff079fb1a58f57807f35720fd558fd042d46a3e372e
 緯來育樂[geo-blocked],https://epg.pw/stream/2a732300753dd501a544b41d3ed7a272642a8b4f251c1131636d36644ad3fbd0.m3u8
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來育樂[geo-blocked],https://epg.pw/stream/3791deb30b7bba8c51c4492c66e4533fb786249b546387ca93e2a8a044689529.m3u8
-華視[geo-blocked],https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
+華視,https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
 靖天國際[geo-blocked],https://epg.pw/stream/277e50975b5d7c770eae2dfc79404a5b49bdd3ea3fa284da631b33c809813920.m3u8
 靖天國際[geo-blocked],https://epg.pw/stream/008b7492f59e650ba35748ed3574761b770ddb195d7559017799911e8b8fcb4f.m3u8
 靖天綜合[geo-blocked],https://epg.pw/stream/fd6a2d196572e67cb8d49f16bcd9602af8b7408cd4e1e6a9e4ae988e80481df7.m3u8

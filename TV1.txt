@@ -384,7 +384,6 @@ taiwan plus tv[geo-blocked],https://epg.pw/stream/267c0b2b5c568141770f81bde234b3
 115新天地民俗臺[geo-blocked],https://epg.pw/stream/4bb6cd65c225d9000bfa15a013db79f1068df4d235fb7e2b041dad9ae2b4d1c0.ctv
 115新天地民俗臺[geo-blocked],https://epg.pw/stream/83cb88afa92f7469a01bb33a62c2ec15328cacbac9c0ea94f17ce3099062cac9.ctv
 115新天地民俗臺[geo-blocked],https://epg.pw/stream/f41827a1237e7180f5397cd04a3521f6bffe93737f13bd0f27dadeaa4f900746.ctv
-115新天地民俗臺[ipv6],https://epg.pw/stream/088dc3e1f8cb4fde7c9375c757256c4f87790dfccbe93d64defbe2db8f08175d.m3u8
 115新天地民俗臺,https://epg.pw/stream/a29ba2a4077fadda7271f9196d93073850de7b69cae5be8467b20fd906de21ba.m3u8
 EYE TV旅遊,https://epg.pw/stream/3065991f5837146ac01b6e9e32c2fee4a1edde498beefe4107543d2560431540.m3u8
 FOOD NETWORK,https://epg.pw/stream/ca05614fef9f090bedaf74eecfac46606417411992c65e72b72a2f4ab14f9ab9.ctv

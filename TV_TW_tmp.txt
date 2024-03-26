@@ -761,10 +761,6 @@ Cinemax,https://epg.pw/stream/f0fac986e5693ce4f2c8e9f6c4c256c390ebc542425900e72b
 Cinemax,https://epg.pw/stream/ffbe3f1c3a9fcd8e952d055d2304605ba58aa0b224799c16278c180a082e1882.ctv
 Cinemax,https://epg.pw/stream/ad96da3937e706257215ac0b1d49c92c2f24beff5007e319f466ad9f3ee04145.m3u8
 Cinemax,https://epg.pw/stream/94627b7cf4a866d670f9c7aa45169d3dd60696c8032d02a460e424cb87c27cdb.ctv
-Cinemax,https://epg.pw/stream/d6f0940b85f211d8063305d29864c7dacbb7345e15b1fbf8ddb01d4077d1af95.ctv
-Cinemax,https://epg.pw/stream/c38caf5bc57de31b4e976cd2f3f4694514939ab6b57e31b61597a69045f14c60.ctv
-Cinemax,https://epg.pw/stream/47f1e8c5d33d2225164649273b1fa4f9294772b9ae56ca27f8c80f71173f9ea4.ctv
-Cinemax,https://epg.pw/stream/66e1af66bb93f7e5a18590b0ffd909f053bd39594819c833e0ccf72fd85e7374.ctv
 Cinemax,https://epg.pw/stream/ba9c57f25e7b1d9baf53c22c242e50ccb11e55c1e5db428dba70632eb4ddf1e3.ctv
 Cinemax,https://epg.pw/stream/037cab7609cf10ece8feeb0b82e8ca6e65035daee17a9f58923c35420c0933c4.ctv
 Cinemax,https://epg.pw/stream/9db8558f53ce33c466cafe335509271e1b2d0603d4de7f95060bf849974ea5c6.ctv
@@ -1000,12 +996,8 @@ young hollywood,https://epg.pw/stream/9c60cfc4b5a062fc264fae9f3ec66eef1d6ffc0e88
 民視影劇臺,https://epg.pw/stream/b2f35b3f2d927ce635628a27c93510bb36ccd082b9692b9dca292e8b5f038504.m3u8
 民視影劇臺,https://epg.pw/stream/0d23a7a312403211eb69cf79f0c149707422905a96261700677ca50c0a391946.ctv
 經典電影臺,https://epg.pw/stream/98b5e5e277185eb959abcae72d13987779650fbb0afc1369c19a91f0e8cc5bc4.ctv
-經典電影臺,https://epg.pw/stream/2b7cf490ef17ab328643c6d68bdfaa0711dece59ea1cb82e38078eede1cb933b.m3u8
-經典電影臺,https://epg.pw/stream/510d8046e78cbc8c88df8a3798a9d71e0123eb31d0db8aa349f758dd61d05212.m3u8
-經典電影臺,https://epg.pw/stream/8d2074d198775815a5c38ecfc8bcdff97949a7b3eaabe9b97de86843aaa4801e.m3u8
 經典電影臺,https://epg.pw/stream/8a631b5a68a72d26ecef0b768589c402954aeab169ba3f1d832b7f39eadfd7c6.m3u8
 緯來戲劇,https://epg.pw/stream/06af5d797b97066fba1768bb5a76b8f05f1e6b821e5f08061417c6ea62810232.m3u8
-緯來戲劇,https://epg.pw/stream/c14f6f43a388590fcf7ace86e89aba395dd41e64efb3fbfaf7f09ab30a7163b8.m3u8
 緯來電影,https://epg.pw/stream/79afb04e47bb4c74700f57b78575282418deb10f6283c3c81b4e886da47ddf30.m3u8
 採昌影劇,https://epg.pw/stream/0bc646a16e8318982972d11e7e26b2a38bafee9be98597045b97e82f2e6bf588.m3u8
 靖天日本,https://epg.pw/stream/e5484f7f83c1ae2a81987ca8749cee125d994c8d6eb5f251d6cd9a7d60fb792d.m3u8

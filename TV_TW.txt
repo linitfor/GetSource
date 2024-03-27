@@ -148,8 +148,8 @@ z頻道,https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/
 EYETV戲劇,http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
 EYETV戲劇,http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
 龍華戲劇,https://epg.pw/stream/f23346775194273244aa8f9e1370288a18c9d2809f03e8746d953763379b35dc.m3u8
-三立戲劇,https://epg.pw/stream/049ee4698de273b5353e0ce9fda310b06631b3478a80563937d325c8f6af87ce.m3u8
 三立戲劇,https://epg.pw/stream/7814bf8a58f2070878c3a465bcbd7120959fe18c517a92a42d6943ada0920e19.m3u8
+三立戲劇,https://epg.pw/stream/049ee4698de273b5353e0ce9fda310b06631b3478a80563937d325c8f6af87ce.m3u8
 公視戲劇,https://epg.pw/stream/20465771bc9dbdd972f3c59e3c6645103aed450acd7f46bd1e4a9d166ee047a4.m3u8
 東森戲劇,https://epg.pw/stream/c0ad37d34a9eb21cee40998422ad7fcdffaa33171c8e0ffb7330f23d953a7588.m3u8
 緯來戲劇,https://epg.pw/stream/06af5d797b97066fba1768bb5a76b8f05f1e6b821e5f08061417c6ea62810232.m3u8

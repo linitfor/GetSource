@@ -5,7 +5,8 @@ rm -rf ./TV_TW.txt
 
 
 
-
+wget https://raw.githubusercontent.com/linitfor/MyTV/main/UBTV
+wget https://raw.githubusercontent.com/linitfor/MyTV/main/UBTV18
 
 echo "Youtube,#genre#" >> TV_TW.txt
 grep -i "YTLive" ./TW_only.txt >> TV_TW.txt
@@ -14,7 +15,7 @@ grep -i "YTLive" ./TW_only.txt >> TV_TW.txt
 
 echo "直播,#genre#" >> TV_TW.txt
 grep "rtmp" ./TW_only.txt  >> TV_TW.txt
-grep -i "ubtv" ./TW_only.txt >> TV_TW.txt
+grep -i "ubtv" ./UBTV >> TV_TW.txt
 
 echo "影劇,#genre#" >> TV_TW.txt
 
@@ -137,6 +138,7 @@ grep -i "ETtoday綜合" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
 grep -i "非凡商業" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
 grep -i "八大娛樂" ./TV_TW_tmp.txt | sort -ru >> TV_TW.txt
 
+grep -i "ubtv" ./UBTV18 >> TV_TW.txt
 
 rm -rf ./test_channels_taiwan.txt*
 rm -rf ./test_channels_movies.txt*
@@ -145,3 +147,5 @@ rm -rf ./TW_only.txt*
 rm -rf ./epg_tw.txt*
 rm -rf ./ytnew.txt*
 rm -rf ./TW1.txt*
+rm -rf ./UBTV
+rm -rf ./UBTV18

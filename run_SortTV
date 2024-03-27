@@ -143,9 +143,13 @@ grep -i "ubtv" ./UBTV18 >> TV_TW.txt
 rm -rf ./test_channels_taiwan.txt*
 rm -rf ./test_channels_movies.txt*
 rm -rf ./test_channels_united_states.txt*
-rm -rf ./TW_only.txt*
-rm -rf ./epg_tw.txt*
-rm -rf ./ytnew.txt*
-rm -rf ./TW1.txt*
+rm -rf ./TW_only.txt
+rm -rf ./epg_tw.txt
+rm -rf ./ytnew.txt
+rm -rf ./TV1.txt
+rm -rf ./TV.txt
+rm -rf ./TV_TW2.txt
+rm -rf ./TV_TW_tmp.txt
+rm -rf ./movie.txt
 rm -rf ./UBTV
 rm -rf ./UBTV18

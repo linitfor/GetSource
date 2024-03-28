@@ -110,7 +110,10 @@ ANX 亞洲,https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045d
 映天經典台,https://z88.ubtvfans.com/live/rx3/2289/2976c22827abb434e323d7c73ca72ba0/index.m3u8
 華納電影台,https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 美亞電影台,https://z88.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
+
+
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
+ELEVEN體育1,http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 ELEVEN體育2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
 ELTA體育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
 ELTA體育2,https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
@@ -124,8 +127,7 @@ ELTA體育4,https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726e
 韓國娛樂台,https://z88.ubtvfans.com/live/rx1/73/eba8ab25f763bf59dd3fb818ffb5f6e2/index.m3u8
 探索EVE台,https://z88.ubtvfans.com/live/rx3/1036/05e8b60c96fd3d3c8a88389976a9612b/index.m3u8
 DMAX,https://z88.ubtvfans.com/live/rx1/1038/55dfbe9cfe3273fdec5554cb3430eee1/index.m3u8
-z頻道,https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8
-影劇,#genre#
+z頻道,https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8影劇,#genre#
 東森戲劇,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 東森戲劇,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 東森戲劇,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
@@ -908,7 +910,9 @@ ANX 亞洲,https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045d
 八大娛樂臺,https://epg.pw/stream/89721c3a03d6612da0013885a828bad02a80c584180bcbd938d3acd88a90427d.m3u8
 UBTV18_1111,#genre#
 松視1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+松視1,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
 松視2,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
+松視2,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
 松視3,http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
 玩美台,http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
 彩虹電影,http://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
@@ -918,4 +922,10 @@ UBTV18_1111,#genre#
 Babestv,http://z88.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
 Hustler,http://z88.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
 SEX Action,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
+
 極限,http://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
+
+驚艷台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
+潘朵拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+一本道1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8

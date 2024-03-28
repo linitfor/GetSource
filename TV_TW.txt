@@ -254,6 +254,15 @@ HBO Signature,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee
 HBO Hits,http://abcnew.site:8880/3ca7123n11/ewfr543ds/71037
 HBO HD,https://epg.pw/stream/97546f80c3ce895d9c8f106f502e98028c4ae67fd91da81be0cb42ec506f90b8.ctv
 HBO HD,https://epg.pw/stream/724a85adf3999e1c0a71a934905c823c9f3329043da842d5e0cf6f942cd5b9ae.ctv
+HBO HD USA,https://epg.pw/stream/782a75d8f929655610f5046b16aa82345aa0820fbbb77f17723794894351175f.ctv
+HBO HD USA,https://epg.pw/stream/aac7504046a14f4fff0d2d6c97b782b3053fef707d01a2d50582dd971f743a15.ctv
+HBO HD USA,https://epg.pw/stream/2da4edb94e519c37e374343eecb6c7d2ce141afd08489d2757356b25efbe6e2d.ctv
+HBO HD USA,https://epg.pw/stream/0ae725a40c619f4fc70f3d835d8f9d43d1c03347ca218b4870050966f0257d95.ctv
+HBO HD USA,https://epg.pw/stream/52df12597bd13caad939ce643758583b9bfe62fe8ecfa4e4023b51d405d7894e.ctv
+HBO HD USA,https://epg.pw/stream/09ba6b4d386f2fb145b6bd458497dfa9baaf9942552a71408357ba11f544282e.ctv
+HBO HD USA,https://epg.pw/stream/eb2b79d460f64dadf50e8bc8660aab0b623c80da3fd47cac291223ab0dc9d5f2.ctv
+HBO HD USA,https://epg.pw/stream/8b537826e58d9d80235ccd45a899b1c91d9fff6e5d989351cda7d16dfe3b6e6f.ctv
+HBO HD USA,https://epg.pw/stream/bd3769cf09dde5bacb6c03a9820fddf044f198a9aba57864bcbb20ed2aad40c2.ctv
 HBO Family,https://epg.pw/stream/104bdb81b12cb7fca728b0f61f3e9b014cc81b200420d5b049f28a56a4767263.m3u8
 HBO Family,https://epg.pw/stream/5f6c7675f4860477f52ee6abd1cc8cba92a992c90f7b3e1ba539658ecbe07bd3.ctv
 HBO Family,https://epg.pw/stream/7513daa08a732acbadcf9c220ba81e475f2d9b2198afd937e69adc2e53512fa0.m3u8
@@ -268,7 +277,6 @@ HBO Family(USA),https://epg.pw/stream/b14a909e492cb06910a980e869428b5dd77c2e290a
 HBO Family(USA),https://epg.pw/stream/e8b239c98b36e891129b6f9bd7664c1308f595872fcd6e6aef263ba0a00958ea.ctv
 HBO Family(USA),https://epg.pw/stream/333039fe1e30180d53e89b87d3c71647413c4580b8a1a74186c098a32769b2a4.ctv
 HBO Family(USA),https://epg.pw/stream/3b892cec46d6bdf7b6d349ff0edec0cd802eb61abb8b9e506141f9a7c6c02218.ctv
-HBO Signature,https://epg.pw/stream/94424564af47b3601e3f4b19f6d1f0510cc5381910567708c700a4b351bcd472.m3u8
 HBO Signature,https://epg.pw/stream/4ab76c5d1a19d0d513b948e1de8b7dce4d5ed4d302f0b76c31036002a63586df.ctv
 HBO Signature,https://epg.pw/stream/54809efd6841b1d0ee0caeefe0d75647277344ff1c7d0f4840c7863123369265.m3u8
 HBO Signature,https://epg.pw/stream/88a938cf5cb08389b252d22d056d43017a0cd8bbb266f0a488c624db1019587c.m3u8
@@ -477,7 +485,6 @@ MOMO親子臺,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169d
 八大第一臺,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 八大第一,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大綜合臺,https://z88.ubtvfans.com/live/rx1/2286/78f60a216640f76802257cbab8095843/index.m3u8
-八大綜合,https://epg.pw/stream/d7e09989ec9527b80662fde5eaae912fa3d6baa6c00e6f79a9432ee03d8c2500.m3u8
 八大綜合,https://epg.pw/stream/c4270d824832f465a6f01fdae615e9d6d29b50e8ec255cb6b5ba5d0a4ffb353a.m3u8
 八大綜合,https://epg.pw/stream/bf55b97f4a9d3ef464fe271e1f833771d5ce865b440a2b43fc6112ab93781e59.m3u8
 八大綜合,https://epg.pw/stream/1c2fc7d5c86079d1921eeab47c285feb04841a33c225de3c306625c9a1921d70.m3u8
@@ -644,6 +651,15 @@ CATCHPLAY ,https://epg.pw/stream/424c7922c8d03994650616aa696e295840967eb75afcd08
 緯來電影臺,https://z88.ubtvfans.com/live/rx1/2728/ee9d35785d254820015bc78a3ef28185/index.m3u8
 緯來電影,https://epg.pw/stream/79afb04e47bb4c74700f57b78575282418deb10f6283c3c81b4e886da47ddf30.m3u8
 緯來電影,http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
+HBO HD USA,https://epg.pw/stream/09ba6b4d386f2fb145b6bd458497dfa9baaf9942552a71408357ba11f544282e.ctv
+HBO HD USA,https://epg.pw/stream/0ae725a40c619f4fc70f3d835d8f9d43d1c03347ca218b4870050966f0257d95.ctv
+HBO HD USA,https://epg.pw/stream/2da4edb94e519c37e374343eecb6c7d2ce141afd08489d2757356b25efbe6e2d.ctv
+HBO HD USA,https://epg.pw/stream/52df12597bd13caad939ce643758583b9bfe62fe8ecfa4e4023b51d405d7894e.ctv
+HBO HD USA,https://epg.pw/stream/782a75d8f929655610f5046b16aa82345aa0820fbbb77f17723794894351175f.ctv
+HBO HD USA,https://epg.pw/stream/8b537826e58d9d80235ccd45a899b1c91d9fff6e5d989351cda7d16dfe3b6e6f.ctv
+HBO HD USA,https://epg.pw/stream/aac7504046a14f4fff0d2d6c97b782b3053fef707d01a2d50582dd971f743a15.ctv
+HBO HD USA,https://epg.pw/stream/bd3769cf09dde5bacb6c03a9820fddf044f198a9aba57864bcbb20ed2aad40c2.ctv
+HBO HD USA,https://epg.pw/stream/eb2b79d460f64dadf50e8bc8660aab0b623c80da3fd47cac291223ab0dc9d5f2.ctv
 HBO HD,http://125.227.210.55:35210/VideoInput/play.ts
 HBO HD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 HBO HD,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
@@ -710,7 +726,6 @@ HBO Signature,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee
 HBO Signature,https://epg.pw/stream/4ab76c5d1a19d0d513b948e1de8b7dce4d5ed4d302f0b76c31036002a63586df.ctv
 HBO Signature,https://epg.pw/stream/54809efd6841b1d0ee0caeefe0d75647277344ff1c7d0f4840c7863123369265.m3u8
 HBO Signature,https://epg.pw/stream/88a938cf5cb08389b252d22d056d43017a0cd8bbb266f0a488c624db1019587c.m3u8
-HBO Signature,https://epg.pw/stream/94424564af47b3601e3f4b19f6d1f0510cc5381910567708c700a4b351bcd472.m3u8
 HBO Signature,https://epg.pw/stream/d9aa885cfe16554da1d006ade22fd9ee32031c8fe6caf993f5feaa386af432fc.ctv
 HBO Signature,https://epg.pw/stream/f444d7de38b926b04f9732ee61f2397e5aea62807d00069d4a1e33ca52458ff1.m3u8
 東森洋片臺,https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8

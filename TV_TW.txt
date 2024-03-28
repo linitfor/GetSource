@@ -152,7 +152,6 @@ EYETV戲劇,http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724
 EYETV戲劇,http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
 龍華戲劇,https://epg.pw/stream/f23346775194273244aa8f9e1370288a18c9d2809f03e8746d953763379b35dc.m3u8
 三立戲劇,https://epg.pw/stream/7814bf8a58f2070878c3a465bcbd7120959fe18c517a92a42d6943ada0920e19.m3u8
-三立戲劇,https://epg.pw/stream/049ee4698de273b5353e0ce9fda310b06631b3478a80563937d325c8f6af87ce.m3u8
 公視戲劇,https://epg.pw/stream/20465771bc9dbdd972f3c59e3c6645103aed450acd7f46bd1e4a9d166ee047a4.m3u8
 東森戲劇,https://epg.pw/stream/c0ad37d34a9eb21cee40998422ad7fcdffaa33171c8e0ffb7330f23d953a7588.m3u8
 緯來戲劇,https://epg.pw/stream/06af5d797b97066fba1768bb5a76b8f05f1e6b821e5f08061417c6ea62810232.m3u8
@@ -633,7 +632,6 @@ TVBS Asia,https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb
 TVBS Asia,https://epg.pw/stream/b24ea75b5547a557c9eaab14ada1cbcfc1fb2f927c682aad461678671fed6157.ctv
 TVBS Asia,https://epg.pw/stream/9f321e603a7d2e7ce1ec5043b310254e16c6ac23a521049f0b28aee1de571984.ctv
 TVBS Asia,https://epg.pw/stream/7bf245a4c5efc78cdd8c2dfefc1275e0eb779e2bbf1cfb24659b3154b6842acc.ctv
-TVBS Asia,https://epg.pw/stream/682a73ed19c05f74af508099b3bda0f58bd5a21c8ae8d08fd6802b1deae96799.ctv
 TVBS Asia,https://epg.pw/stream/445f65a11f602d65402afe687ee3b703f27ec9b1e118269f16243ea80d93dfb9.ctv
 TVBS Asia,https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
 東森財經新聞臺,https://epg.pw/stream/a190c1d788033ba288c0a3096eeb131c4ff6bff70dae66a0e6ba131fc250c28c.m3u8

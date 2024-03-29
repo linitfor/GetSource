@@ -110,6 +110,7 @@ jobs:
            rm -rf ./epg_tw.txt*
            rm -rf ./ytnew.txt*
            rm -rf ./TW1.txt*
+           rm -rf ./666.txt
 
            echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S CST')" > Update_time
           

@@ -44,6 +44,7 @@ jobs:
           #chmod +x autorun.sh
           #./autorun.sh
           wget https://epg.pw/test_channels_taiwan.txt
+          wget https://raw.githubusercontent.com/hus888yu/app/main/666.txt
           
           awk 'NR>12' ./test_channels_taiwan.txt > epg_tw.txt
 
@@ -95,6 +96,7 @@ jobs:
         run: |
           opencc -i ./TV.txt -o ./TV_TW.txt -c s2t.json
           opencc -i ./TV.txt -o ./TV_TW_tmp.txt -c s2t.json
+          opencc -i ./666.txt -o ./app.txt -c s2t.json
 
       - name: Sort TV Channel
         run: |

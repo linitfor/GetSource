@@ -382,7 +382,6 @@ ELTA體育4,https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726e
 ELTA體育3,https://z88.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
 ELTA體育3,https://epg.pw/stream/0d4cbf929dd61d2c538579b992e1422a07e07771306207a98d7067b2d8423e8d.m3u8
 ELTA體育2,https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
-ELTA體育2,https://epg.pw/stream/04896cdad36f87b7166d04fc7f32b4a4aa7cf821731fd6bd4c9c6b2142ce3438.m3u8
 ELTA體育1,https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
 ELTA體育1,https://epg.pw/stream/f457139be6bffab5c0011bbb846d655128aea21c2b0741f359fd2a1933d50a11.m3u8
 ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
@@ -420,7 +419,6 @@ TVBS新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/TVBS%E6%96%B0%
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-中視,https://epg.pw/stream/f1711cbda7de6c1897140f76268f8de35e35fc08a9efdfcb8262319cc69b66a1.m3u8
 中視,https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
 中視,https://epg.pw/stream/559f457c06a5d89cd643f39d539e6b06fe964b9b1b2e7db55a4c7a5ad64895bb.ctv
 中視,https://epg.pw/stream/48023223cf3a94ab9dcdbef7b2e3c566429aeaba44f3e41d03a955e1202ad492.m3u8

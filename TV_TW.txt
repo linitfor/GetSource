@@ -152,7 +152,6 @@ EYETV戲劇,http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724
 EYETV戲劇,http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
 龍華戲劇,https://epg.pw/stream/f23346775194273244aa8f9e1370288a18c9d2809f03e8746d953763379b35dc.m3u8
 公視戲劇,https://epg.pw/stream/20465771bc9dbdd972f3c59e3c6645103aed450acd7f46bd1e4a9d166ee047a4.m3u8
-東森戲劇,https://epg.pw/stream/c0ad37d34a9eb21cee40998422ad7fcdffaa33171c8e0ffb7330f23d953a7588.m3u8
 緯來戲劇,https://epg.pw/stream/06af5d797b97066fba1768bb5a76b8f05f1e6b821e5f08061417c6ea62810232.m3u8
 靖洋戲劇,https://epg.pw/stream/4577845e1299e7395ffb3b10a1d8a861c3e33f46cd41ec1c6cf5056a22440f95.m3u8
 龍華戲劇,https://epg.pw/stream/6dfb8189be0e3e69a2b9a63956a201bdd04ba0c3db1eeec0c20406ada33ba775.m3u8
@@ -505,7 +504,6 @@ MOMO購物2臺,https://epg.pw/stream/b658e772883312717d1b7aee42b94fdfa284cb6a702
 中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 東森戲劇臺,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
-東森戲劇,https://epg.pw/stream/c0ad37d34a9eb21cee40998422ad7fcdffaa33171c8e0ffb7330f23d953a7588.m3u8
 東森戲劇,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 東森戲劇,http://198.16.100.90:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 八大戲劇臺,https://z88.ubtvfans.com/live/rx1/81/724862d1a0b9c0b5154368d271f4789e/index.m3u8
@@ -539,7 +537,6 @@ MOMO購物1臺,https://epg.pw/stream/6469475656d65dd7311a58feae5d6512bb019b2fb4e
 東森新聞HD,https://epg.pw/stream/6ba779245d7cce247a2d52ccf40866c731947a6185f7ed61e7b28a877bbd5a18.ctv
 東森新聞,https://raw.githubusercontent.com/linitfor/YTLive/main/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E.m3u8
 東森新聞,https://raw.githubusercontent.com/MrBukLau/youtube-to-m3u8/main/streams/ebcnews.m3u8
-東森新聞,https://epg.pw/stream/cd6b62a83c3b720be3d8eb9fd353b71625cc703b26236e7e48e46fc07eacb9c9.m3u8
 東森新聞,https://epg.pw/stream/5b6b148362dea0001b704c6c6badd4ecd25e59d2e13f4e7a64a2e23ca8d77755.m3u8
 東森新聞,https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
 東森新聞,https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.m3u8

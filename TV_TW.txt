@@ -320,7 +320,6 @@ Cinemax,https://epg.pw/stream/3d3a32bbd0efc49a80d2e936d373fca86cbff35e9b88385709
 Cinemax,https://epg.pw/stream/144d9db5c46f03ecb5b638d6fa91c00f399bcd7be220c5404a6cde30d2aded49.ctv
 Cinemax,https://epg.pw/stream/455d6d99ad8f1145dc545bdda0c1982ecb925318053abe653e71e427cbd9bdaf.ctv
 Cinemax,https://epg.pw/stream/f0fac986e5693ce4f2c8e9f6c4c256c390ebc542425900e72b9698ecd32d89c6.ctv
-Cinemax,https://epg.pw/stream/ffbe3f1c3a9fcd8e952d055d2304605ba58aa0b224799c16278c180a082e1882.ctv
 Cinemax,https://epg.pw/stream/ad96da3937e706257215ac0b1d49c92c2f24beff5007e319f466ad9f3ee04145.m3u8
 Cinemax,https://epg.pw/stream/94627b7cf4a866d670f9c7aa45169d3dd60696c8032d02a460e424cb87c27cdb.ctv
 Cinemax,https://epg.pw/stream/9db8558f53ce33c466cafe335509271e1b2d0603d4de7f95060bf849974ea5c6.ctv
@@ -717,7 +716,6 @@ AXN Taiwan,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458
 好萊塢電影,https://epg.pw/stream/10245195fe86e1b6102991006aec2652c7b8deb3d53c29c014c3b836da397bc0.m3u8
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
 好萊塢電影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
-Cinemax,https://epg.pw/stream/ffbe3f1c3a9fcd8e952d055d2304605ba58aa0b224799c16278c180a082e1882.ctv
 Cinemax,https://epg.pw/stream/f0fac986e5693ce4f2c8e9f6c4c256c390ebc542425900e72b9698ecd32d89c6.ctv
 Cinemax,https://epg.pw/stream/c5fc6b0258b9b1c4dd610a33e45ca34a3a9db588928ee05e147f19c051dca054.ctv
 Cinemax,https://epg.pw/stream/ad96da3937e706257215ac0b1d49c92c2f24beff5007e319f466ad9f3ee04145.m3u8

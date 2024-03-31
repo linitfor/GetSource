@@ -290,7 +290,6 @@ HBO Signature(USA),https://epg.pw/stream/78601c2e00f146aaef59a301e04c8614ab1ec72
 HBO Signature(USA),https://epg.pw/stream/063693e4cb4838c2de007b40a856f298c9f553a91638c2921e47dc35aaf7df88.ctv
 HBO Signature(USA),https://epg.pw/stream/bc03c5e4c751e76095523fce33a82878e0be1605c68355e2a019dcdef201b8ed.ctv
 HBO Signature(USA),https://epg.pw/stream/eb04d3332e97f03cc6be149e98f83d7aa6a30371a2bbf14d306084061e0e72e1.ctv
-HBO Signature(USA),https://epg.pw/stream/7db4fa1411fc03dd2b7f4232c1a79d0a4436628d604326d15f7a06584090e0d2.ctv
 HBO Signature(USA),https://epg.pw/stream/43dd0919806d2a58215a45e898b413a7a5fa9e405aa2360e1ddfc95809adb057.ctv
 HBO Signature(USA),https://epg.pw/stream/0deb2915d916a21d93a4ce028c7e4ed9030ed84ebe604c7c5442c167d4e5dcae.ctv
 HBO Signature(USA),https://epg.pw/stream/d576abda9a5492fcecf94e243f29a744ce13d60ce8794af37a545e366062bfbf.ctv
@@ -298,8 +297,6 @@ HBO 2,https://epg.pw/stream/3eb2d1be1372ea4afafe3dbaf7d94cfcfe9cb496fe3ca8cdc469
 HBO 2,https://epg.pw/stream/deac669b5d2aaa1b57f1913f303c0cd9ad868cc728538647a386e09380bd66ed.m3u8
 HBO 2,https://epg.pw/stream/d71470e708024591a9887c9ae8c6822f64e9d1d9ce91dc8d22c86ebe24c3b2c8.ctv
 HBO 2,https://epg.pw/stream/86767ab496d22c0f8c1b4d8263a8a9fd125cf0da93a8322b2e4d8d72cf22191a.ctv
-HBO 2,https://epg.pw/stream/884a16e02f96b1d227ba42a146928fc23e2ec62e9338ad72f5f1af38c74f4b44.ctv
-HBO 2,https://epg.pw/stream/51505342a9bfcf9da37b1fc6eb0d8809ce44df3a8024756cd41899f065dfb97e.ctv
 HBO 2,https://epg.pw/stream/ce9f3aafaed7973517ba38968f4139a60ef6cae7e6afac8ba750aec2849763ab.m3u8
 HBO 2,https://epg.pw/stream/d60facfe447502f6faf2b5d07b173024ee58cc5032392efe7ec48ad8173c8bdc.ctv
 HBO 3,https://epg.pw/stream/24c877fa64fc803bc40c582eda04bcd98aa8736d7042c957336b4585cc6b7a92.ctv
@@ -334,10 +331,8 @@ Cinemax Action,https://epg.pw/stream/7cd7f166726aa9e89607573b6a93a83fcc7b049f1e6
 Cinemax Action,https://epg.pw/stream/143a0a871d1b6e171100812f9cee8aecb8f22d32cd1c7aff44ce808cf31f66b8.ctv
 Cinemax Action,https://epg.pw/stream/5c73487c1b1f416ee5276752f3ca0bbec67cd0671b0b4f7195d128692522ef7f.m3u8
 Cinemax Action,https://epg.pw/stream/0b1ea704e973d8a123f13c1586ba47170573f40a6d3a78e7d6c67cb30bb692cb.ctv
-Cinemax Action,https://epg.pw/stream/0b123291894114873c67e6b7333364058eb15681069ba1d187529e862c103219.ctv
 Cinemax Action,https://epg.pw/stream/4642dab7ca9f37652f0592f1cd4de866854689186290ddf47406f79a2efae429.ctv
 Cinemax Action,https://epg.pw/stream/35425928431c26ec198f785c51cb133473034aa218f7ed38c26b633b03ba2b29.ctv
-Cinemax Action,https://epg.pw/stream/19beb0b1b1dbd617978213982c48d83e667e1d77313afbbd2c6aa8b776d77464.ctv
 Cinemax Action,https://epg.pw/stream/c8845b3503078722af83a8421443e490370087709d8c0b604952c46556cc6179.ctv
 Cinemax Action,https://epg.pw/stream/313bd5032634302e557087dcf884c9861a3f30ee193147de2eec2370d76ad35b.ctv
 CINEMAX(TW),https://epg.pw/stream/19002e7ace1a8f7755c4a6ef0689fce93495448228312fb20c7d02a5947eafec.ctv
@@ -610,7 +605,6 @@ TVBS Asia,https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb
 TVBS Asia,https://epg.pw/stream/b24ea75b5547a557c9eaab14ada1cbcfc1fb2f927c682aad461678671fed6157.ctv
 TVBS Asia,https://epg.pw/stream/9f321e603a7d2e7ce1ec5043b310254e16c6ac23a521049f0b28aee1de571984.ctv
 TVBS Asia,https://epg.pw/stream/7bf245a4c5efc78cdd8c2dfefc1275e0eb779e2bbf1cfb24659b3154b6842acc.ctv
-TVBS Asia,https://epg.pw/stream/445f65a11f602d65402afe687ee3b703f27ec9b1e118269f16243ea80d93dfb9.ctv
 TVBS Asia,https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
 東森財經新聞臺,https://epg.pw/stream/a190c1d788033ba288c0a3096eeb131c4ff6bff70dae66a0e6ba131fc250c28c.m3u8
 東森財經新聞,https://raw.githubusercontent.com/yung598/YTList/main/57%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E.m3u8
@@ -646,9 +640,7 @@ HBO HD,https://epg.pw/stream/724a85adf3999e1c0a71a934905c823c9f3329043da842d5e0c
 HBO HD,https://epg.pw/stream/97546f80c3ce895d9c8f106f502e98028c4ae67fd91da81be0cb42ec506f90b8.ctv
 HBO HD,https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 HBO 2,https://epg.pw/stream/3eb2d1be1372ea4afafe3dbaf7d94cfcfe9cb496fe3ca8cdc469680222a3030b.m3u8
-HBO 2,https://epg.pw/stream/51505342a9bfcf9da37b1fc6eb0d8809ce44df3a8024756cd41899f065dfb97e.ctv
 HBO 2,https://epg.pw/stream/86767ab496d22c0f8c1b4d8263a8a9fd125cf0da93a8322b2e4d8d72cf22191a.ctv
-HBO 2,https://epg.pw/stream/884a16e02f96b1d227ba42a146928fc23e2ec62e9338ad72f5f1af38c74f4b44.ctv
 HBO 2,https://epg.pw/stream/ce9f3aafaed7973517ba38968f4139a60ef6cae7e6afac8ba750aec2849763ab.m3u8
 HBO 2,https://epg.pw/stream/d60facfe447502f6faf2b5d07b173024ee58cc5032392efe7ec48ad8173c8bdc.ctv
 HBO 2,https://epg.pw/stream/d71470e708024591a9887c9ae8c6822f64e9d1d9ce91dc8d22c86ebe24c3b2c8.ctv
@@ -682,7 +674,6 @@ HBO Signature(USA),https://epg.pw/stream/1bb3dfa3583a3d52517b37afa2767287147cbe4
 HBO Signature(USA),https://epg.pw/stream/1dece8233f2f03efa239859963a915eda8a81c2a696f72dd59c2c126050de288.ctv
 HBO Signature(USA),https://epg.pw/stream/43dd0919806d2a58215a45e898b413a7a5fa9e405aa2360e1ddfc95809adb057.ctv
 HBO Signature(USA),https://epg.pw/stream/78601c2e00f146aaef59a301e04c8614ab1ec722606c8f0de9931d790c9debb7.ctv
-HBO Signature(USA),https://epg.pw/stream/7db4fa1411fc03dd2b7f4232c1a79d0a4436628d604326d15f7a06584090e0d2.ctv
 HBO Signature(USA),https://epg.pw/stream/9721cfec1b7656928d7f82757d4819f11f03ba5e0ec76c8bd511fd2f008ac7a7.ctv
 HBO Signature(USA),https://epg.pw/stream/bc03c5e4c751e76095523fce33a82878e0be1605c68355e2a019dcdef201b8ed.ctv
 HBO Signature(USA),https://epg.pw/stream/c35cd6d7f88fe2a82c058311daf5fcc0fb88b7cf4e65ad1749208300989138bc.ctv
@@ -733,10 +724,8 @@ Cinemax Action,https://epg.pw/stream/460a1a43ac6bf2737319181d8e0405f3681e8d595d2
 Cinemax Action,https://epg.pw/stream/3eb5084c7c0a24489932411f208eed23805aced144eb30fd5a85c877025f02e6.ctv
 Cinemax Action,https://epg.pw/stream/35425928431c26ec198f785c51cb133473034aa218f7ed38c26b633b03ba2b29.ctv
 Cinemax Action,https://epg.pw/stream/313bd5032634302e557087dcf884c9861a3f30ee193147de2eec2370d76ad35b.ctv
-Cinemax Action,https://epg.pw/stream/19beb0b1b1dbd617978213982c48d83e667e1d77313afbbd2c6aa8b776d77464.ctv
 Cinemax Action,https://epg.pw/stream/143a0a871d1b6e171100812f9cee8aecb8f22d32cd1c7aff44ce808cf31f66b8.ctv
 Cinemax Action,https://epg.pw/stream/0b1ea704e973d8a123f13c1586ba47170573f40a6d3a78e7d6c67cb30bb692cb.ctv
-Cinemax Action,https://epg.pw/stream/0b123291894114873c67e6b7333364058eb15681069ba1d187529e862c103219.ctv
 CINEMAX(TW),https://epg.pw/stream/19002e7ace1a8f7755c4a6ef0689fce93495448228312fb20c7d02a5947eafec.ctv
 緯來育樂臺,https://z88.ubtvfans.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701

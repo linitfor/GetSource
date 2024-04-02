@@ -250,8 +250,8 @@ HBO HD,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080
 HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 HBO Signature,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 HBO Hits,http://abcnew.site:8880/3ca7123n11/ewfr543ds/71037
-HBO HD,https://epg.pw/stream/97546f80c3ce895d9c8f106f502e98028c4ae67fd91da81be0cb42ec506f90b8.ctv
 HBO HD,https://epg.pw/stream/724a85adf3999e1c0a71a934905c823c9f3329043da842d5e0cf6f942cd5b9ae.ctv
+HBO HD,https://epg.pw/stream/97546f80c3ce895d9c8f106f502e98028c4ae67fd91da81be0cb42ec506f90b8.ctv
 HBO HD USA,https://epg.pw/stream/2da4edb94e519c37e374343eecb6c7d2ce141afd08489d2757356b25efbe6e2d.ctv
 HBO HD USA,https://epg.pw/stream/0ae725a40c619f4fc70f3d835d8f9d43d1c03347ca218b4870050966f0257d95.ctv
 HBO HD USA,https://epg.pw/stream/52df12597bd13caad939ce643758583b9bfe62fe8ecfa4e4023b51d405d7894e.ctv

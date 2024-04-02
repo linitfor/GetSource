@@ -436,6 +436,7 @@ discovery channel cee hd,https://epg.pw/stream/8691024f0b37817866deb4539e1dd3e66
 discovery channel cee hd,https://epg.pw/stream/6a9357630adb8e0e9030f25b82de1e753361d6c822c33094a27c8462eadb6ae3.m3u8
 discovery channel cee hd,https://epg.pw/stream/6660b80a6b508f316b418a3ce81968759db73898ba0a261dce84ca223ec2cdd2.ctv
 discovery channel cee hd,https://epg.pw/stream/439f0a77e0adef8edcc0d5a948fb8384b391a134a0036013e58cf0bc2bfcab1e.m3u8
+discovery channel cee hd,https://epg.pw/stream/3691e4c9c5e781829bd530b40a382e355859c454dbbc7c5d3786db329953c708.ctv
 discovery channel cee hd,https://epg.pw/stream/04a408a0354c634c7cad80a9e0f90ccfebc366c4024146c243abd12f513aab4f.m3u8
 DISCOVERY SCIENCE TW,https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8
 DISCOVERY HD WORLD,https://epg.pw/stream/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8

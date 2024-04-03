@@ -253,6 +253,7 @@ HBO Hits,http://abcnew.site:8880/3ca7123n11/ewfr543ds/71037
 HBO HD,https://epg.pw/stream/97546f80c3ce895d9c8f106f502e98028c4ae67fd91da81be0cb42ec506f90b8.ctv
 HBO Family,https://epg.pw/stream/104bdb81b12cb7fca728b0f61f3e9b014cc81b200420d5b049f28a56a4767263.m3u8
 HBO Family,https://epg.pw/stream/5f6c7675f4860477f52ee6abd1cc8cba92a992c90f7b3e1ba539658ecbe07bd3.ctv
+HBO Family,https://epg.pw/stream/13bd8face5219b2990302cbc9c356639be35c19e2ef2f1025d2b1b24fac8ba07.ctv
 HBO Family,https://epg.pw/stream/7513daa08a732acbadcf9c220ba81e475f2d9b2198afd937e69adc2e53512fa0.m3u8
 HBO Family,https://epg.pw/stream/e630168962ef858be879b07867cb51209502977f929fcd0806d6c56beb4e5344.m3u8
 HBO Family(USA),https://epg.pw/stream/1c139f189e874b097083f79a9dbe4da0f0a0c7d01dbe2bd91296d9de8030f6f3.ctv
@@ -307,6 +308,7 @@ Cinemax,https://epg.pw/stream/f0fac986e5693ce4f2c8e9f6c4c256c390ebc542425900e72b
 Cinemax,https://epg.pw/stream/ad96da3937e706257215ac0b1d49c92c2f24beff5007e319f466ad9f3ee04145.m3u8
 Cinemax,https://epg.pw/stream/94627b7cf4a866d670f9c7aa45169d3dd60696c8032d02a460e424cb87c27cdb.ctv
 Cinemax,https://epg.pw/stream/c38caf5bc57de31b4e976cd2f3f4694514939ab6b57e31b61597a69045f14c60.ctv
+Cinemax,https://epg.pw/stream/0fe504edf87a4ce66d3278c2e633f67034d3efd56ef5b48ea4bd0a2ee910bc2c.ctv
 Cinemax,https://epg.pw/stream/9db8558f53ce33c466cafe335509271e1b2d0603d4de7f95060bf849974ea5c6.ctv
 Cinemax,https://epg.pw/stream/459e83e321dd2a24b8bc89811b6e715314fe4a5b6b902a4289517d7a3d47d9f2.ctv
 Cinemax,https://epg.pw/stream/61e89ad1fbb7030929824b3190c5f64df906ccfb7bd5a0d8c25fae97dd8334e0.m3u8
@@ -647,6 +649,7 @@ HBO Family(USA),https://epg.pw/stream/937c30f32ea757d5095a53a3c47ff19e0e3e6bccf3
 HBO Family(USA),https://epg.pw/stream/b14a909e492cb06910a980e869428b5dd77c2e290a3a17140ad6a82a6edb3809.ctv
 HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 HBO Family,https://epg.pw/stream/104bdb81b12cb7fca728b0f61f3e9b014cc81b200420d5b049f28a56a4767263.m3u8
+HBO Family,https://epg.pw/stream/13bd8face5219b2990302cbc9c356639be35c19e2ef2f1025d2b1b24fac8ba07.ctv
 HBO Family,https://epg.pw/stream/5f6c7675f4860477f52ee6abd1cc8cba92a992c90f7b3e1ba539658ecbe07bd3.ctv
 HBO Family,https://epg.pw/stream/7513daa08a732acbadcf9c220ba81e475f2d9b2198afd937e69adc2e53512fa0.m3u8
 HBO Family,https://epg.pw/stream/e630168962ef858be879b07867cb51209502977f929fcd0806d6c56beb4e5344.m3u8
@@ -702,6 +705,7 @@ Cinemax,https://epg.pw/stream/455d6d99ad8f1145dc545bdda0c1982ecb925318053abe653e
 Cinemax,https://epg.pw/stream/3d3a32bbd0efc49a80d2e936d373fca86cbff35e9b88385709590276cd34580f.ctv
 Cinemax,https://epg.pw/stream/2a975eb330fa4e1378c105d256ace5cd912b134e65fa49acdd97af7cf632c298.m3u8
 Cinemax,https://epg.pw/stream/144d9db5c46f03ecb5b638d6fa91c00f399bcd7be220c5404a6cde30d2aded49.ctv
+Cinemax,https://epg.pw/stream/0fe504edf87a4ce66d3278c2e633f67034d3efd56ef5b48ea4bd0a2ee910bc2c.ctv
 Cinemax,https://epg.pw/stream/012a5f72f5e2658ae2c268c434f10001fb449507532a4c202f589a76ef09665b.ctv
 Cinemax Action,https://epg.pw/stream/c8845b3503078722af83a8421443e490370087709d8c0b604952c46556cc6179.ctv
 Cinemax Action,https://epg.pw/stream/94f3d3f51338aee0a76d002df51cc14347287eadca88810ab9edc1d5b23377e3.ctv

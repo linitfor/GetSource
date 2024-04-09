@@ -45,6 +45,9 @@ jobs:
           #./autorun.sh
           wget https://epg.pw/test_channels_taiwan.txt
           wget https://raw.githubusercontent.com/hus888yu/app/main/666.txt
+          wget https://raw.githubusercontent.com/alantang1977/X/main/LIVE/%E6%99%B4%E5%A4%A9.txt
+
+          mv %E6%99%B4%E5%A4%A9.txt ETH_cn.txt
           
           awk 'NR>12' ./test_channels_taiwan.txt > epg_tw.txt
 
@@ -98,6 +101,7 @@ jobs:
           opencc -i ./TV.txt -o ./TV_TW.txt -c s2t.json
           opencc -i ./TV.txt -o ./TV_TW_tmp.txt -c s2t.json
           opencc -i ./666.txt -o ./app.txt -c s2t.json
+          opencc -i ./ETH_cn.txt -o ./ETH.txt -c s2t.json
 
       - name: Sort TV Channel
         run: |
@@ -112,6 +116,7 @@ jobs:
            rm -rf ./ytnew.txt*
            rm -rf ./TW1.txt*
            rm -rf ./666.txt
+           rm -rf ./ETH_cn.txt
 
            echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S CST')" > Update_time
           

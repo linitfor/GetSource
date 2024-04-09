@@ -45,9 +45,9 @@ jobs:
           #./autorun.sh
           wget https://epg.pw/test_channels_taiwan.txt
           wget https://raw.githubusercontent.com/hus888yu/app/main/666.txt
-          wget https://raw.githubusercontent.com/alantang1977/X/main/LIVE/%E6%99%B4%E5%A4%A9.txt
+          wget https://raw.githubusercontent.com/alantang1977/X/main/LIVE/晴天.txt
 
-          mv %E6%99%B4%E5%A4%A9.txt ETH_cn.txt
+          mv ./晴天.txt ./ETH_cn.txt
           
           awk 'NR>12' ./test_channels_taiwan.txt > epg_tw.txt
 

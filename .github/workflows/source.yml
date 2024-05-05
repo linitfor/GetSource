@@ -81,7 +81,7 @@ jobs:
           #rm -rf ./test_channels_movies.txt*
           #rm -rf ./test_channels_united_states.txt*
           #rm -rf ./TW_only.txt*
-          #rm -rf ./epg_tw.txt*
+          rm -rf ./epg_tw.txt*
           #rm -rf ./ytnew.txt*
           rm -rf ./TW1.txt*
 

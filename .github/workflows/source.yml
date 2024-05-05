@@ -83,7 +83,7 @@ jobs:
           #rm -rf ./TW_only.txt*
           #rm -rf ./epg_tw.txt*
           #rm -rf ./ytnew.txt*
-          #rm -rf ./TW1.txt*
+          rm -rf ./TW1.txt*
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2

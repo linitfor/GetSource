@@ -119,10 +119,12 @@ jobs:
            rm -rf ./ETH_cn.txt
 
           ##echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S CST')" > Update_time
-
-          # 节目源
-          rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
-          echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
+    
+           echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S CST')"
+           
+           # 节目源            
+           rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
+           echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
           
       - name: git add
         run: |
